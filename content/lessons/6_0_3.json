@@ -2093,7 +2093,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "sxPSoWM3rDY7OPHys_N8UE8Lp3c",
+            "etag": "-MzCPw9ySBnL-oNomGMH3wnCcWc",
             "id": "UExFRDREai1UNDNyUHdwTkcyT0RsejQ5WHp3TUIzWUlFRC5DNkMwRUI2MkI4QkI4NDFG",
             "snippet": {
                 "publishedAt": "2023-06-09T17:54:42Z",
@@ -4031,6 +4031,6 @@
         }
     ],
     "title": "مقاصد السور الدورة الثانية (2)",
-    "nav": "مقاصد السور الدورة الثانية (2)",
+    "nav": "مقاصد السور الدورة الثانية 2",
     "id": "6_0_3"
 }
