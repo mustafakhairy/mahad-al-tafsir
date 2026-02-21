@@ -1,0 +1,145 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Yfetrh9HU7w2J673ACtUBFMxbVM",
+            "id": "UExFRDREai1UNDNyT1c4dUl0cUptc0pKZ3FuaTVXclZoQS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-05-21T21:00:09Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مراجعة المشتقات لمادة التوجيهي مهارات",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V9-OIoMqCm8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V9-OIoMqCm8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V9-OIoMqCm8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V9-OIoMqCm8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOW8uItqJmsJJgqni5WrVhA",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V9-OIoMqCm8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "V9-OIoMqCm8",
+                "videoPublishedAt": "2021-05-21T21:28:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ajz2vPSv7Q8skLy9yZ53e6BAIdw",
+            "id": "UExFRDREai1UNDNyT1c4dUl0cUptc0pKZ3FuaTVXclZoQS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-05-28T20:29:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "مراجعة المشتقات لمادة التوجيهي مهارات 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i1Erx1DKxm0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i1Erx1DKxm0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i1Erx1DKxm0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i1Erx1DKxm0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOW8uItqJmsJJgqni5WrVhA",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "i1Erx1DKxm0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "i1Erx1DKxm0",
+                "videoPublishedAt": "2021-05-28T20:47:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rV0Ou910it0Yv-KYPK2pUUAurmc",
+            "id": "UExFRDREai1UNDNyT1c4dUl0cUptc0pKZ3FuaTVXclZoQS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-06-04T10:30:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "الدرس الثالث : في النحو والصرف والعروض",
+                "description": "في النحو والصرف والعروض: البحر الوافر والمتقارب والرجز",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cw6p4dSKE-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cw6p4dSKE-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cw6p4dSKE-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cw6p4dSKE-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOW8uItqJmsJJgqni5WrVhA",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cw6p4dSKE-U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "cw6p4dSKE-U",
+                "videoPublishedAt": "2021-06-04T10:45:31Z"
+            }
+        }
+    ],
+    "title": "مراجعات النحو والصرف للثانوية العامة (التوجيهي)",
+    "nav": "مراجعات النحو والصرف للثانوية العامة (التوجيهي)",
+    "id": "2_1_3"
+}

@@ -1,0 +1,3343 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vBaUaKe3yqJS81K7KuxmhDg-fHw",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2023-09-02T11:33:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر(1) التعريف بابن هشام وشروح الكتاب",
+                "description": "علي_هاني_العقرباوي\nالمستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hWdOP4C-RVY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hWdOP4C-RVY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hWdOP4C-RVY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hWdOP4C-RVY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hWdOP4C-RVY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hWdOP4C-RVY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hWdOP4C-RVY",
+                "videoPublishedAt": "2020-12-27T20:41:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "znBcGQ9k8JaeWx1aNyVuQKfwfBA",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-12-27T20:45:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر(2) مقدمة ابن هشام",
+                "description": "علي_هاني_العقرباوي\nالمستوى الحادي عشر في سلسلة دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/45wGbPLWTLM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/45wGbPLWTLM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/45wGbPLWTLM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/45wGbPLWTLM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/45wGbPLWTLM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "45wGbPLWTLM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "45wGbPLWTLM",
+                "videoPublishedAt": "2020-12-27T20:45:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iUfMr53LU6PHfzls7Daju7d-xiI",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-12-27T20:47:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (3) تعريف الكلمة",
+                "description": "علي_هاني_العقرباوي\nالمستوى الحادي عشر في سلسلة دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rk2R48Ats38/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rk2R48Ats38/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rk2R48Ats38/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rk2R48Ats38/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rk2R48Ats38/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rk2R48Ats38"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "rk2R48Ats38",
+                "videoPublishedAt": "2020-12-27T20:47:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x8kDd4PVqOgChVnJcdUsdL-3e2E",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2020-12-27T20:43:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  على القطر (4)علامات الاسم",
+                "description": "علي_هاني_العقرباوي\nالمستوى الحادي عشر في سلسلة دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eWOWIEBryuc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eWOWIEBryuc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eWOWIEBryuc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eWOWIEBryuc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eWOWIEBryuc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eWOWIEBryuc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "eWOWIEBryuc",
+                "videoPublishedAt": "2020-12-27T20:48:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yqKnr2OhLsM_eNi1XDiBgUzxiDA",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2021-02-06T09:34:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام على قطر الندى (5) مراجعة علامات الاسم",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع في دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UwEv3XAjXa0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UwEv3XAjXa0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UwEv3XAjXa0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UwEv3XAjXa0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UwEv3XAjXa0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UwEv3XAjXa0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "UwEv3XAjXa0",
+                "videoPublishedAt": "2021-02-06T09:38:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5D6EjmGOCnwbEi3qiOX9VpwCgeQ",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2021-02-06T09:32:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام على قطر الندى (6) المعرب والمبني",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع في دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5)  ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dZb6sGdtoSg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dZb6sGdtoSg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dZb6sGdtoSg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dZb6sGdtoSg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dZb6sGdtoSg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dZb6sGdtoSg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "dZb6sGdtoSg",
+                "videoPublishedAt": "2021-02-06T09:39:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EksNyW4vVkGhObAAnzL0Oyi9xJI",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2021-02-14T18:16:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام على قطر الندى (7) أحد عشر وأخواتاه وقبل وبعد",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع  في سلسلة دراسة النحو،1) مبادئ دروس العربية النحو 2) التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4)  التسهيل على الآجرومية/ علي هاني 5)   متممة الآجرومية 6) النحو الوظيفي/ عبد العليم إبراهيم 7)  شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) شذور الذهب/ ابن هشام 9)  موصل الطلاب إلى قواعد الإعراب/ خالد الأزهري 10)  ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح لخالد الأزهري) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-vZuIniN23M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-vZuIniN23M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-vZuIniN23M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-vZuIniN23M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-vZuIniN23M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-vZuIniN23M"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-vZuIniN23M",
+                "videoPublishedAt": "2021-02-14T18:20:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "45GMk0S7o5yyXohEgZw3NNislAc",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2021-03-07T09:47:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام على قطر الندى (8)تكملة قبل وبعد وأحوال الفعل الماضي",
+                "description": "هذا بحث بعد ومن بعد\nhttps://drive.google.com/file/d/1_nUHWOxh-dBcIGWWby9juqJ7Nj_GJp26/view?usp=sharing\nهذا بحث قبل ومن قبل\nhttps://drive.google.com/file/d/1-r4ar_Mikzl1N3xqEbz54jdE_JGSjMTP/view?usp=sharing\nهذا بحث فوق ومن فوق\nhttps://drive.google.com/file/d/1vAYz5V5jMS1H2y10vjopdSq7WuI_y7HY/view?usp=sharing\nعلي_هاني_العقرباوي\nالمستوى السابع  في سلسلة دراسة النحو،1) مبادئ دروس العربية النحو 2) التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4)  التسهيل على الآجرومية/ علي هاني 5)   متممة الآجرومية 6) النحو الوظيفي/ عبد العليم إبراهيم 7)  شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) شذور الذهب/ ابن هشام 9)  موصل الطلاب إلى قواعد الإعراب/ خالد الأزهري 10)  ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح لخالد الأزهري) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q61-4Uw9jMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q61-4Uw9jMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q61-4Uw9jMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q61-4Uw9jMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q61-4Uw9jMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Q61-4Uw9jMU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Q61-4Uw9jMU",
+                "videoPublishedAt": "2021-03-07T09:49:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B05NwUY7nRuORwu6GDweFB9lfYk",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2021-03-08T20:27:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام على قطر الندى (9) حالات بناء الأمر",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع  في سلسلة دراسة النحو،1) مبادئ دروس العربية النحو 2) التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4)  التسهيل على الآجرومية/ علي هاني 5)   متممة الآجرومية 6) النحو الوظيفي/ عبد العليم إبراهيم 7)  شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) شذور الذهب/ ابن هشام 9)  موصل الطلاب إلى قواعد الإعراب/ خالد الأزهري 10)  ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح لخالد الأزهري) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O3V1IfLxYyc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O3V1IfLxYyc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O3V1IfLxYyc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O3V1IfLxYyc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/O3V1IfLxYyc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O3V1IfLxYyc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "O3V1IfLxYyc",
+                "videoPublishedAt": "2021-03-08T20:33:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BbEF62sMBQYNL9U9aT9r5iLa5oA",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2021-03-08T20:28:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام على قطر الندى (10) حالات إعراب وبناء المضارع",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع  في سلسلة دراسة النحو،1) مبادئ دروس العربية النحو 2) التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4)  التسهيل على الآجرومية/ علي هاني 5)   متممة الآجرومية 6) النحو الوظيفي/ عبد العليم إبراهيم 7)  شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) شذور الذهب/ ابن هشام 9)  موصل الطلاب إلى قواعد الإعراب/ خالد الأزهري 10)  ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح لخالد الأزهري) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UhOZsCAUa14/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UhOZsCAUa14/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UhOZsCAUa14/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UhOZsCAUa14/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UhOZsCAUa14/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UhOZsCAUa14"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "UhOZsCAUa14",
+                "videoPublishedAt": "2021-03-08T20:38:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KEuFx6PdkZLWg8Q7mvSO4qfu0qQ",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2021-03-16T22:31:00Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام لقطر الندى (11) الحرف وعلامته والخلاف في (مهما)",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع  في سلسلة دراسة النحو،1) مبادئ دروس العربية النحو 2) التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4)  التسهيل على الآجرومية/ علي هاني 5)   متممة الآجرومية 6) النحو الوظيفي/ عبد العليم إبراهيم 7)  شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) شذور الذهب/ ابن هشام 9)  موصل الطلاب إلى قواعد الإعراب/ خالد الأزهري 10)  ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح لخالد الأزهري) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3y3qSdDZHjk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3y3qSdDZHjk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3y3qSdDZHjk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3y3qSdDZHjk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3y3qSdDZHjk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3y3qSdDZHjk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3y3qSdDZHjk",
+                "videoPublishedAt": "2021-03-16T22:37:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h9DEBwesGUOX4ccI0Fpf21s-w5M",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2021-03-16T16:50:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام لقطر الندى (12) الخلاف في (ما) و(لما)",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع  في سلسلة دراسة النحو،1) مبادئ دروس العربية النحو 2) التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4)  التسهيل على الآجرومية/ علي هاني 5)   متممة الآجرومية 6) النحو الوظيفي/ عبد العليم إبراهيم 7)  شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) شذور الذهب/ ابن هشام 9)  موصل الطلاب إلى قواعد الإعراب/ خالد الأزهري 10)  ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح لخالد الأزهري) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zm4rncKPp6g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zm4rncKPp6g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zm4rncKPp6g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zm4rncKPp6g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zm4rncKPp6g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Zm4rncKPp6g"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Zm4rncKPp6g",
+                "videoPublishedAt": "2021-03-16T16:51:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nmtW3MjIKJMtqX36Pr56sLv8JIs",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2021-05-22T20:31:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  لقطر الندى 13) تعريف الكلام",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع  في سلسلة دراسة النحو،1) مبادئ دروس العربية النحو 2) التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4)  التسهيل على الآجرومية/ علي هاني 5)   متممة الآجرومية 6) النحو الوظيفي/ عبد العليم إبراهيم 7)  شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) شذور الذهب/ ابن هشام 9)  موصل الطلاب إلى قواعد الإعراب/ خالد الأزهري 10)  ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح لخالد الأزهري) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VtV5t_2LOPc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VtV5t_2LOPc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VtV5t_2LOPc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VtV5t_2LOPc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VtV5t_2LOPc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VtV5t_2LOPc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "VtV5t_2LOPc",
+                "videoPublishedAt": "2021-05-22T20:41:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wZiiP7qPFMl9_tkKMsOxnH7cIIk",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2021-05-22T20:34:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  على القطر (14) أنواع الإعراب",
+                "description": "علي_هاني_العقرباوي\nالمستوى السابع  في سلسلة دراسة النحو،1) مبادئ دروس العربية النحو 2) التوضيح على الآجرومية علي هاني 3) متن الآجرومية 4)  التسهيل على الآجرومية/ علي هاني 5)   متممة الآجرومية 6) النحو الوظيفي/ عبد العليم إبراهيم 7)  شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) شذور الذهب/ ابن هشام 9)  موصل الطلاب إلى قواعد الإعراب/ خالد الأزهري 10)  ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح لخالد الأزهري) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16)  ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gUHcjMdBD7c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gUHcjMdBD7c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gUHcjMdBD7c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gUHcjMdBD7c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gUHcjMdBD7c"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "gUHcjMdBD7c",
+                "videoPublishedAt": "2021-05-22T20:35:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "e4Dgnf8WI2usmSRwRNUZMzUGSqI",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2023-09-05T12:05:00Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام على قطر الندى (15) الأسماء الخمسة",
+                "description": "هذه دورة مهمة تأتي في المستوى الثاني لشرح متن قطر الندى، والدورة الأولى كانت في شرح المتن وهذه في شرح ابن هشام للقطر ثم بعدها الدورة الثالثة في شرح الفاكهي للقطر، وتميزت هذه الدورة بالسهولة وبعرض أهم المسائل مع التحقيق.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3an16tfufUI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3an16tfufUI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3an16tfufUI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3an16tfufUI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3an16tfufUI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3an16tfufUI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3an16tfufUI",
+                "videoPublishedAt": "2023-09-05T12:05:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3hC9f5HHNpDYnOWB6zb__--jRGU",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2021-08-16T15:18:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (16) المثنى وجمع المذكر السالم من ش ابن هشام",
+                "description": "قطر الندى ,  شرح قطر الندى ,   لقطر لابن هشام, متن قطر الندى,  شرح سريع لمتن القطر, قطر الندى وبل الصدى,  ابن هشام الأنصاري ,  شرح علي هاني لقطر الندى\nشرح علي هاني العقرباوي للقطر ,   شرح تفصيلي لمتن القطر , التفاؤل في تحويل القطر إلى جداول,  ابن هشام على الألفية , منهج تدريجي للنحو,  شرح قطر ابن هشام , شرح الفاكهي",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IMndPpHotrg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IMndPpHotrg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IMndPpHotrg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IMndPpHotrg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IMndPpHotrg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "IMndPpHotrg",
+                "videoPublishedAt": "2021-08-16T15:22:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UlNsR6Fa9j9OwgvMo0m-P9KcVvI",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2022-02-14T21:38:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر (17) جمع المؤنث  السالم  الجزء الأول",
+                "description": "إعلي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،16) ثم مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/C5JDFR3NbNY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/C5JDFR3NbNY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/C5JDFR3NbNY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/C5JDFR3NbNY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "C5JDFR3NbNY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "C5JDFR3NbNY",
+                "videoPublishedAt": "2022-02-14T21:38:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OYDxXbcKZ1LDWkQ_a_Lc3siLK5U",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2022-06-08T22:10:35Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (18) تتمة جمع المؤنث السالم من ابن هشام",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/inR1Yv2KUTw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/inR1Yv2KUTw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/inR1Yv2KUTw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/inR1Yv2KUTw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/inR1Yv2KUTw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "inR1Yv2KUTw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "inR1Yv2KUTw",
+                "videoPublishedAt": "2022-06-08T22:11:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_xfMa4BMRYWEZKCH34RmhlMF6Xo",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2023-09-02T15:13:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (19)الممنوع من الصرف من شرح ابن هشام",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/74cJKlXqohk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/74cJKlXqohk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/74cJKlXqohk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/74cJKlXqohk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "74cJKlXqohk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "74cJKlXqohk",
+                "videoPublishedAt": "2022-06-08T22:08:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "PtRHT2t9woauG4HTMMVmBfbdBv0",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2022-06-08T22:23:35Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (20) الأفعال الخمسة والفعل المعتل الآخر من ابن هشام",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZUP7mN1qM9k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZUP7mN1qM9k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZUP7mN1qM9k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZUP7mN1qM9k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZUP7mN1qM9k/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZUP7mN1qM9k"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ZUP7mN1qM9k",
+                "videoPublishedAt": "2022-06-08T22:23:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "e0mffgmKJMi9l3fPzy80iOEDGqE",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2022-06-08T22:25:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (21) الإعراب التقديري من ابن هشام",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z5R_mETPh_Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z5R_mETPh_Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z5R_mETPh_Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z5R_mETPh_Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "z5R_mETPh_Y"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "z5R_mETPh_Y",
+                "videoPublishedAt": "2022-06-08T22:25:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FlUc-Efh-BToBtsSxeSnDc7Jag8",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2022-06-08T22:40:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (22) المضارع المرفوع",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3fu-d2b7aUM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3fu-d2b7aUM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3fu-d2b7aUM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3fu-d2b7aUM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3fu-d2b7aUM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3fu-d2b7aUM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3fu-d2b7aUM",
+                "videoPublishedAt": "2022-06-08T22:40:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5DTT50l79RJ_8KABKIA15jJaPt4",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2022-06-08T22:32:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (23) حالات )(أن) المصدرية باعتبار ما قبلها",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E8mEj3P3xI0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E8mEj3P3xI0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E8mEj3P3xI0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E8mEj3P3xI0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E8mEj3P3xI0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E8mEj3P3xI0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "E8mEj3P3xI0",
+                "videoPublishedAt": "2022-06-08T22:33:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x39kTaeD8gnm6C28JkPQq0vuTjM",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2022-06-08T22:34:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (24) وجوب إضمار (أن) بعد حتى ولام الجحود",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bMOM63rgIeQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bMOM63rgIeQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bMOM63rgIeQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bMOM63rgIeQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bMOM63rgIeQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bMOM63rgIeQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "bMOM63rgIeQ",
+                "videoPublishedAt": "2022-06-08T22:35:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1I70kHjt_Fb0mZoKkJVDyPO8ZQ0",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2022-06-08T22:29:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر (25) فاء السببية وواو المعية",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lGqnA_CTk9Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lGqnA_CTk9Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lGqnA_CTk9Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lGqnA_CTk9Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lGqnA_CTk9Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "lGqnA_CTk9Y"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "lGqnA_CTk9Y",
+                "videoPublishedAt": "2022-06-08T22:37:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zlywvvgRTpGsNRKqSBFznBWR9yU",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2022-06-08T22:31:02Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام  للقطر (26) تكملة واو المعية",
+                "description": "علي_هاني_العقرباوي المستوى الحادي عشر في سلسلة دراسة النحو شرح ابن هشام والفاكهي على القطر،1) فأولًا مبادئ النحو ثم 2) م التوضيح على الآجرومية علي هاني 3) ثم متن الآجرومية 4) ثم التسهيل على الآجرومية 5) ثم متممة الآجرومية 6)ثم النحو الوظيفي 7) ثم شرح متن قطر الندى ثم شرح ابن هشام والفاكهي على قطر الندى 8) ثم شذور الذهب 9) ثم موصل الطلاب إلى قواعد الإعراب 10) ثم ألفية ابن مالك بشرح ابن عقيل 11) ألفية ابن مالك بشرح الأشموني 12) ألفية ابن مالك بشرح ابن هشام (أوضح المسالك مع التصريح) 14) ألفية ابن مالك بشرح السيوطي 15) تسهيل الفوائد لابن مالك بشرح ابن عقيل (المساعد شرح تسهيل الفوائد)،   16ـ مغني اللبيب لابن هشام .",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7UaVEAgCFw0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7UaVEAgCFw0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7UaVEAgCFw0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7UaVEAgCFw0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7UaVEAgCFw0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "7UaVEAgCFw0",
+                "videoPublishedAt": "2022-06-08T22:31:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FApGxTk50p6duyUzXyO3blH8pg8",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2024-03-28T13:11:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(27) باب الجوازم",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E6CzBcivLEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E6CzBcivLEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E6CzBcivLEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E6CzBcivLEc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E6CzBcivLEc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E6CzBcivLEc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "E6CzBcivLEc",
+                "videoPublishedAt": "2024-03-28T13:20:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kn-RUUi2SpnzHxQ0khzwSULAumc",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:25:46Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(28) تكملة باب الجوازم",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ihkOTbAM_Bw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ihkOTbAM_Bw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ihkOTbAM_Bw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ihkOTbAM_Bw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ihkOTbAM_Bw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ihkOTbAM_Bw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ihkOTbAM_Bw",
+                "videoPublishedAt": "2024-03-28T15:25:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vGYf65tUcvJYMf2_w6dEtaA2mKM",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2024-03-28T13:14:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(29) باب العلم والضمير",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Scv7AsC0y9A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Scv7AsC0y9A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Scv7AsC0y9A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Scv7AsC0y9A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Scv7AsC0y9A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Scv7AsC0y9A"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Scv7AsC0y9A",
+                "videoPublishedAt": "2024-03-28T15:09:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-h3VgTBg8uWlKjYlJPWSAGijKbw",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:26:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(30) باب العلم",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ddmj1k88X1c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ddmj1k88X1c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ddmj1k88X1c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ddmj1k88X1c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ddmj1k88X1c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ddmj1k88X1c"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Ddmj1k88X1c",
+                "videoPublishedAt": "2024-03-28T15:25:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5p5sndqu2LCV83lbBdXMh_vzyLw",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:26:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(31) باب الموصول",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/61RohVSvaFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/61RohVSvaFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/61RohVSvaFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/61RohVSvaFw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/61RohVSvaFw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "61RohVSvaFw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "61RohVSvaFw",
+                "videoPublishedAt": "2024-03-28T15:28:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lqFcRSrZP9L3vbiz4QIisJ2vJZg",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:27:00Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(32) باب صلة الموصول",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EhpYmoaCWNA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EhpYmoaCWNA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EhpYmoaCWNA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EhpYmoaCWNA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EhpYmoaCWNA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EhpYmoaCWNA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "EhpYmoaCWNA",
+                "videoPublishedAt": "2024-03-28T15:28:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bOhY2JawRyg6-GtXCtt8633slrk",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:27:46Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(33) المعرف بـ(أل)",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZEJe1FDbboM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZEJe1FDbboM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZEJe1FDbboM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZEJe1FDbboM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZEJe1FDbboM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZEJe1FDbboM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ZEJe1FDbboM",
+                "videoPublishedAt": "2024-03-28T15:30:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WjBYeTjMOhYhODImdtPP0uS26XA",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4zNDIxRUJGQThFRTg1QzAy",
+            "snippet": {
+                "publishedAt": "2024-04-24T20:08:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(34) باب المبتدأ والخبر",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UqaEjUdmLvg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UqaEjUdmLvg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UqaEjUdmLvg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UqaEjUdmLvg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UqaEjUdmLvg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "UqaEjUdmLvg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "UqaEjUdmLvg",
+                "videoPublishedAt": "2024-04-24T20:19:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QD-tl9h12SWo5sv3XsQc_MVGToA",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4wN0FBRUVFNEVBMTZBQ0Mx",
+            "snippet": {
+                "publishedAt": "2024-04-24T20:21:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(35) تكملة  باب المبتدأ والخبر",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EzgZY8kjfZk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EzgZY8kjfZk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EzgZY8kjfZk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EzgZY8kjfZk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EzgZY8kjfZk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EzgZY8kjfZk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "EzgZY8kjfZk",
+                "videoPublishedAt": "2024-04-24T20:23:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7PPSF-h67rweghtXQ4Qzo4ia-Y8",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2024-03-28T13:25:35Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(36) باب النواسخ.",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9lm929F9Ezs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9lm929F9Ezs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9lm929F9Ezs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9lm929F9Ezs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9lm929F9Ezs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9lm929F9Ezs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9lm929F9Ezs",
+                "videoPublishedAt": "2024-03-28T15:01:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Z7jAnP4EZ6dmwV86EMJiw0yj_6g",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2024-03-28T14:57:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(37) باب (كان) وأخواتها",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JIL9qrKqhy4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JIL9qrKqhy4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JIL9qrKqhy4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JIL9qrKqhy4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JIL9qrKqhy4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JIL9qrKqhy4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "JIL9qrKqhy4",
+                "videoPublishedAt": "2024-03-28T14:58:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zUMvwEn_od5b4okLLoe721aCzZU",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2024-03-28T14:59:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(38) الأحرف المشبهة بـ(ليس)",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mrj84BewGK0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mrj84BewGK0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mrj84BewGK0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mrj84BewGK0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mrj84BewGK0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mrj84BewGK0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "mrj84BewGK0",
+                "videoPublishedAt": "2024-03-28T15:08:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HzZRtxQYKSrdMY5_EZgv8_eEfAU",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4xNjIyNEE0MDEyRDlCMjBE",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:44:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(39) باب (إنَّ) وأخواتها",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MKrLiryzW_w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MKrLiryzW_w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MKrLiryzW_w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MKrLiryzW_w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MKrLiryzW_w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MKrLiryzW_w"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MKrLiryzW_w",
+                "videoPublishedAt": "2024-03-28T15:39:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nwEQTBWSDFFfOGaoMfHi92KChTs",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4zQTkzRjgxRTY0OEU0MkM3",
+            "snippet": {
+                "publishedAt": "2024-03-28T16:31:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(40) تخفيف (أنًّ) و(كأنَّ)",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mpXQfhnoGcY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mpXQfhnoGcY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mpXQfhnoGcY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mpXQfhnoGcY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mpXQfhnoGcY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mpXQfhnoGcY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "mpXQfhnoGcY",
+                "videoPublishedAt": "2024-03-28T16:31:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ni8dvplM6nxxD2GyZD9Odt7wDO4",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:30:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(41) كسر همزة (إنَّ)",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_6EhVPdFZgs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_6EhVPdFZgs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_6EhVPdFZgs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_6EhVPdFZgs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_6EhVPdFZgs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_6EhVPdFZgs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "_6EhVPdFZgs",
+                "videoPublishedAt": "2024-03-28T15:37:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "WjC_CRZPvFWxNDqN8mDeSvjSH0c",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:31:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر)42) باب (لا) النافية للجنس",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WNnQpTtD90w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WNnQpTtD90w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WNnQpTtD90w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WNnQpTtD90w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WNnQpTtD90w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WNnQpTtD90w"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WNnQpTtD90w",
+                "videoPublishedAt": "2024-03-28T15:39:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MlJNUiCdBFyolnB6lTCDCcAeZbU",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5CMEVBRUJERkUyNTBENTkz",
+            "snippet": {
+                "publishedAt": "2024-03-28T15:32:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(43) باب (ظنَّ) وأخواته",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MP10b6uuk6U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MP10b6uuk6U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MP10b6uuk6U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MP10b6uuk6U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MP10b6uuk6U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MP10b6uuk6U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MP10b6uuk6U",
+                "videoPublishedAt": "2024-03-28T15:39:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xICPXjw_HH4OTT09Ant87XNKJsI",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4xNTZBNUQxMDZBQzFGMjkw",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:45:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(44) باب الفاعل",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OYFwMzIRqyY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OYFwMzIRqyY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OYFwMzIRqyY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OYFwMzIRqyY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OYFwMzIRqyY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OYFwMzIRqyY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "OYFwMzIRqyY",
+                "videoPublishedAt": "2024-04-22T09:06:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "R_z6HH4rNcjb-W2oPXQMFtsrGPQ",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4wMDFGNzBEOTU4Q0Y1Q0RG",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:48:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(45) باب نائب الفاعل",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j98kZfPjE_Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j98kZfPjE_Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j98kZfPjE_Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j98kZfPjE_Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j98kZfPjE_Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "j98kZfPjE_Q"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "j98kZfPjE_Q",
+                "videoPublishedAt": "2024-04-22T08:53:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gBIuRcV9JK4poA8QKb5YRqyYHTI",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai44QTA1QTQyRTc3M0VGQzYx",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:49:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(46) باب الاشتغال",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VEKOm_7oEM0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VEKOm_7oEM0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VEKOm_7oEM0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VEKOm_7oEM0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/VEKOm_7oEM0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VEKOm_7oEM0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "VEKOm_7oEM0",
+                "videoPublishedAt": "2024-04-22T08:54:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3U0rz_OJa8GvFTqK-67auN771-Q",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai44MkM2RjVEQkQ5N0I2MjVE",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:50:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(47) باب التنازع",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_8luAwmQfc4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_8luAwmQfc4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_8luAwmQfc4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_8luAwmQfc4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_8luAwmQfc4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_8luAwmQfc4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "_8luAwmQfc4",
+                "videoPublishedAt": "2024-04-22T09:05:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Krrxvad91oge9K3pXtZbnASYA2Y",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai40NzE2MTY1QTM3RUI3QkU3",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:51:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(48) المفاعيل والمنادى",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7gvIK-yfdBY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7gvIK-yfdBY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7gvIK-yfdBY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7gvIK-yfdBY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7gvIK-yfdBY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7gvIK-yfdBY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "7gvIK-yfdBY",
+                "videoPublishedAt": "2024-04-22T09:06:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vFBJcwAfytl_QtJi9mEk68aA5GM",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5EMzJDRTUwQjBEOUVFQzAw",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:52:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(49) تابع المنادى",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P6yRIz3dDCk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P6yRIz3dDCk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P6yRIz3dDCk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P6yRIz3dDCk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P6yRIz3dDCk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "P6yRIz3dDCk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "P6yRIz3dDCk",
+                "videoPublishedAt": "2024-04-22T09:13:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Fo9R6rvmK8uBbBHm1qxrYUHN4N8",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5CMUM0NzY5NzdEQzlGRjAx",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:53:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(50) باب الترخيم",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4sSShiS9uhk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4sSShiS9uhk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4sSShiS9uhk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4sSShiS9uhk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4sSShiS9uhk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4sSShiS9uhk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4sSShiS9uhk",
+                "videoPublishedAt": "2024-04-22T09:02:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kg03Mpphn5YbE0nvZKMZOv0aOXo",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5GMDBDNkJGMzYzREUyMTYw",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:54:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(51) الاستغاثة والندبة",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PtoUzMrrYoY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PtoUzMrrYoY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PtoUzMrrYoY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PtoUzMrrYoY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PtoUzMrrYoY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PtoUzMrrYoY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "PtoUzMrrYoY",
+                "videoPublishedAt": "2024-04-22T09:10:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ALrWi1pWSSMj_j9l1UOQdIW-whI",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4wQUE0QzM4MkJGQ0YwQjUx",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:56:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(52) المفعول المطلق",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/10HTkqvxs-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/10HTkqvxs-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/10HTkqvxs-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/10HTkqvxs-Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/10HTkqvxs-Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "10HTkqvxs-Q"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "10HTkqvxs-Q",
+                "videoPublishedAt": "2024-04-22T09:02:48Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yt1iGKG0AGLpSa5UghDYXTHmPmg",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5DQjg2RDQyMEVGQkZFOEVF",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:56:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(53) المفعول لأجله والمفعول فيه",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-Po2VcG0fsE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-Po2VcG0fsE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-Po2VcG0fsE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-Po2VcG0fsE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-Po2VcG0fsE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-Po2VcG0fsE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-Po2VcG0fsE",
+                "videoPublishedAt": "2024-04-22T09:05:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kbqZUpu7l3SketekZtnRbdMbyK0",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4yM0EyQ0U1M0I2RkIwNTQ0",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:58:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(54) المفعول معه",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fTHXjd1pKVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fTHXjd1pKVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fTHXjd1pKVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fTHXjd1pKVM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fTHXjd1pKVM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fTHXjd1pKVM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fTHXjd1pKVM",
+                "videoPublishedAt": "2024-04-22T09:09:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kf6k0QGHbef7RdwW3Xt4BCJL0jk",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5ERENFNTk4Q0Q2MTZDMTA5",
+            "snippet": {
+                "publishedAt": "2024-04-22T08:59:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(55) باب الحال",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kAlCAdvPu1w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kAlCAdvPu1w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kAlCAdvPu1w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kAlCAdvPu1w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kAlCAdvPu1w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kAlCAdvPu1w"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "kAlCAdvPu1w",
+                "videoPublishedAt": "2024-04-22T09:09:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K6hxzsb0_omtqC0Cay2mRNUZ8Ow",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai41RDUzRjJFQ0Y0MUI3NzU1",
+            "snippet": {
+                "publishedAt": "2024-04-22T09:02:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(56) باب التمييز",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8gPsy9R5kCY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8gPsy9R5kCY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8gPsy9R5kCY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8gPsy9R5kCY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8gPsy9R5kCY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8gPsy9R5kCY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "8gPsy9R5kCY",
+                "videoPublishedAt": "2024-04-22T09:17:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "y4D5VtmNtkG4CXNxuSAzchTNyIU",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5FRjdGNDMzN0I2RTI3MDlG",
+            "snippet": {
+                "publishedAt": "2024-04-22T09:03:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(57) باب الاستثناء",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/a-gQ5PtN9mI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/a-gQ5PtN9mI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/a-gQ5PtN9mI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/a-gQ5PtN9mI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/a-gQ5PtN9mI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "a-gQ5PtN9mI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "a-gQ5PtN9mI",
+                "videoPublishedAt": "2024-04-22T09:14:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Y7fgV89LgnuK76qWISWRc9v8-g8",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai41ODIyMTgwQzA4NjJCQkZC",
+            "snippet": {
+                "publishedAt": "2024-04-22T09:05:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(58) باب حروف الجر",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5jsHFHhp5W0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5jsHFHhp5W0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5jsHFHhp5W0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5jsHFHhp5W0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5jsHFHhp5W0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5jsHFHhp5W0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "5jsHFHhp5W0",
+                "videoPublishedAt": "2024-04-22T09:12:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "C-KoL-Pu_Tem1X2DmAvXGPUW_ss",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5CNEYyNTVBNDdGMDI1MDNC",
+            "snippet": {
+                "publishedAt": "2024-04-22T09:41:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(59)باب المجرور بالإضافة",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/I-BSsHgoBMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/I-BSsHgoBMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/I-BSsHgoBMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/I-BSsHgoBMk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/I-BSsHgoBMk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "I-BSsHgoBMk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "I-BSsHgoBMk",
+                "videoPublishedAt": "2024-04-22T09:41:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mWytsmISJxZKhH93clv7KjiYQz0",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5EMUJFNzRCNDRFQjE5RjM4",
+            "snippet": {
+                "publishedAt": "2024-04-22T09:42:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(60)اسم الفعل",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iT8khYqUrCc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iT8khYqUrCc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iT8khYqUrCc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iT8khYqUrCc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iT8khYqUrCc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 59,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iT8khYqUrCc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "iT8khYqUrCc",
+                "videoPublishedAt": "2024-04-22T09:42:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lsEP3KWC72FRjBR7KEHeC12IB70",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai44QjNCNkRENjNFQTBEMUND",
+            "snippet": {
+                "publishedAt": "2024-04-22T09:43:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(61)عمل المصدر.",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q0b9DnQY9ko/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q0b9DnQY9ko/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q0b9DnQY9ko/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q0b9DnQY9ko/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q0b9DnQY9ko/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Q0b9DnQY9ko"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Q0b9DnQY9ko",
+                "videoPublishedAt": "2024-04-22T09:43:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dsUKVRBkGf5IvIHrVG8AKVF2TG8",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5EODgyNjY4MzA3QzY5RTkx",
+            "snippet": {
+                "publishedAt": "2024-05-04T17:41:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(62) اسم الفاعل وصيغة المبالغة",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K3iO71CDwqg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K3iO71CDwqg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K3iO71CDwqg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K3iO71CDwqg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K3iO71CDwqg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 61,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K3iO71CDwqg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "K3iO71CDwqg",
+                "videoPublishedAt": "2024-05-04T17:43:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sY9Hku0PjX4LqLGRN6f-Uzs-GAg",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai43ODA2MDVCQzY5QzZDMjUw",
+            "snippet": {
+                "publishedAt": "2024-04-24T10:23:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(63) إعمال اسم المفعول والصفة المشبهة",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2NaTwVVBkz4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2NaTwVVBkz4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2NaTwVVBkz4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2NaTwVVBkz4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2NaTwVVBkz4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 62,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2NaTwVVBkz4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2NaTwVVBkz4",
+                "videoPublishedAt": "2024-04-24T10:29:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xbJzNBoD3IqPEizgJhA4E4dXGOQ",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai40OTQ5QjlEMDgzN0FBNUIw",
+            "snippet": {
+                "publishedAt": "2024-04-24T10:27:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(64) اسم التفضيل",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JaurGSb4kL4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JaurGSb4kL4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JaurGSb4kL4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JaurGSb4kL4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JaurGSb4kL4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 63,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JaurGSb4kL4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "JaurGSb4kL4",
+                "videoPublishedAt": "2024-04-24T10:28:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "urH29CB-dlhylB9YCNmSeQVV6j8",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai5CQzUwREI3MzkxQjdBM0E0",
+            "snippet": {
+                "publishedAt": "2024-04-24T10:28:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(65) التوابع (النعت)",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EZf8fjth_ZQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EZf8fjth_ZQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EZf8fjth_ZQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EZf8fjth_ZQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EZf8fjth_ZQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 64,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EZf8fjth_ZQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "EZf8fjth_ZQ",
+                "videoPublishedAt": "2024-04-24T10:43:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gay42uQdRwtE67HmKPWwGHEAB_g",
+            "id": "UExFRDREai1UNDNyTjF5dHdEMFVFSkZudkNyTDEwXzlFai4yOTZGRTNEQ0ZGNUM5RDgw",
+            "snippet": {
+                "publishedAt": "2024-04-24T10:29:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح ابن هشام للقطر(66) باب التوكيد",
+                "description": "هذه دورة مهمة في شرح قطر الندى لابن هشام، تكمل سلسلة شرح متون النحو، وقد شرحتُ قطر الندى بفضل الله تعالى بثلاثة شروح: 1ـ شرح المتن، 2ـ شرح شرح ابن هشام على القطر، 3ـ شرح الفاكهي على قطر الندى؛ وذلك لأهمية هذا الكتاب في سلم دراسة النحو، فهو ملخص بديع لألفية ابن مالك، ومؤلفه له قدم السبق في هذا العلم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZsXrc2L-ht8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZsXrc2L-ht8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZsXrc2L-ht8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ZsXrc2L-ht8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ZsXrc2L-ht8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN1ytwD0UEJFnvCrL10_9Ej",
+                "position": 65,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ZsXrc2L-ht8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ZsXrc2L-ht8",
+                "videoPublishedAt": "2024-04-24T10:42:41Z"
+            }
+        }
+    ],
+    "title": "نحو (9)(ب): القطر شرح ابن هشام",
+    "nav": "نحو (9)(ب): القطر شرح ابن هشام",
+    "id": "1_1_5"
+}

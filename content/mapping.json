@@ -1,0 +1,65 @@
+{
+  "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+  "categories": [
+    {
+      "id": "1",
+      "title": "جميع دورات النحو",
+      "nav": "جميع دورات النحو",
+      "image": "card-1.png",
+      "sectionIds": [
+        "UC4hprJdeUpKFnViDsCAYN6g.jNQXAC9IVRw",
+        "UC4hprJdeUpKFnViDsCAYN6g.LeAltgu_pbM",
+        "UC4hprJdeUpKFnViDsCAYN6g.nGzAI5pLbMY",
+        "UC4hprJdeUpKFnViDsCAYN6g.__WLXNpu6u8"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "جميع دورات الصرف",
+      "nav": "جميع دورات الصرف",
+      "image": "card-2.png",
+      "sectionIds": [
+        "UC4hprJdeUpKFnViDsCAYN6g.Zx4DA4xg9IM",
+        "UC4hprJdeUpKFnViDsCAYN6g.MykmTeTiooA"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "جميع دورات البلاغة",
+      "nav": "جميع دورات البلاغة",
+      "image": "card-3.png",
+      "sectionIds": [
+        "UC4hprJdeUpKFnViDsCAYN6g.iJLXf_7B368",
+        "UC4hprJdeUpKFnViDsCAYN6g.UgY69lf0UCE"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "علم التفسير",
+      "nav": "علم التفسير",
+      "image": "card-4.png",
+      "sectionIds": [
+        "UC4hprJdeUpKFnViDsCAYN6g.XgM4c0oGu94"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "علم المواريث",
+      "nav": "علم المواريث",
+      "image": "card-5.png",
+      "sectionIds": [
+        "UC4hprJdeUpKFnViDsCAYN6g.aBfUFr9SBY0"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "سلسلة علوم القرآن",
+      "nav": "سلسلة علوم القرآن",
+      "image": "card-6.png",
+      "sectionIds": [
+        "UC4hprJdeUpKFnViDsCAYN6g.ebKlgRwnpFY",
+        "UC4hprJdeUpKFnViDsCAYN6g.aqsRo9JYx5M"
+      ]
+    }
+  ]
+}

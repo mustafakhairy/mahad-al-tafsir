@@ -1,0 +1,3679 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GetjWDWag5CoJIjqANj85Fz0FI0",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2025-01-12T16:58:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف في فن الصرف للحملاوي (1) ترجمة المؤلف",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما  التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3c1S_irbFQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3c1S_irbFQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3c1S_irbFQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3c1S_irbFQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3c1S_irbFQA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3c1S_irbFQA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3c1S_irbFQA",
+                "videoPublishedAt": "2025-01-12T16:59:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "A037etV37TFFTdhYQujZT2cYqIc",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2025-01-12T18:23:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف  في فن الصرف (2) مقدمة المؤلف",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما  التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ejTcNh2cHro/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ejTcNh2cHro/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ejTcNh2cHro/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ejTcNh2cHro/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ejTcNh2cHro/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ejTcNh2cHro"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ejTcNh2cHro",
+                "videoPublishedAt": "2025-01-12T18:25:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K5mSxXBpN596d_-24PICycKIfP0",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2024-12-26T18:59:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف في فن الصرف للحملاوي (3) الصرف لغة واصطلاحًا وثمرته",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما  التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5FwrEjQmOHM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5FwrEjQmOHM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5FwrEjQmOHM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5FwrEjQmOHM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5FwrEjQmOHM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5FwrEjQmOHM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "5FwrEjQmOHM",
+                "videoPublishedAt": "2024-12-26T19:04:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oUgO1VDRfR3UXDdm2vlI1C4w_vk",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2024-12-26T19:50:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف في فن الصرف (4) استمداد علم الصرف",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما  التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rFTm-vaizuI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rFTm-vaizuI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rFTm-vaizuI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rFTm-vaizuI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rFTm-vaizuI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rFTm-vaizuI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "rFTm-vaizuI",
+                "videoPublishedAt": "2024-12-26T19:52:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gUc1pve2lQDAtZGtTTp4YinvKN8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2025-05-04T12:49:39Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "5) الميزان الصرفي، وتكملة أهم كتب الصرف",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما  التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iCGY7BK_1gM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iCGY7BK_1gM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iCGY7BK_1gM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iCGY7BK_1gM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iCGY7BK_1gM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iCGY7BK_1gM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "iCGY7BK_1gM",
+                "videoPublishedAt": "2025-05-04T12:54:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_EHFzlxhkRikDgCC1QUwhZ7dNJE",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2025-05-04T14:22:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "6) إكمال الميزان الصرفي",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما  التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qDv9nCpFVfM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qDv9nCpFVfM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qDv9nCpFVfM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qDv9nCpFVfM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qDv9nCpFVfM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qDv9nCpFVfM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qDv9nCpFVfM",
+                "videoPublishedAt": "2025-05-04T14:23:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VvcaDTLtljn7DaymvRELlvu87u4",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2025-05-04T14:53:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "8 تقسيم الفعل إلى ماض ومضارع وأمر",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما  التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/W6R2zsjRiNQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/W6R2zsjRiNQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/W6R2zsjRiNQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/W6R2zsjRiNQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/W6R2zsjRiNQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "W6R2zsjRiNQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "W6R2zsjRiNQ",
+                "videoPublishedAt": "2025-05-04T14:54:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5SqCjlS3w284OUXS-6ISYYcIs94",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2025-05-06T20:16:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "9)  التقسيم الثاني للفعل إلى صحيح ومعتل",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما  التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vMN367Y34F8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vMN367Y34F8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vMN367Y34F8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vMN367Y34F8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vMN367Y34F8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vMN367Y34F8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "vMN367Y34F8",
+                "videoPublishedAt": "2025-05-06T20:17:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "P9T12A0E9ATKGWAm_Y3Rux-pV5E",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2025-06-09T19:43:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (10)  تكملة التقسيم الثاني للفعل",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WENenWqsuuw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WENenWqsuuw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WENenWqsuuw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WENenWqsuuw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WENenWqsuuw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WENenWqsuuw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WENenWqsuuw",
+                "videoPublishedAt": "2025-06-09T19:44:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oJJtJE5lmmlxUUugY5KjZtwH13I",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2025-06-09T19:43:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (11) التقسيم الثالث للفعل بحسب التجرد والزيادة وتقسيم كل",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/d8qQjHu2sKg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/d8qQjHu2sKg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/d8qQjHu2sKg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/d8qQjHu2sKg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/d8qQjHu2sKg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "d8qQjHu2sKg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "d8qQjHu2sKg",
+                "videoPublishedAt": "2025-06-09T19:44:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "k7JiPzfeCSyCEwNjZS8bDnubCq0",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2025-06-09T19:44:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (12)  تقسيم الفعل إلى ماض ومضارع وأمر",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/m5SdRDF76X0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/m5SdRDF76X0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/m5SdRDF76X0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/m5SdRDF76X0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/m5SdRDF76X0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "m5SdRDF76X0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "m5SdRDF76X0",
+                "videoPublishedAt": "2025-06-09T19:45:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EI_r7pLVTRuU-XDkpQdYiYvbRv8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2025-06-09T19:44:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (13)  الثلاثي المجرد من شذا العرف",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YtAm2QM7JnU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YtAm2QM7JnU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YtAm2QM7JnU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YtAm2QM7JnU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YtAm2QM7JnU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YtAm2QM7JnU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YtAm2QM7JnU",
+                "videoPublishedAt": "2025-06-09T19:46:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QO09yDEWOaJF_jAu9jgiV1T0qSE",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2025-06-09T19:45:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (14)  الباب الثاني من الثلاثي المجرد (فعَل، يفعِل).",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rTgZ9E_tVeE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rTgZ9E_tVeE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rTgZ9E_tVeE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rTgZ9E_tVeE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rTgZ9E_tVeE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rTgZ9E_tVeE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "rTgZ9E_tVeE",
+                "videoPublishedAt": "2025-06-09T19:47:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4YmvJOQRjE8Z1oISqkWIutIMkeI",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2025-06-09T19:46:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (15)  الباب الثالث والرابع من الثلاثي المجرد ( فعَل، يفعل) و(فعِل، يفعَل)",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Z_JLIU5VVXI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Z_JLIU5VVXI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Z_JLIU5VVXI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Z_JLIU5VVXI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Z_JLIU5VVXI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Z_JLIU5VVXI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Z_JLIU5VVXI",
+                "videoPublishedAt": "2025-06-09T19:49:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gvKNEnPZwb87OAGWsSfkVn-Eoe8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2025-06-09T19:48:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (16)  الباب الخامس (فعُل، يفعُل)",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JzHZkAMzXY0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JzHZkAMzXY0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JzHZkAMzXY0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/JzHZkAMzXY0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/JzHZkAMzXY0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "JzHZkAMzXY0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "JzHZkAMzXY0",
+                "videoPublishedAt": "2025-06-09T19:48:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Fdn00LXi5F8bga01Fy9a0baif18",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2025-06-09T20:53:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (17)  الباب السادس ( فعِل، يفعِل)",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6TCrdznpUIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6TCrdznpUIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6TCrdznpUIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6TCrdznpUIk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/6TCrdznpUIk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6TCrdznpUIk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "6TCrdznpUIk",
+                "videoPublishedAt": "2025-06-09T20:54:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Zo_QOYn3JQMYveoVKxh5ZQeMc-Y",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2025-06-09T20:54:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (18)  الباب السادس من شذا العرف",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-X5CTqrk5pI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-X5CTqrk5pI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-X5CTqrk5pI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-X5CTqrk5pI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-X5CTqrk5pI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-X5CTqrk5pI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-X5CTqrk5pI",
+                "videoPublishedAt": "2025-06-09T20:54:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_dlsKs5S0sxhSpsu1cS8gVbLlhI",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2025-06-09T20:54:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (19)  تنبيهات مهمة على أبواب الثلاثي المجرد",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hZpvTKo9eMM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hZpvTKo9eMM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hZpvTKo9eMM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hZpvTKo9eMM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hZpvTKo9eMM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hZpvTKo9eMM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hZpvTKo9eMM",
+                "videoPublishedAt": "2025-06-09T20:55:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "deSNmYMP8dRs7_k0oBJGk4kSCvQ",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2025-06-09T21:31:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (20) إكمال تنبيهات على الفعل الثلاثي المجرد",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LG-lC49d88I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LG-lC49d88I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LG-lC49d88I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LG-lC49d88I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LG-lC49d88I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LG-lC49d88I"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "LG-lC49d88I",
+                "videoPublishedAt": "2025-06-09T21:33:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uCfNfMHAPNKPBNHuvZ1ARmJyQcQ",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2025-06-09T22:23:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (21)إكمال التنبيهات ، مع المجرد الرباعي فعلل",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Q-uGwjCsznc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Q-uGwjCsznc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Q-uGwjCsznc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Q-uGwjCsznc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Q-uGwjCsznc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Q-uGwjCsznc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Q-uGwjCsznc",
+                "videoPublishedAt": "2025-06-09T22:24:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FMWX514KM-K4WYVLSCiX3sdEqso",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2025-06-12T19:32:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (22) معنى الملحق والملحق بالرباعي",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aK4r3Wlif0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aK4r3Wlif0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aK4r3Wlif0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aK4r3Wlif0g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aK4r3Wlif0g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aK4r3Wlif0g"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "aK4r3Wlif0g",
+                "videoPublishedAt": "2025-06-12T19:38:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GShdgZxZaCXoD9CBTgCMV72xOJA",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2025-06-12T19:33:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (23)  الجزء الثاني من الملحق بالرباعي المجرد",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YKnTO_vDa9Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YKnTO_vDa9Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YKnTO_vDa9Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YKnTO_vDa9Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YKnTO_vDa9Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YKnTO_vDa9Q"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YKnTO_vDa9Q",
+                "videoPublishedAt": "2025-06-12T19:39:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d-fzbSt58VcHUHOMfgvROD97kl4",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2025-06-12T19:33:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (24)  الجزء الثالث من الإلحاق",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9TzJKx2LfC0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9TzJKx2LfC0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9TzJKx2LfC0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9TzJKx2LfC0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9TzJKx2LfC0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9TzJKx2LfC0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9TzJKx2LfC0",
+                "videoPublishedAt": "2025-06-12T19:40:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QcIXWV0hwkpA5s5E3MrzY0eTjBw",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2025-06-12T19:34:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف العرف (25) الثلاثي المزيد فيه",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cHytJFKJv0g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cHytJFKJv0g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cHytJFKJv0g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cHytJFKJv0g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cHytJFKJv0g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cHytJFKJv0g"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "cHytJFKJv0g",
+                "videoPublishedAt": "2025-06-12T19:40:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p5DiFRcWkS2NEt_nar-CNG-W8Hc",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2025-06-12T19:35:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (26)  الثلاثي المزيد بحرف وبحرفين",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/R_Wj3kqNFyw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/R_Wj3kqNFyw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/R_Wj3kqNFyw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/R_Wj3kqNFyw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/R_Wj3kqNFyw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "R_Wj3kqNFyw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "R_Wj3kqNFyw",
+                "videoPublishedAt": "2025-06-12T19:40:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QnUhlqtuj2hFBhibgTK5Inm0OZ8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2025-06-12T20:13:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (27)  المزيد فيه بحرفين على الثلاثي الجزء الثاني",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BKIR2BZKiFc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BKIR2BZKiFc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BKIR2BZKiFc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BKIR2BZKiFc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BKIR2BZKiFc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BKIR2BZKiFc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BKIR2BZKiFc",
+                "videoPublishedAt": "2025-06-12T20:19:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FNIOMFSMhm-txchCG3fzG6A3PZc",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2025-08-12T20:31:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (28) المزيد بثلاثة أحرف والرباعي المجرد وملحقاته",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ehwn0xEUEVg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ehwn0xEUEVg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ehwn0xEUEVg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ehwn0xEUEVg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ehwn0xEUEVg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ehwn0xEUEVg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ehwn0xEUEVg",
+                "videoPublishedAt": "2025-08-12T20:45:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VL0hfo3gYr5NI4oVUQVWTTTFggg",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2025-08-12T20:32:01Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (29) الملحقات بالرباعي المزيد بحرف",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oONZthkFObw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oONZthkFObw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oONZthkFObw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oONZthkFObw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oONZthkFObw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oONZthkFObw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "oONZthkFObw",
+                "videoPublishedAt": "2025-08-12T20:41:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UOPgaG_lCRC0udSvs9hdHUYxQ9M",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2025-08-13T16:39:02Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "ـشذا لعرف(30) الملحقات بالرباعي المزيد فيه حرفان",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dJmT84lKmO0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dJmT84lKmO0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dJmT84lKmO0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dJmT84lKmO0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dJmT84lKmO0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dJmT84lKmO0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "dJmT84lKmO0",
+                "videoPublishedAt": "2025-08-13T16:41:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oTWjyzlaCo02WKAX_U9q3WCu4cs",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2025-08-13T16:42:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (31) تكملة التدريبات وتنبيهان في معاني الأبنية",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Hlk5pQRYN00/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Hlk5pQRYN00/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Hlk5pQRYN00/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Hlk5pQRYN00/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Hlk5pQRYN00/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Hlk5pQRYN00"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Hlk5pQRYN00",
+                "videoPublishedAt": "2025-08-13T16:47:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "F4UvJfDJ0jrLgC0-lh4ACC3w4xk",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2025-08-13T17:04:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (32) تكملة معانيأفعلومعاني فعَّل وفاعل",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7OjFJf44t0o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7OjFJf44t0o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7OjFJf44t0o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7OjFJf44t0o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/7OjFJf44t0o/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7OjFJf44t0o"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "7OjFJf44t0o",
+                "videoPublishedAt": "2025-08-13T17:14:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ucsm8I1a7j2FB-9qVM5z6pcA59c",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2025-08-13T18:43:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (33) تكملة معاني (فعَّل)",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r2jObNpBjMU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r2jObNpBjMU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r2jObNpBjMU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r2jObNpBjMU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r2jObNpBjMU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "r2jObNpBjMU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "r2jObNpBjMU",
+                "videoPublishedAt": "2025-08-13T18:48:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yZx48pU2RKN17Ti8jDxg6-s6xA4",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2025-08-14T10:11:39Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (34) معاني انفعل وافتعل",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MxI2gtFmOx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MxI2gtFmOx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MxI2gtFmOx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MxI2gtFmOx0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MxI2gtFmOx0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MxI2gtFmOx0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MxI2gtFmOx0",
+                "videoPublishedAt": "2025-08-14T10:14:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rSsrDbaavDpNa7wy6sZ6t0SKHh8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2025-08-14T16:47:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (35) معاني انفعل وافتعل وافعل وتفعل وتفاعل",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1BkhIG5xT-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1BkhIG5xT-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1BkhIG5xT-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1BkhIG5xT-M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1BkhIG5xT-M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "1BkhIG5xT-M"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "1BkhIG5xT-M",
+                "videoPublishedAt": "2025-08-14T16:53:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "32M6NHPOUAMuGi0yl0lRS-8ogiY",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2025-08-14T20:56:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (36) معاني استفعل",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XdDKklm79h0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XdDKklm79h0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XdDKklm79h0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XdDKklm79h0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XdDKklm79h0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XdDKklm79h0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "XdDKklm79h0",
+                "videoPublishedAt": "2025-08-14T21:12:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "v-J0ZKl8JK9tPt_Z4sCWhjyjWd8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2025-08-15T12:16:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (37) الفعل الجامد والمتصرف وكيفية تصريف فعل الأمر والمضارع",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XCUZyPvQ86Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XCUZyPvQ86Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XCUZyPvQ86Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XCUZyPvQ86Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XCUZyPvQ86Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XCUZyPvQ86Y"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "XCUZyPvQ86Y",
+                "videoPublishedAt": "2025-08-15T12:52:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0FYE9nzgVmJbpeHR4ZOpQb9Nvzg",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2025-08-15T16:45:49Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (38) التقسيم الخامس التعدي واللزوم",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_ogi7qz0-wY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_ogi7qz0-wY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_ogi7qz0-wY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_ogi7qz0-wY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_ogi7qz0-wY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_ogi7qz0-wY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "_ogi7qz0-wY",
+                "videoPublishedAt": "2025-08-15T16:57:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "blAwtYCHDS7H4B9gy0IzmhtvQN4",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+                "publishedAt": "2025-08-15T20:37:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (39) الفعل المبني للفاعل والمبني للمجهول",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MA31XO5UAr8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MA31XO5UAr8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MA31XO5UAr8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MA31XO5UAr8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MA31XO5UAr8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MA31XO5UAr8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MA31XO5UAr8",
+                "videoPublishedAt": "2025-08-15T21:01:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oRxPWhk9-089hhKkwerkWZ9LoCo",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2025-08-15T21:33:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (40) تنبيه: الأفعال الملازمة للبناء للمفعول",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hqJ6S0lJ6ns/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hqJ6S0lJ6ns/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hqJ6S0lJ6ns/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hqJ6S0lJ6ns/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hqJ6S0lJ6ns/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hqJ6S0lJ6ns"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hqJ6S0lJ6ns",
+                "videoPublishedAt": "2025-08-15T21:37:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Cy4KwrM4E-xwFfMyBYtZFkY9T6U",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2025-08-16T04:46:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (41) الفعل المؤكد وغير المؤكد",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/n2qmv-Vk9t0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/n2qmv-Vk9t0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/n2qmv-Vk9t0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/n2qmv-Vk9t0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/n2qmv-Vk9t0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "n2qmv-Vk9t0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "n2qmv-Vk9t0",
+                "videoPublishedAt": "2025-08-16T04:53:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "b3qYv9OxKXpFhSQnE38w_IRlV54",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2025-08-16T05:33:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (42) إكمال المؤكد بنون التوكيد وغير المؤكد",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/nm3jA-LhBVM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/nm3jA-LhBVM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/nm3jA-LhBVM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/nm3jA-LhBVM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/nm3jA-LhBVM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "nm3jA-LhBVM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "nm3jA-LhBVM",
+                "videoPublishedAt": "2025-08-16T05:44:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-LMfz8rUptt8L4z5dj0GyavMGL8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2025-08-16T08:24:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (43) حكم آخر الفعل المتصل بنون التوكيد وأحكام نون التوكيد الخفيفة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3z-ygaq_YRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3z-ygaq_YRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3z-ygaq_YRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3z-ygaq_YRw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3z-ygaq_YRw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3z-ygaq_YRw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3z-ygaq_YRw",
+                "videoPublishedAt": "2025-08-16T08:36:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pE8zD1fjJ7LYyH-fl6cdC4p5xiQ",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2025-08-17T06:22:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (44) تطبيقات على نون التوكيد وتصريف الصحيح السالم",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TFI90iQTYk4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TFI90iQTYk4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TFI90iQTYk4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TFI90iQTYk4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TFI90iQTYk4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TFI90iQTYk4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "TFI90iQTYk4",
+                "videoPublishedAt": "2025-08-17T06:26:28Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DB9jES6kWMCKMev400U2BvH1NCE",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2025-08-17T09:01:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (4) تصريف المهموز",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bDRMkCHobLk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bDRMkCHobLk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bDRMkCHobLk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bDRMkCHobLk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bDRMkCHobLk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bDRMkCHobLk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "bDRMkCHobLk",
+                "videoPublishedAt": "2025-08-17T09:09:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "f6GvD319fMDzb0VInKEj3_6dYc4",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2025-08-18T03:04:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (46) حكم تصريف ( أرى) وتصريف المضعف",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EckDMbka-cE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EckDMbka-cE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EckDMbka-cE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EckDMbka-cE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EckDMbka-cE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EckDMbka-cE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "EckDMbka-cE",
+                "videoPublishedAt": "2025-08-18T03:13:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xb21qx_SEt270a3QwgsbPRHZyb8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2025-08-18T05:25:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (47) حكم تصريف المثال والأجوف",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kYt4ujntuiI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kYt4ujntuiI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kYt4ujntuiI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kYt4ujntuiI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kYt4ujntuiI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kYt4ujntuiI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "kYt4ujntuiI",
+                "videoPublishedAt": "2025-08-18T05:43:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IkC8br3MUlV8ZPXpCeuPtC03EKY",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2025-08-18T20:34:52Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (48) تكميل أمثلة الأجوف، و حكم الناقص وتطبيات على الناقص",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qHb8ASJJDlI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qHb8ASJJDlI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qHb8ASJJDlI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qHb8ASJJDlI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qHb8ASJJDlI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qHb8ASJJDlI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qHb8ASJJDlI",
+                "videoPublishedAt": "2025-08-18T20:39:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "91VD6qCDiMwGtFxudP_h06V2h3M",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2025-08-19T08:43:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (49) حكم اللفيف وتقسيم الاسم",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aLLcuUwHpDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aLLcuUwHpDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aLLcuUwHpDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aLLcuUwHpDY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aLLcuUwHpDY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aLLcuUwHpDY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "aLLcuUwHpDY",
+                "videoPublishedAt": "2025-08-19T08:47:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jT0RTLfI4q_EEAuOpAq-_374sZ0",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2025-08-19T10:13:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (50)  أوزان الاسم الرباعي المجرد والمزيد فيه",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aQ7rEwrAMrU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aQ7rEwrAMrU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aQ7rEwrAMrU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aQ7rEwrAMrU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aQ7rEwrAMrU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aQ7rEwrAMrU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "aQ7rEwrAMrU",
+                "videoPublishedAt": "2025-08-19T10:18:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "89OdXEZOyYa78o31Faee3fyFubw",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2025-08-19T21:12:49Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف(52)  أوزان الاسم الرباعي المجرد والمزيد فيه",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LZ1KQ2QM5ys/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LZ1KQ2QM5ys/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LZ1KQ2QM5ys/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LZ1KQ2QM5ys/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LZ1KQ2QM5ys/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LZ1KQ2QM5ys"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "LZ1KQ2QM5ys",
+                "videoPublishedAt": "2025-08-19T21:24:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CMaAbc3r0klu94G-Fg8NOdbwkAY",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2025-08-19T21:52:09Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (54) مصادر غير الثلاثي",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PyByg5feHMg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PyByg5feHMg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PyByg5feHMg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PyByg5feHMg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PyByg5feHMg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PyByg5feHMg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "PyByg5feHMg",
+                "videoPublishedAt": "2025-08-19T22:00:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7OhBKSB1eFgsBM2Q_Ds45Vfrf_M",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2025-08-19T22:30:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (53) باب المصدر من الكتاب",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NQKxZwC8DIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NQKxZwC8DIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NQKxZwC8DIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NQKxZwC8DIk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NQKxZwC8DIk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NQKxZwC8DIk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "NQKxZwC8DIk",
+                "videoPublishedAt": "2025-08-19T22:32:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_6ZAKltrunT2caCEfRJ4DT1ruis",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2025-08-22T03:13:01Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (55) مصدرة المرة والهيئة  والمصدر الميمي",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sW0mdu1IsQs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sW0mdu1IsQs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sW0mdu1IsQs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sW0mdu1IsQs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sW0mdu1IsQs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sW0mdu1IsQs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "sW0mdu1IsQs",
+                "videoPublishedAt": "2025-08-22T03:19:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Zwf_UtgNB-rJQGYw5btF8wa39Gw",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2025-08-20T22:33:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (56) باب اسم الفاعل",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9fIoFtenQrU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9fIoFtenQrU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9fIoFtenQrU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9fIoFtenQrU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9fIoFtenQrU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9fIoFtenQrU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9fIoFtenQrU",
+                "videoPublishedAt": "2025-08-20T22:35:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o8mOly05OwTjK1VV3wfvdWJai8w",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2025-08-22T03:22:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (58) باب اسم المفعول والصفة المشبهة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vElj9U0luxw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vElj9U0luxw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vElj9U0luxw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vElj9U0luxw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/vElj9U0luxw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vElj9U0luxw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "vElj9U0luxw",
+                "videoPublishedAt": "2025-08-22T03:28:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4HcjTBt-CVj0sl39emP6myWBlp0",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2025-08-21T17:33:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (59) تكملة الصفة المشبهة واسم التفضيل",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pqX-ttzZhGI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pqX-ttzZhGI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pqX-ttzZhGI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pqX-ttzZhGI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pqX-ttzZhGI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pqX-ttzZhGI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "pqX-ttzZhGI",
+                "videoPublishedAt": "2025-08-21T17:36:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Oi2EtkpdCr-uF9Qygo5EgAPxYog",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2025-08-21T21:52:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (60) اسم التفضيل",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J3fOGIKshsw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J3fOGIKshsw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J3fOGIKshsw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/J3fOGIKshsw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/J3fOGIKshsw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "J3fOGIKshsw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "J3fOGIKshsw",
+                "videoPublishedAt": "2025-08-21T21:57:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9gOywn2ud13VfUwczDAe10W2Bvw",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2025-08-22T04:04:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (57) باب صيغة المبالغة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Zy1Kfuy1I-Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Zy1Kfuy1I-Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Zy1Kfuy1I-Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Zy1Kfuy1I-Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Zy1Kfuy1I-Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Zy1Kfuy1I-Q"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Zy1Kfuy1I-Q",
+                "videoPublishedAt": "2025-08-22T04:11:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pluo7d_oz5d9PMH6wqgsfNpmBvU",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2025-08-22T09:32:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف(62) باب التعجب واسم الزمان والمكان",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vu8B1ZOvKTk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vu8B1ZOvKTk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vu8B1ZOvKTk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vu8B1ZOvKTk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vu8B1ZOvKTk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vu8B1ZOvKTk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Vu8B1ZOvKTk",
+                "videoPublishedAt": "2025-08-22T09:46:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uCB4wZPkSmlVV3RVEmf2bJifRH0",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2025-08-22T09:35:26Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (63) باب اسم الآلة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i4464vZppEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i4464vZppEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i4464vZppEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i4464vZppEs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i4464vZppEs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 59,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "i4464vZppEs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "i4464vZppEs",
+                "videoPublishedAt": "2025-08-22T09:43:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XqcaB9XS-tthj9spuRXQflHidcU",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2025-08-22T13:13:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف( 64) المذكر والمؤنث",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MvNRR0PkUZs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MvNRR0PkUZs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MvNRR0PkUZs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MvNRR0PkUZs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MvNRR0PkUZs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MvNRR0PkUZs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MvNRR0PkUZs",
+                "videoPublishedAt": "2025-08-22T13:24:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fY9WKQGb9--lvKvHpmNzrxhaRq0",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2025-08-22T17:29:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (65)  ألف التأنيث الممدودة والمقصورة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tzZyV8FU_Fg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tzZyV8FU_Fg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tzZyV8FU_Fg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/tzZyV8FU_Fg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/tzZyV8FU_Fg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 61,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "tzZyV8FU_Fg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "tzZyV8FU_Fg",
+                "videoPublishedAt": "2025-08-22T17:35:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZVMD5niMsRgjLONecfHOAic5fzU",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2025-08-23T09:17:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (66) المنقوص والمقصور والممدود",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-6xAqyM7mMI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-6xAqyM7mMI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-6xAqyM7mMI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-6xAqyM7mMI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-6xAqyM7mMI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 62,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-6xAqyM7mMI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-6xAqyM7mMI",
+                "videoPublishedAt": "2025-08-23T09:28:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RTGSOiNQK1c_QJRWD5v9TrKoa70",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2025-08-23T12:12:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف(67) المفرد والمثنى وجمع المذكر السالم",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/P9gKB962VwU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/P9gKB962VwU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/P9gKB962VwU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/P9gKB962VwU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/P9gKB962VwU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 63,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "P9gKB962VwU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "P9gKB962VwU",
+                "videoPublishedAt": "2025-08-23T12:14:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "n9HBtpU6HS7C49PEkjmCbWIjL5k",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2025-08-23T14:29:52Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف(68) جمع المؤنث السالم",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sMg44R9LJM4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sMg44R9LJM4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sMg44R9LJM4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/sMg44R9LJM4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/sMg44R9LJM4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 64,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "sMg44R9LJM4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "sMg44R9LJM4",
+                "videoPublishedAt": "2025-08-23T14:40:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Lj_G3S_jdNYjaswmxFK7CSZKL_I",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2025-08-23T16:02:21Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (69) باب كيفية التثنلة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gUj8nfshZ0E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gUj8nfshZ0E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gUj8nfshZ0E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gUj8nfshZ0E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gUj8nfshZ0E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 65,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gUj8nfshZ0E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "gUj8nfshZ0E",
+                "videoPublishedAt": "2025-08-23T16:08:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "k_DJdS0fABYPjxzYNjFNZERLd0I",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2025-08-23T21:31:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (70) كيفية جمع المذكر السالم والمؤنث السالم",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kJxiboBLefA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kJxiboBLefA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kJxiboBLefA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kJxiboBLefA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kJxiboBLefA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 66,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "kJxiboBLefA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "kJxiboBLefA",
+                "videoPublishedAt": "2025-08-23T21:42:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H5GljFnXwWyyunawJP-SNaZWugE",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2025-08-25T08:11:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (71 ) جمع التكسير وأوزانه",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b-CtZSpO_xc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b-CtZSpO_xc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b-CtZSpO_xc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b-CtZSpO_xc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b-CtZSpO_xc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 67,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b-CtZSpO_xc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "b-CtZSpO_xc",
+                "videoPublishedAt": "2025-08-25T08:17:16Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "joBKmmr3K7dpu2kEviykbVJYY0Q",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2025-08-26T07:17:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف ( 72) تكملة جموع القلة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pCb02H2a5-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pCb02H2a5-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pCb02H2a5-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pCb02H2a5-w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pCb02H2a5-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 68,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pCb02H2a5-w"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "pCb02H2a5-w",
+                "videoPublishedAt": "2025-08-26T07:17:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1nxBhcObkPEeRFUwDJqaP3O-sI8",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2025-08-26T09:53:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (73)  جموع الكثرة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zz0z4Z9Y1o0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zz0z4Z9Y1o0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zz0z4Z9Y1o0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zz0z4Z9Y1o0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zz0z4Z9Y1o0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 69,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zz0z4Z9Y1o0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "zz0z4Z9Y1o0",
+                "videoPublishedAt": "2025-08-26T09:56:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QpsrZXZA7rk5ie4fHaB6W-HUOyw",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC45NDlDQUFFOThDMTAxQjUw",
+            "snippet": {
+                "publishedAt": "2025-08-28T04:14:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (74) الجزء الثاني من  جموع الكثرة",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IzJy9nKePJw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IzJy9nKePJw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IzJy9nKePJw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IzJy9nKePJw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IzJy9nKePJw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 70,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IzJy9nKePJw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "IzJy9nKePJw",
+                "videoPublishedAt": "2025-08-28T04:19:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8sq5gx2UhQxez8GTF1jxf0t30PY",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2025-08-28T19:23:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (75)  الجزء الثالث من  جموع التكسير",
+                "description": "=شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V1BfvdxaJb0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V1BfvdxaJb0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V1BfvdxaJb0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/V1BfvdxaJb0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/V1BfvdxaJb0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 71,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "V1BfvdxaJb0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "V1BfvdxaJb0",
+                "videoPublishedAt": "2025-08-28T19:28:53Z"
+            }
+        }
+    ],
+    "title": "صرف (8) شذا العرف في فن الصرف للحملاوي",
+    "nav": "صرف (8) شذا العرف في فن الصرف للحملاوي",
+    "id": "2_1_2"
+}

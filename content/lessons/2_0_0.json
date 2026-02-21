@@ -1,0 +1,150 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_uPzfgvYK1nqZkgKhB0nGXyX6_I",
+            "id": "UExFRDREai1UNDNyTzhFaE5icDM3dUd4N04ydmhRcjlJdS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-10-29T13:25:47Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "1) شرح كتاب الأمثلة المختلفة في الصرف الشيخ علي هاني العقرباوي",
+                "description": "هذا رابط الكتاب \nنسختان للأمثلة المختلفة إلا أن النسخة واضحة تنقص منها الصفحة الأولى: \nhttps://drive.google.com/drive/folders/13kkvc17xy-6H65FDtmqpV8yKodmE04ek?usp=sharing\nنسخة واضحة: \nhttps://drive.google.com/file/d/14LFZZO91cKHxSTbLjkyyfj9TUASVJ5Fq/view?usp=sharinghttps://drive.google.com/file/d/1QZfwV8mP2Ml0PUZoVxF3OgsC-VJe5bPg/view?usp=sharing\n\nنسخة ثالثة:\n\nhttps://drivhttps://drive.google.com/file/d/1QZfwV8mP2Ml0PUZoVxF3OgsC-VJe5bPg/view?usp=sharinge.google.com/file/d/1Wu5xwg_uCxPcZeWJPNueEBkGdeKEzW2U/view?\n\nusp=sharing\nهذا رابط التطبيقات https://drive.google.com/file/d/1QMPlCYLGEszz2WHecANj6BmMGGX-UJ7U/view?usp=sharing\nعلي_هاني_العقرباوي\nالمستوى الثاني في الصرف ، والمستوى الثالث شرح البناء في الصرف للدتفزي والمستوى الرابع شرح كتاب المقصود في الصرف الكتاب الخامس شرح كتاب العزي في الصرف ، المستوى السادس شرح تيسير الإعلال والإبدال لعبد العليم إبراهيم ، المستوى السابع شرك كتاب مراح الأرواح في الصرف/ أحمد بن علي بن مسعود ، المستوى الثامن: شرح كتاب الشافية في الصرف لابن الحاجب\nلتحميل الكتاب:https://drive.google.com/open?id=1Wu5xwg_uCxPcZeWJPNueEBkGdeKEzW2U",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/VjUb8btvocM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/VjUb8btvocM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/VjUb8btvocM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/VjUb8btvocM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO8EhNbp37uGx7N2vhQr9Iu",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "VjUb8btvocM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "VjUb8btvocM",
+                "videoPublishedAt": "2019-10-29T13:38:10Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "scjRi5WA2QumW3k4uHnNJq5YJeg",
+            "id": "UExFRDREai1UNDNyTzhFaE5icDM3dUd4N04ydmhRcjlJdS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-10-29T13:32:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "2) شرح كتاب الأمثلة المختلفة في الصرف/ الشيخ علي هاني العقرباوي",
+                "description": "علي_هاني_العقرباوي\nالمستوى الثاني في الصرف ، والمستوى الثالث شرح البناء في الصرف للدتفزي والمستوى الرابع شرح كتاب المقصود في الصرف الكتاب الخامس شرح كتاب العزي في الصرف ، المستوى السادس شرح تيسير الإعلال والإبدال لعبد العليم إبراهيم ، المستوى السابع شرك كتاب مراح الأرواح في الصرف/ أحمد بن علي بن مسعود ، المستوى الثامن: شرح كتاب الشافية في الصرف لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CHLlP-9YgIo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CHLlP-9YgIo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CHLlP-9YgIo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CHLlP-9YgIo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO8EhNbp37uGx7N2vhQr9Iu",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CHLlP-9YgIo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "CHLlP-9YgIo",
+                "videoPublishedAt": "2019-10-29T13:46:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "h1i0xpj7ggQDCOFQTKavUtuYovw",
+            "id": "UExFRDREai1UNDNyTzhFaE5icDM3dUd4N04ydmhRcjlJdS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2022-10-23T21:56:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(3) شرح الأمثلة المختلفة في الصرف",
+                "description": "علي_هاني_العقرباوي المستوى الثاني في الصرف ، والمستوى الثالث شرح البناء في الصرف للدتفزي والمستوى الرابع شرح كتاب المقصود في الصرف الكتاب الخامس شرح كتاب العزي في الصرف ، المستوى السادس شرح تيسير الإعلال والإبدال لعبد العليم إبراهيم ، المستوى السابع شرك كتاب مراح الأرواح في الصرف/ أحمد بن علي بن مسعود ، المستوى الثامن: شرح كتاب الشافية في الصرف لابن الحاجب لتحميل الكتاب:https://drive.google.com/open?id=1Wu5xwg_uCxPcZeWJPNueEBkGdeKEzW2U",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AdltgKRLDbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AdltgKRLDbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AdltgKRLDbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AdltgKRLDbw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AdltgKRLDbw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO8EhNbp37uGx7N2vhQr9Iu",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "AdltgKRLDbw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "AdltgKRLDbw",
+                "videoPublishedAt": "2022-10-23T22:01:00Z"
+            }
+        }
+    ],
+    "title": "صرف 1ـ: الشرح المختصر للأمثلة المختلفة",
+    "nav": "صرف 1ـ: الشرح المختصر للأمثلة المختلفة",
+    "id": "2_0_0"
+}

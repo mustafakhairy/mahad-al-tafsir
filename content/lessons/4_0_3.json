@@ -1,0 +1,1486 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "x_xHHl45IKProuEWi2yyRz0f8o8",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:00:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (1)  مقدمة الكتاب",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eFFQbEoX7lE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eFFQbEoX7lE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eFFQbEoX7lE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eFFQbEoX7lE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/eFFQbEoX7lE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eFFQbEoX7lE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "eFFQbEoX7lE",
+                "videoPublishedAt": "2024-03-06T19:02:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "i7rLWOmJhvwAy-7BsK6U00j5xjI",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:01:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح التبيان في آداب حملة القرآن(2) تكملة المقدمة (خطبة الكتاب)",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YchJ9Tabmbk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YchJ9Tabmbk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YchJ9Tabmbk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YchJ9Tabmbk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YchJ9Tabmbk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YchJ9Tabmbk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YchJ9Tabmbk",
+                "videoPublishedAt": "2024-03-06T19:03:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yYQ7qXH3MFxEA2Ljf3xGQUsDnss",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:02:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (3) في أطراف من فضيلة تلاوة القرآن الكريم",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/den-cGNLfH0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/den-cGNLfH0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/den-cGNLfH0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/den-cGNLfH0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/den-cGNLfH0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "den-cGNLfH0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "den-cGNLfH0",
+                "videoPublishedAt": "2024-03-06T19:05:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4Nn71ZRKRfhT7QsUTWDijE1idQk",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:03:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن  (4) تكملة باب في أطراف من فضيلة تلاوة القرآن وحملته",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/K3U2i_MJFK4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/K3U2i_MJFK4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/K3U2i_MJFK4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/K3U2i_MJFK4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/K3U2i_MJFK4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "K3U2i_MJFK4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "K3U2i_MJFK4",
+                "videoPublishedAt": "2024-03-06T19:05:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NOV4cqt6lKYPijX1BICOy1dr_mg",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:04:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (5) في ترجيح القراءة والقارئ على غيرهما",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0rI2NbBY_LM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0rI2NbBY_LM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0rI2NbBY_LM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0rI2NbBY_LM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0rI2NbBY_LM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0rI2NbBY_LM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0rI2NbBY_LM",
+                "videoPublishedAt": "2024-03-06T19:07:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yFBpUwVZPzhS-knb8KG9M8quOoo",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:05:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (6) في آداب معلم القرآن ومتعلمه",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Nsl-_Fw948I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Nsl-_Fw948I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Nsl-_Fw948I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Nsl-_Fw948I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Nsl-_Fw948I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Nsl-_Fw948I"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Nsl-_Fw948I",
+                "videoPublishedAt": "2024-03-06T19:13:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vePOZOkfqC5A_yrsebwuwqk9wfg",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:06:23Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (7) فصل في الإعراض عن أعراض الدنيا",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FEirMgv3gi8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FEirMgv3gi8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FEirMgv3gi8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FEirMgv3gi8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/FEirMgv3gi8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FEirMgv3gi8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "FEirMgv3gi8",
+                "videoPublishedAt": "2024-03-06T19:10:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nB3zaHIBbMM_Xquyc1Y3yQ4Gxek",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:06:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (8)إحسان المعلم فيمن يقصدونه",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YoiB35C4Tgc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YoiB35C4Tgc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YoiB35C4Tgc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YoiB35C4Tgc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YoiB35C4Tgc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YoiB35C4Tgc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YoiB35C4Tgc",
+                "videoPublishedAt": "2024-03-06T19:12:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4hOmntgZD2bR3urTy9YCn60HVGQ",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:07:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (9) في حكم التعليم",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/foj8IWlmfRY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/foj8IWlmfRY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/foj8IWlmfRY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/foj8IWlmfRY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/foj8IWlmfRY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "foj8IWlmfRY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "foj8IWlmfRY",
+                "videoPublishedAt": "2024-03-06T19:13:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AtYw2zNtJrWXrly8Ux5PIQYrzTk",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:08:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (10) في أهلية المعلم واحترام الطالب له",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0rjOHOmCxUk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0rjOHOmCxUk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0rjOHOmCxUk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0rjOHOmCxUk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0rjOHOmCxUk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0rjOHOmCxUk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0rjOHOmCxUk",
+                "videoPublishedAt": "2024-03-06T19:14:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0I8ekJ7VAfMbyRJyZTSFmf6lwRo",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:10:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (11) في الحرص على العلم",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IFEq5ftAwqE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IFEq5ftAwqE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IFEq5ftAwqE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IFEq5ftAwqE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/IFEq5ftAwqE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IFEq5ftAwqE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "IFEq5ftAwqE",
+                "videoPublishedAt": "2024-03-06T19:15:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BgbL1xPvfNVZoo6Ko8PHoxcEMew",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:09:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (12) في المدة التي يختم فيها القرآن الكريم",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Pgu1UuPdU_8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Pgu1UuPdU_8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Pgu1UuPdU_8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Pgu1UuPdU_8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Pgu1UuPdU_8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Pgu1UuPdU_8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Pgu1UuPdU_8",
+                "videoPublishedAt": "2024-03-06T19:15:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dyMp5NfF8y9o-_1x3kMb_17XHJY",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:11:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (13)المحافظة على القراءة في الليل",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5W8H2SUj5IY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5W8H2SUj5IY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5W8H2SUj5IY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5W8H2SUj5IY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5W8H2SUj5IY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5W8H2SUj5IY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "5W8H2SUj5IY",
+                "videoPublishedAt": "2024-03-06T19:17:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yargHEYjwdVF0bMVn1MzBvxfK9Y",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:12:12Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (14) فصل فيمن نام عن ورده",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PJ1rsaIr0R0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PJ1rsaIr0R0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PJ1rsaIr0R0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PJ1rsaIr0R0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PJ1rsaIr0R0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "PJ1rsaIr0R0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "PJ1rsaIr0R0",
+                "videoPublishedAt": "2024-03-06T19:18:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S0TP33jLVgtV-nRLaxhRZR85Czs",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:13:12Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (15) في أماكن قراءة القران",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/95lYrsBHG88/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/95lYrsBHG88/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/95lYrsBHG88/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/95lYrsBHG88/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/95lYrsBHG88/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "95lYrsBHG88"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "95lYrsBHG88",
+                "videoPublishedAt": "2024-03-06T19:19:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "14B7m_sbJkgo_AMSNIDZh_Gib0Q",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:23:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (16) في تدبر القرآن والخشوع عند القراءة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jxmXhRJMIZA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jxmXhRJMIZA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jxmXhRJMIZA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jxmXhRJMIZA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jxmXhRJMIZA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "jxmXhRJMIZA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "jxmXhRJMIZA",
+                "videoPublishedAt": "2024-03-06T19:27:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dlZOMQeUAPC5Ys5S4QiMXihtlZ4",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:25:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان  (17) فصل في استحباب التسبيح والاستعاذة والسؤال إذا مرَّ بآية تناسب ذلك",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Vuiq3nkD80g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Vuiq3nkD80g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Vuiq3nkD80g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Vuiq3nkD80g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Vuiq3nkD80g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Vuiq3nkD80g"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Vuiq3nkD80g",
+                "videoPublishedAt": "2024-03-06T19:31:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0T0hYLOsEsXPaBrHAbMKHfILf60",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:26:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن (18)لاختيار أن يقرأ على ترتيب المصحف",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ty2CzpDcVk0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ty2CzpDcVk0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ty2CzpDcVk0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ty2CzpDcVk0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ty2CzpDcVk0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ty2CzpDcVk0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Ty2CzpDcVk0",
+                "videoPublishedAt": "2024-03-06T19:35:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_ngxVMoHB859PinIcH55bBsT6Ik",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:27:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (19) رفع الصوت بالقراءة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/brrHN9hSNbU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/brrHN9hSNbU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/brrHN9hSNbU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/brrHN9hSNbU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/brrHN9hSNbU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "brrHN9hSNbU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "brrHN9hSNbU",
+                "videoPublishedAt": "2024-03-06T19:33:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RD0uOXDvzgaivR8ohWdex1DdbP4",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:28:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن(20) فصل في مراعاة المعنى في ابتداء القراءة ووقفها.",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WneGDDJNI6E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WneGDDJNI6E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WneGDDJNI6E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WneGDDJNI6E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WneGDDJNI6E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WneGDDJNI6E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WneGDDJNI6E",
+                "videoPublishedAt": "2024-03-06T19:33:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jzH3Bz5s5rqo5ForgYC0vdbBXjk",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:29:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن (21) مسائل تدعو الحاجة إليها",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/92dBhFsPf-I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/92dBhFsPf-I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/92dBhFsPf-I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/92dBhFsPf-I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/92dBhFsPf-I/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "92dBhFsPf-I"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "92dBhFsPf-I",
+                "videoPublishedAt": "2024-03-06T19:35:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kvxagw1Q3cdWIHV861jN8dMW_1Y",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:31:01Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن (22) في أحكام نفيسة تتعلق بالقراءة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/88CWM7HQUiE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/88CWM7HQUiE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/88CWM7HQUiE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/88CWM7HQUiE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/88CWM7HQUiE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "88CWM7HQUiE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "88CWM7HQUiE",
+                "videoPublishedAt": "2024-03-06T19:35:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "qF9IO6A_EJZPjiW5Tue0mYHWKH4",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:32:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن (23) في معاني آمين وأحكامها، وأحكام سجود التلاوة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RAwsf56qJSQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RAwsf56qJSQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RAwsf56qJSQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/RAwsf56qJSQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/RAwsf56qJSQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "RAwsf56qJSQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "RAwsf56qJSQ",
+                "videoPublishedAt": "2024-03-06T19:37:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eaNmkrr0cG24HAk3mhJKGx_ZPlg",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:34:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن (24) تكملة أحكام سجود التلاوة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/bfUPVgUTmvA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/bfUPVgUTmvA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/bfUPVgUTmvA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/bfUPVgUTmvA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/bfUPVgUTmvA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "bfUPVgUTmvA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "bfUPVgUTmvA",
+                "videoPublishedAt": "2024-03-06T19:41:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OdchSza75sHv71kU5vatpfCXp1Y",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:35:49Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن(25) الجزء الثالث من أحكام سجود التلاوة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HlccVcB_Cr4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HlccVcB_Cr4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HlccVcB_Cr4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HlccVcB_Cr4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HlccVcB_Cr4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HlccVcB_Cr4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "HlccVcB_Cr4",
+                "videoPublishedAt": "2024-03-06T19:45:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oUwDQM3GaP8PaRShn8EaReeVAtE",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2025-01-26T08:19:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن للنووي (26) في آداب ختم القرآن الكريم",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mMsNotbC3D8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mMsNotbC3D8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mMsNotbC3D8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mMsNotbC3D8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mMsNotbC3D8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mMsNotbC3D8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "mMsNotbC3D8",
+                "videoPublishedAt": "2025-01-26T08:19:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tAQaeV8B6ox2X-4Ex_E42KNYrTg",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:36:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن (27) تعليم الكافر القرآن",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GbLx4i3MVOs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GbLx4i3MVOs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GbLx4i3MVOs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GbLx4i3MVOs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GbLx4i3MVOs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GbLx4i3MVOs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "GbLx4i3MVOs",
+                "videoPublishedAt": "2024-03-06T19:48:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d7aKSL0mYB8ECvhUoGMRHI7v4vI",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:38:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان (28) فصل فيما يقرأ في سنة الفجر والمغرب وفيما يقرأ في الاستخارة والوتر",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q9Hi06DAU5Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q9Hi06DAU5Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q9Hi06DAU5Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q9Hi06DAU5Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/q9Hi06DAU5Y/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q9Hi06DAU5Y"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "q9Hi06DAU5Y",
+                "videoPublishedAt": "2024-03-06T19:44:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6EIdp5PjoLfAONaKfBkRFn87dWk",
+            "id": "UExFRDREai1UNDNyT2tDeUo1RzdGNHoxOHhxeWgwdlhHeC4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2024-03-06T19:39:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "التبيان في آداب حملة القرآن (29) في حكم مس المصحف وحمله للمحدث",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف كتب له القبول في الأرض، هو الإمام النووي رحمه الله، وميزة هذا الكتاب أنه كتاب عملي يحتاجه كل قارئ للقرآن، فقد جمع الإمام النووي جميع الآداب والأحكام التي تتعلق بقراءة القرآن، وامتاز هذا الشرح بتفصيل الآيات والأحاديث الواردة في الكتاب، مع ذكر اللطائف التفسيرية والدقائق التربوية التي تضمنها الكتاب ، مع ذكر أقول المذاهب الأربعة؛ ليعم النفع بالكتاب لكل أصحاب المذاهب، مع التركيز على مذهب الشافعية ؛ لأن الإمام النووي بنى كتابه عليه.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة: الشيخ عبد القادر وحيد الدين التركي الذي راجع التسجيلات، والشيخ رضوان الكردي الذي صنع الشرائح.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4TVLYdxYGMk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4TVLYdxYGMk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4TVLYdxYGMk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4TVLYdxYGMk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4TVLYdxYGMk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOkCyJ5G7F4z18xqyh0vXGx",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4TVLYdxYGMk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4TVLYdxYGMk",
+                "videoPublishedAt": "2024-03-06T19:48:02Z"
+            }
+        }
+    ],
+    "title": "شرح التبيان في آداب حملة القرآن للإمام النووي",
+    "nav": "شرح التبيان في آداب حملة القرآن للإمام النووي",
+    "id": "4_0_3"
+}

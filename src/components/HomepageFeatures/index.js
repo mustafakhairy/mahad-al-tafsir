@@ -1,64 +1,75 @@
 import React from "react";
-import clsx from "clsx";
 import styles from "./styles.module.css";
 import { useColorMode } from '@docusaurus/theme-common';
 import useBaseUrl from "@docusaurus/useBaseUrl";
-import tafsirJson from "../../../content/tafsir.json";
+import structureJson from "../../../content/resolved-structure.json";
 import videocount from "../../../content/videocount.json";
 import VideoIcon from "@site/static/svg/tv-solid.svg";
 import YoutubeIcon from "@site/static/svg/youtube-brands.svg";
 import Link from "@docusaurus/Link";
 
-function Feature({ image, title, nav, content, index }) {
-  const {colorMode, setColorMode} = useColorMode();
+function sanitizeNav(str) {
+  return str
+    .replace(/[*\\/:?"<>|#()]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function Feature({ image, title, nav, sections, index }) {
+  const {colorMode} = useColorMode();
+
+  // Flatten sections into a list of playlists for display
+  const allPlaylists = [];
+  for (const section of sections) {
+    for (const playlist of section.playlists) {
+      allPlaylists.push({
+        ...playlist,
+        nav: sanitizeNav(playlist.nav),
+        sectionNav: sanitizeNav(section.nav),
+      });
+    }
+  }
+
+  const firstPlaylist = allPlaylists.length > 0 ? allPlaylists[0] : null;
+  const iconFill = colorMode === 'dark' ? '#4dbf4d' : '#853934';
 
   return (
-    <div className={clsx("col col--6")}>
-      <div className={styles.sectionContainer}>
-        <div className={styles.cardContainer}>
-          <img src={useBaseUrl("/img/sections/" + image)} />
-          <div className={styles.textCol}>
-            <Link to={`/videos/${nav}/${content[0].nav}`}>
-              <h3 className={styles.sectionTitle}>{title}</h3>
-            </Link>
-            <ul>
-              {content.map(
-                (item, index) =>
-                  ("playlistid" in item || "content" in item) && (
-
-                    <li key={index + 1000}>
-                      <span style={{ marginLeft: '5px' }}>
-                        <YoutubeIcon
-                          title="Youtube video"
-                          className="videoIconClass"
-                          width="14px"
-                          fill={colorMode === 'dark' ?  '#4dbf4d' : '#853934'}
-                        />
-                      </span>
-                      <Link
-                        to={
-                          "playlistid" in item
-                            ? `/videos/${nav}/${item.nav}`
-                            : "type" in item
-                            ? `/videos/${nav}/${item.nav}/${item.content[0].title}`
-                            : `/videos/${nav}/${item.nav}/${item.content[0].nav}`
-                        }
-                      >
-                        {item.nav}
-                      </Link>
-                    </li>
-                  )
-              )}
-            </ul>
-            <div className={styles.bottomLabel}>
-              <VideoIcon
-                title="video count"
+    <div className={styles.card}>
+      <div className={styles.cardImage}>
+        <img src={useBaseUrl("/img/sections/" + image)} alt={title} />
+      </div>
+      <div className={styles.cardBody}>
+        <Link
+          to={
+            firstPlaylist
+              ? `/videos/${nav}/${firstPlaylist.sectionNav}/${firstPlaylist.nav}`
+              : `/videos/${nav}`
+          }
+        >
+          <h3 className={styles.cardTitle}>{title}</h3>
+        </Link>
+        <ul className={styles.playlistList}>
+          {allPlaylists.map((item, idx) => (
+            <li key={idx}>
+              <YoutubeIcon
+                title="Youtube video"
                 className="videoIconClass"
-                width="12px"
-                fill={colorMode === 'dark' ?  '#4dbf4d' : '#853934'}
-              /> {videocount.count[index]} تسجيلات
-            </div>
-          </div>
+                width="14px"
+                fill={iconFill}
+              />
+              <Link to={`/videos/${nav}/${item.sectionNav}/${item.nav}`}>
+                {item.nav}
+              </Link>
+            </li>
+          ))}
+        </ul>
+        <div className={styles.cardFooter}>
+          <VideoIcon
+            title="video count"
+            className="videoIconClass"
+            width="12px"
+            fill={iconFill}
+          /> {videocount.count[index]} تسجيلات
         </div>
       </div>
     </div>
@@ -69,11 +80,9 @@ export default function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {tafsirJson.content.map((props, idx) => (
-            <Feature key={idx} {...props} index={idx} />
-          ))}
-        </div>
+        {structureJson.content.map((props, idx) => (
+          <Feature key={idx} {...props} index={idx} />
+        ))}
       </div>
     </section>
   );

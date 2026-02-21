@@ -1,0 +1,3780 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "o1N3x5gIKQuxlgTuxlFZu9gVEgU",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2020-12-27T06:57:09Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح المقصود في الصرف(1) المبادئ العشرة",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nhttps://drive.google.com/file/d/1V3Fn1lB2eDpl9tG6hxUqIOLaA_JbFW-2/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XeX_Os88ep8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XeX_Os88ep8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XeX_Os88ep8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XeX_Os88ep8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XeX_Os88ep8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "XeX_Os88ep8",
+                "videoPublishedAt": "2020-12-27T06:54:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QexEXLPXeBm5N-yEjErbmQ_ILZw",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2020-12-23T04:58:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح المقصود في الصرف(2)  تكملة المبادئ العشرة",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا: شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E2qg_G9Gd68/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E2qg_G9Gd68/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E2qg_G9Gd68/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E2qg_G9Gd68/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E2qg_G9Gd68"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "E2qg_G9Gd68",
+                "videoPublishedAt": "2020-12-23T04:59:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kzfFTBjs2uxbNTLJjVb_JuDhfQY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-12-23T05:00:28Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح المقصود في الصرف (3) مقدمة الكتاب",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا: شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Canb17QA62c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Canb17QA62c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Canb17QA62c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Canb17QA62c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Canb17QA62c"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Canb17QA62c",
+                "videoPublishedAt": "2020-12-23T05:00:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OBHzWdwgjwPDyTLcCLiFjXfsCDY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-12-23T05:01:49Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "المقصود (4) تكملة مقدمة المتن وتلخيص أبواب الأفعال",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا: شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0Ufk5mQYyNM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0Ufk5mQYyNM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0Ufk5mQYyNM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0Ufk5mQYyNM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0Ufk5mQYyNM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0Ufk5mQYyNM",
+                "videoPublishedAt": "2020-12-23T05:02:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SpY-6EAAW5cUV8CLWSVS_ogQti0",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-12-23T05:03:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "المقصود في الصرف )(5) الميزان الصرفي",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا: شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6z-RbpXpH-E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6z-RbpXpH-E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6z-RbpXpH-E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/6z-RbpXpH-E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "6z-RbpXpH-E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "6z-RbpXpH-E",
+                "videoPublishedAt": "2020-12-23T05:03:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mDETjRJ0q43nP7ynAM1wlFRbxsg",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2020-12-23T04:28:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح المقصود في الصرف (6) الثلاثي المجرد",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا: شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ufvncsZnAJQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ufvncsZnAJQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ufvncsZnAJQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ufvncsZnAJQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ufvncsZnAJQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ufvncsZnAJQ",
+                "videoPublishedAt": "2020-12-23T04:40:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ipXL9ns71FyoPUzGiC_gL2VZK78",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2021-01-04T20:54:12Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح المقصود (7) الباب الرابع والخامس والسادس من المجرد",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا: شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zEBb4VlEoRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zEBb4VlEoRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zEBb4VlEoRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zEBb4VlEoRs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zEBb4VlEoRs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "zEBb4VlEoRs",
+                "videoPublishedAt": "2021-01-04T20:55:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "-HCMEVXye10y8WpJP2qwR8bteyA",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2021-01-06T13:35:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح المقصود(8) الرباعي المجرد",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا: شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WEw91G0k7tk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WEw91G0k7tk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WEw91G0k7tk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WEw91G0k7tk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WEw91G0k7tk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WEw91G0k7tk",
+                "videoPublishedAt": "2021-01-06T13:38:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wfDvgB-1h3i4W1VJ7itNeSfeybo",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2021-01-15T20:59:09Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح المقصود (9) الملحق بالرباعي",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا: شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MTKoxGQhZ8U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MTKoxGQhZ8U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MTKoxGQhZ8U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MTKoxGQhZ8U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MTKoxGQhZ8U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MTKoxGQhZ8U",
+                "videoPublishedAt": "2021-01-15T21:03:08Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tBttwoKFAwVgBg6PgnN745JqXQY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:44:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(10) /الثلاثي المزيد مع مراجعة جميع الأبواب",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y7I-aXbIui4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y7I-aXbIui4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y7I-aXbIui4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y7I-aXbIui4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Y7I-aXbIui4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Y7I-aXbIui4",
+                "videoPublishedAt": "2021-01-18T18:48:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_xcyF3ys-qAIEd5H3cwLy_UKmAw",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:47:52Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(11) / تكملة التدريبات",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z-YtaAyscWo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z-YtaAyscWo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z-YtaAyscWo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z-YtaAyscWo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "z-YtaAyscWo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "z-YtaAyscWo",
+                "videoPublishedAt": "2021-01-18T18:48:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3jgEUDrYUAFWMsxdg-V295vN03A",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:49:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(12) / معاني صيغة (أفعل)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BftAK1wA6nE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BftAK1wA6nE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BftAK1wA6nE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BftAK1wA6nE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BftAK1wA6nE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BftAK1wA6nE",
+                "videoPublishedAt": "2021-01-18T18:49:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8Qwtpbj0aVvjHy1cumnrjNB84L8",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:50:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(13) / معاني صيغة (فعَّل)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_jzjNT0kXOE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_jzjNT0kXOE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_jzjNT0kXOE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_jzjNT0kXOE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_jzjNT0kXOE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "_jzjNT0kXOE",
+                "videoPublishedAt": "2021-01-18T18:50:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bauWXtdBwyKqr4KjC-Ij4Y2lmmY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:51:46Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود \"(14) /معاني صيغتي (فاعل) و(انفعل)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-ogN6FvqVHA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-ogN6FvqVHA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-ogN6FvqVHA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-ogN6FvqVHA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-ogN6FvqVHA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-ogN6FvqVHA",
+                "videoPublishedAt": "2021-01-18T18:51:51Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2_KCdn-J0qT_rwWPe2entgmW3Os",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:52:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(15) / معاني(انفعل، وافتعل، وتفعَّل، وتفاعل)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/FVKM_xvEECM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/FVKM_xvEECM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/FVKM_xvEECM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/FVKM_xvEECM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "FVKM_xvEECM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "FVKM_xvEECM",
+                "videoPublishedAt": "2021-01-18T18:53:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SXcePZNqF1OU5tI4xFPqjLgfLfU",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:54:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(16) /الثلاثي المزيد بثلاثة أحرف مع الخلاف في أصل المشتقات",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/N9t9BfKHXZU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/N9t9BfKHXZU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/N9t9BfKHXZU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/N9t9BfKHXZU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/N9t9BfKHXZU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "N9t9BfKHXZU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "N9t9BfKHXZU",
+                "videoPublishedAt": "2021-01-18T18:54:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BMn_kvf_DDb3EB_-oi5Ejr4Bmvg",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:55:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(17) / المصادر",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TJ5AhRWoMig/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TJ5AhRWoMig/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TJ5AhRWoMig/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TJ5AhRWoMig/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TJ5AhRWoMig/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TJ5AhRWoMig"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "TJ5AhRWoMig",
+                "videoPublishedAt": "2021-01-18T18:55:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BpQnS2KWD_6ukqBr3wCTedc5L_E",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2021-01-18T18:59:39Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود \"(18) / تدريبات على المصادر",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_P71_x9XtA0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_P71_x9XtA0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_P71_x9XtA0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_P71_x9XtA0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_P71_x9XtA0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "_P71_x9XtA0",
+                "videoPublishedAt": "2021-01-18T19:03:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8zbJbvq7J84KPKAt_J25le682X0",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:32:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود \"(19) / تكملة تدريبات المصادر",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0BmuKlu-XKU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0BmuKlu-XKU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0BmuKlu-XKU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0BmuKlu-XKU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0BmuKlu-XKU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0BmuKlu-XKU",
+                "videoPublishedAt": "2021-02-05T07:32:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Qp9sZ23ONVdoKh64Ye1xn6zE0mc",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:33:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(20) / اسم الزمان والمكان",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IP6s3InoaxU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IP6s3InoaxU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IP6s3InoaxU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IP6s3InoaxU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IP6s3InoaxU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "IP6s3InoaxU",
+                "videoPublishedAt": "2021-02-05T07:36:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4M49Arynrgk5Dim8vobTDOJr_UY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:36:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(21) /تكملة اسم الزمان والمكان مع ذكر الخلاف",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5vBOZh7m9Ik/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5vBOZh7m9Ik/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5vBOZh7m9Ik/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5vBOZh7m9Ik/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5vBOZh7m9Ik/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5vBOZh7m9Ik"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "5vBOZh7m9Ik",
+                "videoPublishedAt": "2021-02-05T07:38:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IoyWMlaxRo0ZvtjXk_0PnJWX9-Q",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:38:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود \"(22) / اسم الزمان والمكان من شرح إزلة القيود",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rbaPwRBxqUU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rbaPwRBxqUU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rbaPwRBxqUU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rbaPwRBxqUU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/rbaPwRBxqUU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rbaPwRBxqUU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "rbaPwRBxqUU",
+                "videoPublishedAt": "2021-02-05T07:40:06Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Ymz8Nq_xfxOIIKAPmxli17Mof28",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:51:35Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(23) / تدريبات على اسم الزمان والمكان",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WFcrUGcCKiY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WFcrUGcCKiY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WFcrUGcCKiY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WFcrUGcCKiY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WFcrUGcCKiY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WFcrUGcCKiY",
+                "videoPublishedAt": "2021-02-05T07:51:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "HaYwBTcvp7TabTydDF7yZrUtxwk",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2021-02-05T08:01:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(24) / تكملة التديريبات",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OY3uqO4dZx0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OY3uqO4dZx0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OY3uqO4dZx0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OY3uqO4dZx0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OY3uqO4dZx0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "OY3uqO4dZx0",
+                "videoPublishedAt": "2021-02-05T08:04:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "oe2EWMjEPEjhVrRoJkQsMN3h5to",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2021-02-05T07:52:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(25) / أحوال أول الماضي وآخره وباب همزة الوصل",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3jm16j44aLA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3jm16j44aLA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3jm16j44aLA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3jm16j44aLA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3jm16j44aLA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3jm16j44aLA",
+                "videoPublishedAt": "2021-02-05T07:56:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "RwxZ3Gz8QvIPUCQtfVW3LfKnYa8",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2021-04-08T07:27:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(26) /هيئة الفعل المبني للمجهول الفعل المضارع",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mUYNZqr3i7I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mUYNZqr3i7I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mUYNZqr3i7I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mUYNZqr3i7I/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mUYNZqr3i7I"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "mUYNZqr3i7I",
+                "videoPublishedAt": "2021-04-08T07:43:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "A00Dqk9y_wiiSY2LF3omHr3gx5A",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS43QzNCNkZENzIyMDY2MjZB",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:05:52Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(27 ) / الفعل المضارع المبني للمجهول مع التمرينات",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v5cN7dGKCJ8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v5cN7dGKCJ8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v5cN7dGKCJ8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/v5cN7dGKCJ8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "v5cN7dGKCJ8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "v5cN7dGKCJ8",
+                "videoPublishedAt": "2021-08-01T20:53:11Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wJWkQCkbn1fQSOTD_p7mktJ_O7Y",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2021-04-25T18:26:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(28) /كيفية صياغة فعل الأمر",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yaRVoUMS5cU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yaRVoUMS5cU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yaRVoUMS5cU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/yaRVoUMS5cU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "yaRVoUMS5cU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "yaRVoUMS5cU",
+                "videoPublishedAt": "2021-04-25T18:29:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K46Z262DkaFb7yqgT_ibG_PqAjg",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2021-04-25T18:27:55Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(29) / اسم الفاعل والصفة المشبهة",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/G3GHFFys344/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/G3GHFFys344/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/G3GHFFys344/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/G3GHFFys344/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/G3GHFFys344/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "G3GHFFys344"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "G3GHFFys344",
+                "videoPublishedAt": "2021-04-25T18:34:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0JO797WcGyQ23KiW8j2k7rIzjAU",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2021-04-27T01:12:01Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(30) / اسم المفعول",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2XnSNOki2H8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2XnSNOki2H8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2XnSNOki2H8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2XnSNOki2H8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2XnSNOki2H8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2XnSNOki2H8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2XnSNOki2H8",
+                "videoPublishedAt": "2021-04-27T01:17:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6PcTqZdEycRzl6dpGVYXURppxTQ",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2021-04-25T18:29:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(31) / أوزان مبالغة اسم الفاعل والمفعول",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2OUb0Hd62dA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2OUb0Hd62dA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2OUb0Hd62dA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2OUb0Hd62dA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2OUb0Hd62dA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2OUb0Hd62dA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2OUb0Hd62dA",
+                "videoPublishedAt": "2021-04-25T18:33:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yB7DzH8nvw4kLW1uE_eaenwvuOE",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS40QTA3NTU2RkM1QzlCMzYx",
+            "snippet": {
+                "publishedAt": "2021-04-27T01:39:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(32) /تصريف الأفعال الصحيحة",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-US2Gniy-do/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-US2Gniy-do/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-US2Gniy-do/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-US2Gniy-do/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-US2Gniy-do/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-US2Gniy-do"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-US2Gniy-do",
+                "videoPublishedAt": "2021-04-27T01:39:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "KGCzgkE8i9srAZgke7jyRXJLcJ8",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5BRjJDODk5REM0NjkzMUIy",
+            "snippet": {
+                "publishedAt": "2021-05-01T17:03:09Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(33) / جموع اسم الفاعل والمفعول",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/M84_R2ifHHk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/M84_R2ifHHk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/M84_R2ifHHk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/M84_R2ifHHk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/M84_R2ifHHk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "M84_R2ifHHk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "M84_R2ifHHk",
+                "videoPublishedAt": "2021-05-01T17:03:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "koQj_08U2nI0PtbYgfaM04dC6pQ",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5GNDg1Njc1QzZERjlFRjE5",
+            "snippet": {
+                "publishedAt": "2021-05-01T17:04:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(34) / أحكام نون التوكيد الثقيلة والخفيفة",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iRDLzYGimdk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iRDLzYGimdk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iRDLzYGimdk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iRDLzYGimdk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iRDLzYGimdk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iRDLzYGimdk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "iRDLzYGimdk",
+                "videoPublishedAt": "2021-05-01T17:04:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DZ4R5fN7Rrn5tqXLzH8fapsTWaI",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4zQzFBN0RGNzNFREFCMjBE",
+            "snippet": {
+                "publishedAt": "2021-05-01T17:05:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(35) / تدريبات على نون التأكيد",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ID1qZzMwfFw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ID1qZzMwfFw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ID1qZzMwfFw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ID1qZzMwfFw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ID1qZzMwfFw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ID1qZzMwfFw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ID1qZzMwfFw",
+                "videoPublishedAt": "2021-05-01T17:05:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "_7vdYV-EU9Ip11IqWBXcw-TGlpY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS45NkVENTkxRDdCQUFBMDY4",
+            "snippet": {
+                "publishedAt": "2021-05-01T17:06:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(36) / إكمال الكلام على النون مع تصريف نصر",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/chbcW5qbEVE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/chbcW5qbEVE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/chbcW5qbEVE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/chbcW5qbEVE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/chbcW5qbEVE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "chbcW5qbEVE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "chbcW5qbEVE",
+                "videoPublishedAt": "2021-05-01T17:06:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mnYBD9nloTGP1rR51-rhO2xCxWY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5DNkMwRUI2MkI4QkI4NDFG",
+            "snippet": {
+                "publishedAt": "2021-05-01T17:07:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(37) / التصريف الكامل للفعل الصحيح",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MdM1wwQAWQw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MdM1wwQAWQw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MdM1wwQAWQw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/MdM1wwQAWQw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/MdM1wwQAWQw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 36,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "MdM1wwQAWQw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "MdM1wwQAWQw",
+                "videoPublishedAt": "2021-05-01T17:07:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "kdVWUPuNPSMNoM1OAN7t4pddhdo",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5DRUQwODMxQzUyRTlGRkY3",
+            "snippet": {
+                "publishedAt": "2021-05-01T17:08:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(38) / التصريف الكامل للرباعي المجرد",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_r0BrCAeHBQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_r0BrCAeHBQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_r0BrCAeHBQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/_r0BrCAeHBQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/_r0BrCAeHBQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 37,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "_r0BrCAeHBQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "_r0BrCAeHBQ",
+                "videoPublishedAt": "2021-05-01T17:08:04Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1mLy6KUuZ1zUynWv5jrklfpcxAI",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41MzY4MzcwOUFFRUU3QzEx",
+            "snippet": {
+                "publishedAt": "2021-05-01T17:14:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(39) / تصريف (الملحق حوقل الملحق بدحرج",
+                "description": "هذا رابط كتاب إزالة القيود في شرح المقصود للشيخ عبد الملك السعدي حفظه الله \nhttps://drive.google.com/file/d/17FTwB_JqE5F_61fqcxrLEdvMPtJMNKd6/view?usp=sharing\nرابط رابط تصريف الأسماء والأفعال المعتمد في الدورة \nhttps://drive.google.com/file/d/1a8ubnMFT-LdvVwJur3tJkygjKbFosiAS/view?usp=sharing\nالمستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/USsjfBaXLmk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/USsjfBaXLmk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/USsjfBaXLmk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/USsjfBaXLmk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/USsjfBaXLmk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 38,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "USsjfBaXLmk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "USsjfBaXLmk",
+                "videoPublishedAt": "2021-05-01T17:15:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dDcPzRBGSJwnlumQROJvlUekSvw",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+                "publishedAt": "2021-05-14T12:54:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(40) /تكميل تصريف الثلاثي الملحق بالرباعي",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E4_wHj1q1Rg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E4_wHj1q1Rg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E4_wHj1q1Rg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/E4_wHj1q1Rg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/E4_wHj1q1Rg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 39,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "E4_wHj1q1Rg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "E4_wHj1q1Rg",
+                "videoPublishedAt": "2021-05-14T12:55:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rzKDF7R2V9TG4iaAy2sSG4cgllA",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41RTNBREYwMkI5QzU3RkY2",
+            "snippet": {
+                "publishedAt": "2021-05-14T12:58:00Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(41) /تكميل تصريفالملحق بالرباعي (جلبب)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qb5Gv4bskVU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qb5Gv4bskVU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qb5Gv4bskVU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qb5Gv4bskVU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 40,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qb5Gv4bskVU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qb5Gv4bskVU",
+                "videoPublishedAt": "2021-05-14T12:58:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EtyKHE3HESbUWq8eSNVhfDmpK30",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4yQjZFRkExQjFGODk3RUFD",
+            "snippet": {
+                "publishedAt": "2021-05-14T12:53:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(42) تكميل تصريف (سلقى)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/O9rH5Ub1_sg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/O9rH5Ub1_sg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/O9rH5Ub1_sg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/O9rH5Ub1_sg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 41,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "O9rH5Ub1_sg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "O9rH5Ub1_sg",
+                "videoPublishedAt": "2021-05-14T12:56:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4YDus7700mHtbM7QeiaO819TFCw",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5ENjI1QUI0MDI5NEQzODFE",
+            "snippet": {
+                "publishedAt": "2021-05-14T12:58:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(43) /الثلاثي المزيد بحرف (أخرج)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ntSAFgp13g4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ntSAFgp13g4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ntSAFgp13g4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ntSAFgp13g4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 42,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ntSAFgp13g4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ntSAFgp13g4",
+                "videoPublishedAt": "2021-05-14T13:03:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GIY6_8jNYbtbpJ_dSUvTcyV98cE",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS40QzRDOEU0QUYwNUIxN0M1",
+            "snippet": {
+                "publishedAt": "2021-05-14T12:55:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(44) /تصريف (فرَّح)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4Yqyo5hrzFs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4Yqyo5hrzFs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4Yqyo5hrzFs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4Yqyo5hrzFs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 43,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4Yqyo5hrzFs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4Yqyo5hrzFs",
+                "videoPublishedAt": "2021-05-14T12:55:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "9FGqADb4pHMAnZx7YL2iSgEbvIY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:02:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(45) /الثلاثي المزيد بحرفين",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YhKH06LFWTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YhKH06LFWTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YhKH06LFWTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YhKH06LFWTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/YhKH06LFWTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 44,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YhKH06LFWTI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YhKH06LFWTI",
+                "videoPublishedAt": "2021-05-14T13:02:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ZPQM7h2zbUV9y3aBE3C-7L6Z7-M",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4xMzgwMzBERjQ4NjEzNUE5",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:03:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(46) /التصريف الكامل للثلاثي المزبد بحرفين",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/30lXXtoGcgs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/30lXXtoGcgs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/30lXXtoGcgs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/30lXXtoGcgs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/30lXXtoGcgs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 45,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "30lXXtoGcgs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "30lXXtoGcgs",
+                "videoPublishedAt": "2021-05-14T13:10:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yWZqn1ijSsgdf6L9V_n7boBHX0w",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41NTZEOThBNThFOUVGQkVB",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:05:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(47) /التصريف الكامل لـ(تعلم)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fP8ZDqF85S8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fP8ZDqF85S8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fP8ZDqF85S8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fP8ZDqF85S8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fP8ZDqF85S8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 46,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fP8ZDqF85S8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fP8ZDqF85S8",
+                "videoPublishedAt": "2021-05-14T13:05:58Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "SROwprnVv1hdGvMNy4x2uT_aljs",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:05:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(48) /تصريف (تباعد)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fmAfpaXUypQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fmAfpaXUypQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fmAfpaXUypQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fmAfpaXUypQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fmAfpaXUypQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 47,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fmAfpaXUypQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fmAfpaXUypQ",
+                "videoPublishedAt": "2021-05-14T13:13:12Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ttVg8tXboahM4XYoNchnRshrqMs",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4wMTYxQzVBRDI1NEVDQUZE",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:15:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(49) / تصريف (ادثر) و(تثاقل)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cYtmM6kQ1h4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cYtmM6kQ1h4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cYtmM6kQ1h4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cYtmM6kQ1h4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/cYtmM6kQ1h4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 48,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cYtmM6kQ1h4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "cYtmM6kQ1h4",
+                "videoPublishedAt": "2021-05-14T13:15:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8DTkM1U7IMRnJho0qLMsaeLd0DE",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4wNEU1MTI4NkZEMzVBN0JF",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:14:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(50) / تصريف (اثاقل)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XWny9rSHDO8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XWny9rSHDO8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XWny9rSHDO8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XWny9rSHDO8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 49,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XWny9rSHDO8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "XWny9rSHDO8",
+                "videoPublishedAt": "2021-05-14T13:14:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BfTWvMSLGIfKMlBBW8hByLOOGVo",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5CQkEwRDA0MDkwNUM2MDY1",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:14:05Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(51) /تصريف (تدحرج) و(استغفر)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9TFWZaj0gkU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9TFWZaj0gkU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9TFWZaj0gkU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9TFWZaj0gkU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9TFWZaj0gkU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 50,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9TFWZaj0gkU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9TFWZaj0gkU",
+                "videoPublishedAt": "2021-05-14T13:14:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d_oSaX4a5qETVusxlNPcdtbgKHI",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5GNjAwN0Y0QTFGOTVDMEMy",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:07:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(52) /تصريف(احمر)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mGuVibk_WDY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mGuVibk_WDY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mGuVibk_WDY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mGuVibk_WDY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 51,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "mGuVibk_WDY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "mGuVibk_WDY",
+                "videoPublishedAt": "2021-05-14T13:07:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "UasksvYMqnsyBUncZN-CD75j9HQ",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS43NERCMDIzQzFBMERCMEE3",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:06:48Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(53) /تصريفـ(اعشوشب)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QyZriyZyMzM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QyZriyZyMzM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QyZriyZyMzM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/QyZriyZyMzM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/QyZriyZyMzM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 52,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "QyZriyZyMzM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "QyZriyZyMzM",
+                "videoPublishedAt": "2021-05-14T13:06:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "POdoFM_CHE1FM2a9hv1Sr4RTrtk",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:04:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(54) /تصريف(اجلوذ)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fo7Sp61XXvU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fo7Sp61XXvU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fo7Sp61XXvU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fo7Sp61XXvU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 53,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fo7Sp61XXvU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fo7Sp61XXvU",
+                "videoPublishedAt": "2021-05-14T13:04:18Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NOSEj5V34O7uavqv1w9bbhO5jBE",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4zMUEyMkQwOTk0NTg4MDgw",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:22:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(55) / تصريف (اسلنقى)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4c9a6R65-c8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4c9a6R65-c8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4c9a6R65-c8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4c9a6R65-c8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4c9a6R65-c8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 54,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4c9a6R65-c8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4c9a6R65-c8",
+                "videoPublishedAt": "2021-05-14T13:33:07Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uc7abQj4cKzNS4uGN8YeD0Oucr0",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS42QzdBMzlBQzQzRjQ0QkQy",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:23:29Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(56) / تصريف (اقشعر) و(احرنجم)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/EIVDB9OJkM8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/EIVDB9OJkM8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/EIVDB9OJkM8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/EIVDB9OJkM8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/EIVDB9OJkM8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 55,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "EIVDB9OJkM8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "EIVDB9OJkM8",
+                "videoPublishedAt": "2021-05-14T13:24:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xMcx9ZGxocEH0MDOEWBpTZPxG64",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS41OURENDc2NEM1MDI5Mjky",
+            "snippet": {
+                "publishedAt": "2021-05-14T13:24:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(57) / الفوائد",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/g8c17LQEXXc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/g8c17LQEXXc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/g8c17LQEXXc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/g8c17LQEXXc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/g8c17LQEXXc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 56,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "g8c17LQEXXc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "g8c17LQEXXc",
+                "videoPublishedAt": "2021-05-14T13:31:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "nwxAT9_SCfNYahl4MLMuFSiML-k",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4wRjhFM0MxMTU1MEUzQ0VB",
+            "snippet": {
+                "publishedAt": "2021-05-22T20:37:02Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(58) / معاني (فاعل) و(تفاعل)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TYgz1ysA3Wk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TYgz1ysA3Wk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TYgz1ysA3Wk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TYgz1ysA3Wk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TYgz1ysA3Wk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 57,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TYgz1ysA3Wk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "TYgz1ysA3Wk",
+                "videoPublishedAt": "2021-05-22T20:39:26Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4bedrffUkNfD5vnf-S6y6VIAR0c",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5CNTZFOTNGQzZEODg1RUQx",
+            "snippet": {
+                "publishedAt": "2021-05-22T20:38:26Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(59) / تاء(الافتعال)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XusXzzcqEL0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XusXzzcqEL0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XusXzzcqEL0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XusXzzcqEL0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XusXzzcqEL0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 58,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XusXzzcqEL0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "XusXzzcqEL0",
+                "videoPublishedAt": "2021-05-22T20:44:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "03mik0f9Rk_p6FSIAnGAiWPUJp0",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4xM0YyM0RDNDE4REQ1NDA0",
+            "snippet": {
+                "publishedAt": "2021-07-13T21:20:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(60) / تصريف (اتَّسر) و(اتقى)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pcE-pV3tQi0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pcE-pV3tQi0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pcE-pV3tQi0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pcE-pV3tQi0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 59,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pcE-pV3tQi0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "pcE-pV3tQi0",
+                "videoPublishedAt": "2021-07-13T21:23:35Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yLaUq9fPO3NREzcotqrY5aXMjxA",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5ERkUyQTM0MzEwQjZCMTY5",
+            "snippet": {
+                "publishedAt": "2021-05-28T20:35:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود في عِلْمِ التَّصْريفِ \"(61) / حروف الزيادة ومواضعها",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Dza1Gcqy7AI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Dza1Gcqy7AI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Dza1Gcqy7AI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Dza1Gcqy7AI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Dza1Gcqy7AI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 60,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Dza1Gcqy7AI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Dza1Gcqy7AI",
+                "videoPublishedAt": "2021-05-28T20:39:40Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "U6oIVvmwGyB1L27xh6jprj1aM-o",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5CNTcxMDQ0NThBNzMxODYz",
+            "snippet": {
+                "publishedAt": "2021-05-28T20:34:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(62) / المتعدي واللازم للزائد على الثلاثي ومعاني (أفعل) و(استفعل)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ep4JYVfDUTg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ep4JYVfDUTg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ep4JYVfDUTg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ep4JYVfDUTg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ep4JYVfDUTg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 61,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ep4JYVfDUTg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Ep4JYVfDUTg",
+                "videoPublishedAt": "2021-05-28T20:35:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Pz1ZYjHlwjMcsluIzl4va-JlC8M",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS42MjYzMTMyQjA0QURCN0JF",
+            "snippet": {
+                "publishedAt": "2021-08-01T20:19:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود \"(63) /حروف العلة والأبواب الثمانية",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/h8Nfxf6cPCY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/h8Nfxf6cPCY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/h8Nfxf6cPCY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/h8Nfxf6cPCY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 62,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "h8Nfxf6cPCY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "h8Nfxf6cPCY",
+                "videoPublishedAt": "2021-08-01T20:24:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "p_DOXH-i2ZbGRKb52t76K7j6Tik",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS40MDNEMzA0QTBFRThFMzBE",
+            "snippet": {
+                "publishedAt": "2021-08-01T20:20:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(64) / المضاعف والمهموز والصحيح",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XbKlirjEzTI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XbKlirjEzTI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XbKlirjEzTI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XbKlirjEzTI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XbKlirjEzTI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 63,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XbKlirjEzTI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "XbKlirjEzTI",
+                "videoPublishedAt": "2021-08-01T20:30:17Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "S5etUq2WkyqxJB5j7uOmgbaOLfs",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4yQzk4QTA5QjkzMTFFOEI1",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:06:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(65) / فصل في المعتلات",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oge5GBciiFk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oge5GBciiFk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oge5GBciiFk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oge5GBciiFk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 64,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "oge5GBciiFk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "oge5GBciiFk",
+                "videoPublishedAt": "2021-08-01T20:46:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gXi4714qaT_dNaUG6dOfoRYJ0s4",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4xN0Y2QjVBOEI2MzQ5OUM5",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:08:06Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود \"(66) / المعتلات من كتاب إزالة القيود",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wbsmxTl8Sc4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wbsmxTl8Sc4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wbsmxTl8Sc4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wbsmxTl8Sc4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wbsmxTl8Sc4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 65,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wbsmxTl8Sc4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "wbsmxTl8Sc4",
+                "videoPublishedAt": "2021-08-01T20:43:19Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zGr22qgvfP-4Pi4hK6SEPvce_Ek",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5CMEVBRUJERkUyNTBENTkz",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:10:16Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(67) / القاعدة السادسة في المعتلات",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9NMxJCij7pA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9NMxJCij7pA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9NMxJCij7pA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9NMxJCij7pA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9NMxJCij7pA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 66,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9NMxJCij7pA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9NMxJCij7pA",
+                "videoPublishedAt": "2021-08-01T20:48:57Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "W8y3GW1dX8vxKtJBpRXEzsU2E3A",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4xNjIyNEE0MDEyRDlCMjBE",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:12:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(68) / اسم المفعول من الأجوف",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/cgKTyumRtsc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/cgKTyumRtsc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/cgKTyumRtsc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/cgKTyumRtsc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 67,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "cgKTyumRtsc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "cgKTyumRtsc",
+                "videoPublishedAt": "2021-08-01T20:46:56Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CsJ0YBt89QTS3qN5h4OFrc6V-fc",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS44QTY2MEEzNzBFQUJCMUQ2",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:13:00Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(69) / تمرينات المنقوص والأجوف",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4K_ZRIL019g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4K_ZRIL019g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4K_ZRIL019g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4K_ZRIL019g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 68,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4K_ZRIL019g"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4K_ZRIL019g",
+                "videoPublishedAt": "2021-08-01T20:34:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DWvPs8eYJAoKDrKt0LvFcrLd8AU",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4zQTkzRjgxRTY0OEU0MkM3",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:13:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(70) / إعلال (قال) و(كال)",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gFktIIdahXw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gFktIIdahXw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gFktIIdahXw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gFktIIdahXw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gFktIIdahXw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 69,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "gFktIIdahXw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "gFktIIdahXw",
+                "videoPublishedAt": "2021-08-01T20:46:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ixMEEUQHVLLLgUYMCUXkdAECTAo",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4wMDFGNzBEOTU4Q0Y1Q0RG",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:19:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(71) / تطبيقات على الناقص الواوي",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qTF1bclWAYQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qTF1bclWAYQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qTF1bclWAYQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qTF1bclWAYQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 70,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qTF1bclWAYQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qTF1bclWAYQ",
+                "videoPublishedAt": "2021-08-01T20:48:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4CGS8BJDzuxZ9rAhTBnazlqnqzU",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS4xNTZBNUQxMDZBQzFGMjkw",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:19:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(72) / المثال واللفيف",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/786QQEz2AUs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/786QQEz2AUs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/786QQEz2AUs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/786QQEz2AUs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 71,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "786QQEz2AUs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "786QQEz2AUs",
+                "videoPublishedAt": "2021-08-01T20:49:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "a7-lCXWY1CSxt6a-A83HD-3s7Ac",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS45NDlDQUFFOThDMTAxQjUw",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:07:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(73) / هاء السكت",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7RY6HolVCbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7RY6HolVCbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7RY6HolVCbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/7RY6HolVCbQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 72,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "7RY6HolVCbQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "7RY6HolVCbQ",
+                "videoPublishedAt": "2021-08-01T20:49:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "USgYkQf8u7MlChNB3Q4e73Ss6YA",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS44MkM2RjVEQkQ5N0I2MjVE",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:26:26Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(74) / المهموز",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5F5MmI3kLhI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5F5MmI3kLhI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5F5MmI3kLhI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5F5MmI3kLhI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5F5MmI3kLhI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 73,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "5F5MmI3kLhI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "5F5MmI3kLhI",
+                "videoPublishedAt": "2021-08-01T20:38:02Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "IWfHUclny15vnNzrQf08553g0I8",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:08:35Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(75) / سم الهمزة",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q4QcnkVZ_zw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q4QcnkVZ_zw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q4QcnkVZ_zw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q4QcnkVZ_zw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 74,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q4QcnkVZ_zw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "q4QcnkVZ_zw",
+                "videoPublishedAt": "2021-08-01T20:46:13Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "iDj1eamhYPIEoWymNSQQ1a2wTD8",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS5EQkE3RTJCQTJEQkFBQTcz",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:06:12Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود \"(76) / قياس الفعل  غير الصحيح على الصحيح",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z5-VVV_VALk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z5-VVV_VALk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z5-VVV_VALk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z5-VVV_VALk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 75,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "z5-VVV_VALk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "z5-VVV_VALk",
+                "videoPublishedAt": "2021-08-01T20:50:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "rWR9vewEO31nNPsP7yB0pAhwouY",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS44QTA1QTQyRTc3M0VGQzYx",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:20:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود  \"(77) / تطبيقات على المثال الواو واليائي",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/au-vTylKXXU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/au-vTylKXXU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/au-vTylKXXU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/au-vTylKXXU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/au-vTylKXXU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 76,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "au-vTylKXXU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "au-vTylKXXU",
+                "videoPublishedAt": "2021-08-01T20:46:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "K7tqmt_35dC866gpA6VqAHfpFQQ",
+            "id": "UExFRDREai1UNDNyTWpyenJQMFdGeklxQ0N1NjFDb3dTRS42RTNCOEMxREI3Q0VDMjU2",
+            "snippet": {
+                "publishedAt": "2021-08-01T21:05:28Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح  \"المقصود \"(78) / تطبيقات على اللفيف المفروق والمقرون",
+                "description": "المستوى الرابع في سلسلة دراسة الصرف ، فأولًا : الشرح المختصر للأمثلة المختلفة، ثانيًا: الشرح المطول للأمثلة المختلفة ، ثالثًا: شرح كتاب البناء في علم التصريف، رابعًا: شرح المقصود في الصرف ، خامسًا : شرح متن العزي في الصرف  ، سادسًا: شذا العرف في فن الصرف، سابعًا: تيسير الإعلال والإبدال لعبد العليم إبراهيم ، ثامنًا:  شرح كتاب المراح في الصرف ، تاسعًا: شرح الشافية لابن الحاجب.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/4oDECJWQBxY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/4oDECJWQBxY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/4oDECJWQBxY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/4oDECJWQBxY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/4oDECJWQBxY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMjrzrP0WFzIqCCu61CowSE",
+                "position": 77,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "4oDECJWQBxY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "4oDECJWQBxY",
+                "videoPublishedAt": "2021-08-01T20:56:48Z"
+            }
+        }
+    ],
+    "title": "صرف 4: شرح المقصود في الصرف لأبي حنيفة",
+    "nav": "صرف 4: شرح المقصود في الصرف لأبي حنيفة",
+    "id": "2_0_3"
+}
