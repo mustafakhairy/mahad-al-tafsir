@@ -1,13 +1,11 @@
-import React, { createElement } from "react";
-import PropTypes from "prop-types";
+import React from "react";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import {
   InstantSearch,
-  connectHits,
-  connectSearchBox,
+  useSearchBox,
+  useHits,
   Configure,
-  connectHighlight,
-} from "react-instantsearch-dom";
+} from "react-instantsearch";
 import getAlgoliaClient from "../../../lib/getalgolia";
 import styles from "./styles.module.css";
 import Link from "@docusaurus/Link";
@@ -35,7 +33,8 @@ export default function Search({ initialValue = "", filters = [] }) {
   );
 }
 
-function Hits({ hits = [] }) {
+function CustomHits() {
+  const { hits } = useHits();
   if (hits.length === 0) {
     return <div />;
   }
@@ -44,7 +43,7 @@ function Hits({ hits = [] }) {
       {hits.map((res) => (
         <Link
           to={res.path.replace("https://tafsir.institute", "")}
-          key={res.id}
+          key={res.objectID}
         >
           <div className={styles.searchResItemContainer}>
             <div className={styles.textCol}>
@@ -55,7 +54,7 @@ function Hits({ hits = [] }) {
               {res.categories.length > 0 && (
                 <div className={styles.taglineSearch}>
                   {res.categories.map((cat, index) => (
-                    <span class="badge badge--info" key={`${res.id}_${index}`}>
+                    <span className="badge badge--info" key={`${res.objectID}_${index}`}>
                       {cat}
                     </span>
                   ))}
@@ -74,61 +73,16 @@ function Hits({ hits = [] }) {
   );
 }
 
-const CustomHits = connectHits(Hits);
-
-function SearchBox({
-  currentRefinement,
-  isSearchStalled,
-  refine,
-  placeholder,
-}) {
-  function handleChange(e) {
-    refine(e.target.value);
-  }
+function CustomSearchBox({ placeholder }) {
+  const { query, refine } = useSearchBox();
 
   return (
     <input
       placeholder={placeholder}
-      value={currentRefinement}
-      onChange={(event) => handleChange(event)}
+      value={query}
+      onChange={(event) => refine(event.target.value)}
       className={styles.searchBox}
       type="search"
     />
   );
 }
-
-const CustomSearchBox = connectSearchBox(SearchBox);
-
-function Highlight({
-  highlight,
-  attribute,
-  hit,
-  highlightProperty = "_highlightResult",
-}) {
-  const parsedHit = highlight({
-    highlightProperty,
-    attribute,
-    hit,
-  });
-
-  return (
-    <span>
-      {parsedHit.map((part, index) =>
-        part.isHighlighted ? (
-          <mark key={getUnsafeKey(index)}>{part.value}</mark>
-        ) : (
-          <span key={getUnsafeKey(index)}>{part.value}</span>
-        )
-      )}
-    </span>
-  );
-}
-
-Highlight.propTypes = {
-  attribute: PropTypes.string,
-  highlight: PropTypes.func,
-  highlightProperty: PropTypes.string,
-  hit: PropTypes.object,
-};
-
-const CustomHighlight = connectHighlight(Highlight);

@@ -1,0 +1,1843 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "l4WiNr8JMgfjWCigbFWnS4fNzXo",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2023-11-11T15:50:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (1) قلب الهمزة ألفًا",
+                "description": "رابط الكتاب: https://drive.google.com/file/d/1WGx3KsjFrCBCrnD_CWC-vbrMP6_jvJul/view?usp=sharing\nهذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/iQ_MtD-Z4iI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/iQ_MtD-Z4iI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/iQ_MtD-Z4iI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/iQ_MtD-Z4iI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/iQ_MtD-Z4iI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "iQ_MtD-Z4iI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "iQ_MtD-Z4iI",
+                "videoPublishedAt": "2023-11-11T15:50:21Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d_TmPQSQR-WVlo-Z3vQeoBnbcD4",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:54:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (2) قلب الهمزة واوًا",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aAYkrsH6t-U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aAYkrsH6t-U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aAYkrsH6t-U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aAYkrsH6t-U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aAYkrsH6t-U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aAYkrsH6t-U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "aAYkrsH6t-U",
+                "videoPublishedAt": "2023-11-11T15:51:01Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aJ0HWBvFiSWX0zXGcpgBEGpKCiQ",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:54:09Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (3) قلب الهمزة ياء",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/aF5jXaflh8Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/aF5jXaflh8Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/aF5jXaflh8Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/aF5jXaflh8Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/aF5jXaflh8Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "aF5jXaflh8Q"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "aF5jXaflh8Q",
+                "videoPublishedAt": "2023-11-11T15:51:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "MJcCT-eRnubROrIT_Nw2gPFsKtk",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:53:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (4) قلب الألف همزة وواو وياء",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WalRLu3yBmU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WalRLu3yBmU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WalRLu3yBmU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WalRLu3yBmU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WalRLu3yBmU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "WalRLu3yBmU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "WalRLu3yBmU",
+                "videoPublishedAt": "2023-11-11T15:53:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6fKXwdhUnTU1Eg4sZKXic5TiFyI",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:52:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (5) تدريبات الدرس السابق وقلب الواو همزة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/js56RydDYfQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/js56RydDYfQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/js56RydDYfQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/js56RydDYfQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/js56RydDYfQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "js56RydDYfQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "js56RydDYfQ",
+                "videoPublishedAt": "2023-11-11T15:54:24Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "BTJnKQt6lOZ8-hLVyIKUZJSSa44",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2023-11-11T15:55:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (6) قلب الواو ألفًا وياء",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U9Gk6piV8BA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U9Gk6piV8BA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U9Gk6piV8BA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U9Gk6piV8BA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U9Gk6piV8BA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "U9Gk6piV8BA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "U9Gk6piV8BA",
+                "videoPublishedAt": "2023-11-11T15:55:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "JC1WrbM4yyQvVGRG8YQ5iYlYZ3o",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:52:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (7) إكمال حالات قلب الواو ياء مع تدريبات على ما سبق",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BR4hHl5z_Xs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BR4hHl5z_Xs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BR4hHl5z_Xs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BR4hHl5z_Xs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BR4hHl5z_Xs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BR4hHl5z_Xs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BR4hHl5z_Xs",
+                "videoPublishedAt": "2023-11-11T15:56:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5uKsMJyQpC35y7HmIiucKgu9TDE",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2023-11-11T15:57:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (8)  إكمال التدريبات الصفحة 29",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XWuAniB8hQA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XWuAniB8hQA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XWuAniB8hQA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XWuAniB8hQA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XWuAniB8hQA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "XWuAniB8hQA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "XWuAniB8hQA",
+                "videoPublishedAt": "2023-11-11T15:57:43Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "2yYyad_Tcj6l5P7z1mgAQCzFa9c",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:49:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (9) تدريبات ص 32، 33",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ut_itw8blEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ut_itw8blEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ut_itw8blEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ut_itw8blEs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ut_itw8blEs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ut_itw8blEs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Ut_itw8blEs",
+                "videoPublishedAt": "2023-11-11T15:58:52Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "doWk4kDI9WOdHeqAQRZ3VOKzx7Q",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2023-11-11T15:59:59Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (10)  قلب الياء همزة وقلب الياء ألفًا وواوًا",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CicmejtmdIU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CicmejtmdIU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CicmejtmdIU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CicmejtmdIU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CicmejtmdIU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "CicmejtmdIU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "CicmejtmdIU",
+                "videoPublishedAt": "2023-11-11T16:00:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "H6J192QpVMTVmJKnqufcE-m4F8Q",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:45:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (11) القلب المكاني وقلب حركة إلى حركة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/X-newRD-hyg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/X-newRD-hyg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/X-newRD-hyg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/X-newRD-hyg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/X-newRD-hyg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "X-newRD-hyg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "X-newRD-hyg",
+                "videoPublishedAt": "2023-11-11T16:01:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "LEJMqO1vXlRZWcNg1_WHeSyt44E",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:45:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (12) الإعلال بالنقل نقل الضمة ونقل الكسرة",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GZtcHWz5f34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GZtcHWz5f34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GZtcHWz5f34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GZtcHWz5f34/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GZtcHWz5f34/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GZtcHWz5f34"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "GZtcHWz5f34",
+                "videoPublishedAt": "2023-11-11T16:03:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V3zNRZHF6KlWpJm_4fowJUP32hI",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:44:39Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (13)  نقل فتحة الواو وفتحة الياء",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/u3BZ2umi08A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/u3BZ2umi08A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/u3BZ2umi08A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/u3BZ2umi08A/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/u3BZ2umi08A/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "u3BZ2umi08A"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "u3BZ2umi08A",
+                "videoPublishedAt": "2023-11-11T16:04:31Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "bT0MtlRNhp-CJIXH0mriN1XkPyg",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2023-11-11T16:05:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (14) مواكب لغوية في ساحة الأجوف والأجوف اليائي",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ApbCVveRo9M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ApbCVveRo9M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ApbCVveRo9M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ApbCVveRo9M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ApbCVveRo9M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ApbCVveRo9M"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ApbCVveRo9M",
+                "videoPublishedAt": "2023-11-11T16:05:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "cZL_54nSMMvMQLfgEjOBHP82SWQ",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2023-11-13T17:44:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (15) تدريبات الصفحة 58",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p2vS5R1zn8E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p2vS5R1zn8E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p2vS5R1zn8E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p2vS5R1zn8E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/p2vS5R1zn8E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p2vS5R1zn8E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "p2vS5R1zn8E",
+                "videoPublishedAt": "2023-11-11T16:06:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zpuxMbdmhHjO7V-nXKCYQreAT_Y",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2023-11-11T16:09:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (16) نقل ضمة وكسرة الواو ونقل كسرة الياء ونقل فتحة الواو",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uYZUOt5fq3g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uYZUOt5fq3g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uYZUOt5fq3g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uYZUOt5fq3g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uYZUOt5fq3g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "uYZUOt5fq3g"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "uYZUOt5fq3g",
+                "videoPublishedAt": "2023-11-11T16:22:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "z1akcgxe5tvDoLpqqYlwYxRUKSk",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2023-11-16T20:14:40Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تيسير الإبدال والإعلال (17) الإعلال بالحذف، حذف همزة أفعل، حذف فاء المثال",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pRZy5WT3EIQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pRZy5WT3EIQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pRZy5WT3EIQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/pRZy5WT3EIQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/pRZy5WT3EIQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "pRZy5WT3EIQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "pRZy5WT3EIQ",
+                "videoPublishedAt": "2023-11-16T20:19:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FmwmHNuEFge7ek6AHVw1qwO2HXw",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2023-11-16T21:02:10Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "18) أمثلة على المثال الواو وحذف واوه وثبوتها وحذف عين الأجوف.",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hvHvXyM3vbc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hvHvXyM3vbc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hvHvXyM3vbc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hvHvXyM3vbc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hvHvXyM3vbc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hvHvXyM3vbc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hvHvXyM3vbc",
+                "videoPublishedAt": "2023-11-16T21:06:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "31b8EgAxCetW8kgjr4ts9XaXSGg",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2023-11-17T13:14:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "19) (الإعلال بالحذف من الجدول الرابع إلى الثامن)",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TOm2GDi8ii8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TOm2GDi8ii8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TOm2GDi8ii8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TOm2GDi8ii8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TOm2GDi8ii8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TOm2GDi8ii8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "TOm2GDi8ii8",
+                "videoPublishedAt": "2023-11-17T13:19:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gJSBtTtNdRucvHAxAy-SBRJcd-w",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2023-11-20T09:22:02Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "20) ياء المنقوص وتصريف الفعل المعتل مع الضمائر",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8Sf-SyxH254/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8Sf-SyxH254/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8Sf-SyxH254/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8Sf-SyxH254/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/8Sf-SyxH254/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8Sf-SyxH254"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "8Sf-SyxH254",
+                "videoPublishedAt": "2023-11-20T09:27:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "3WoAm-dQ0F_FBemY4jCGvpCeKT4",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4yMDhBMkNBNjRDMjQxQTg1",
+            "snippet": {
+                "publishedAt": "2023-11-20T09:23:09Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "21)  تثنية وجمع المقصور وإسناد المضارع المعتل للضمائر",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/83qGFO5ykHo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/83qGFO5ykHo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/83qGFO5ykHo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/83qGFO5ykHo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/83qGFO5ykHo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 20,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "83qGFO5ykHo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "83qGFO5ykHo",
+                "videoPublishedAt": "2023-11-20T09:30:29Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "7iF1y3ML7rDlG-qTdngT7MXtmDU",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5GM0Q3M0MzMzY5NTJFNTdE",
+            "snippet": {
+                "publishedAt": "2023-11-24T11:48:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "22) إبدال الواو واليا تاء وإبدال التاء طاء ودالًا",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/72owJZwhwcM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/72owJZwhwcM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/72owJZwhwcM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/72owJZwhwcM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/72owJZwhwcM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 21,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "72owJZwhwcM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "72owJZwhwcM",
+                "videoPublishedAt": "2023-11-24T11:55:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "6wMULHEwYiedQDsm6W0D4KwROWI",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4zRjM0MkVCRTg0MkYyQTM0",
+            "snippet": {
+                "publishedAt": "2023-11-24T19:18:11Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "23) إبدال التاء للإدغام وإبدال التاء طاء جج",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e7e7uzoSFFE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e7e7uzoSFFE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e7e7uzoSFFE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/e7e7uzoSFFE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/e7e7uzoSFFE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 22,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "e7e7uzoSFFE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "e7e7uzoSFFE",
+                "videoPublishedAt": "2023-11-24T19:21:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "N0xTTCLGI9iLmSrRuNZ3A-yuELU",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS45NzUwQkI1M0UxNThBMkU0",
+            "snippet": {
+                "publishedAt": "2023-11-27T17:44:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "24 ) تصريف الفعل الماضي",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9tIPEg8AlJA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9tIPEg8AlJA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9tIPEg8AlJA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9tIPEg8AlJA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9tIPEg8AlJA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 23,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9tIPEg8AlJA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9tIPEg8AlJA",
+                "videoPublishedAt": "2023-11-27T17:51:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "fzkI5a011EkpcvGBO0zNA_54Ekc",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5DNzE1RjZEMUZCMjA0RDBB",
+            "snippet": {
+                "publishedAt": "2023-11-27T17:45:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "25) تدريبات على تصريف الفعل الماضي",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/j5zwLFNUyR4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/j5zwLFNUyR4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/j5zwLFNUyR4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/j5zwLFNUyR4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/j5zwLFNUyR4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 24,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "j5zwLFNUyR4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "j5zwLFNUyR4",
+                "videoPublishedAt": "2023-11-27T17:53:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "l9MJSwCtZdH_NOkne2cVpGaIVv8",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS43MTI1NDIwOTMwQjIxMzNG",
+            "snippet": {
+                "publishedAt": "2023-11-30T13:37:28Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "26) تدريبات على إعلال الفعل الماضي",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HBCe73OMVA4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HBCe73OMVA4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HBCe73OMVA4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HBCe73OMVA4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HBCe73OMVA4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 25,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HBCe73OMVA4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "HBCe73OMVA4",
+                "videoPublishedAt": "2023-11-30T13:39:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GtfhcBtJaRxrjH7B407FBrY4HRc",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+            "snippet": {
+                "publishedAt": "2023-11-30T13:39:22Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "27) تصريف الفعل المضارع",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zvXt9WuhLhM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zvXt9WuhLhM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zvXt9WuhLhM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zvXt9WuhLhM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zvXt9WuhLhM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 26,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zvXt9WuhLhM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "zvXt9WuhLhM",
+                "videoPublishedAt": "2023-11-30T13:43:09Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "wU0Fr7J0otPjir5ieXOX6r-Sfg0",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4yQUE2Q0JEMTk4NTM3RTZC",
+            "snippet": {
+                "publishedAt": "2023-11-30T13:42:15Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "28) تدريبات على تصريف الفعل المضارع",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DbVDDMeknyQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DbVDDMeknyQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DbVDDMeknyQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DbVDDMeknyQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DbVDDMeknyQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 27,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DbVDDMeknyQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "DbVDDMeknyQ",
+                "videoPublishedAt": "2023-11-30T13:50:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "X2g_9DBDSruHSwXqZYnNzRiEW7c",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5DMkU4NTY1QUFGQTYwMDE3",
+            "snippet": {
+                "publishedAt": "2023-12-01T19:11:04Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "29) تصريف فعل الأمر",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c1ZB945Pb74/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c1ZB945Pb74/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c1ZB945Pb74/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c1ZB945Pb74/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c1ZB945Pb74/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 28,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "c1ZB945Pb74"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "c1ZB945Pb74",
+                "videoPublishedAt": "2023-12-01T19:15:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "gauHt7GpEyt8JQIRtZW0_Ze5wL8",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS44Mjc5REFBRUE2MTdFRDU0",
+            "snippet": {
+                "publishedAt": "2023-12-04T13:27:46Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "30) إعلال المصدر",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GyKHZtqFgRs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GyKHZtqFgRs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GyKHZtqFgRs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GyKHZtqFgRs/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GyKHZtqFgRs/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 29,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GyKHZtqFgRs"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "GyKHZtqFgRs",
+                "videoPublishedAt": "2023-12-04T13:30:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "dlh60kM2MvyFZ4EgsCoI1seBlUk",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS43NDhFRTgwOTRERTU4Rjg3",
+            "snippet": {
+                "publishedAt": "2023-12-04T13:28:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "31)  تدريبات على إعلال المصدر",
+                "description": "https://drive.google.com/file/d/1WGx3KsjFrCBCrnD_CWC-vbrMP6_jvJul/view?usp=sharing\nهذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/BQhqxtYp3-M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/BQhqxtYp3-M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/BQhqxtYp3-M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/BQhqxtYp3-M/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/BQhqxtYp3-M/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 30,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "BQhqxtYp3-M"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "BQhqxtYp3-M",
+                "videoPublishedAt": "2023-12-04T13:34:49Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "an2zJIAS6aPtcpUGsdA6RTuUw04",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS41QUZGQTY5OTE4QTREQUU4",
+            "snippet": {
+                "publishedAt": "2023-12-07T16:48:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "32) إعلال اسم الفاعل",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fAvE905vnPo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fAvE905vnPo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fAvE905vnPo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fAvE905vnPo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fAvE905vnPo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 31,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fAvE905vnPo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fAvE905vnPo",
+                "videoPublishedAt": "2023-12-07T16:52:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Sx2xdOxqoBlNpJwwSVE_6A4V1mE",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS4zRDBDOEZDOUM0MDY5NEEz",
+            "snippet": {
+                "publishedAt": "2023-12-08T10:33:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "33) إعلال صيغ المبالغة واسم المفعول",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0lc2aMBBF90/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0lc2aMBBF90/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0lc2aMBBF90/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0lc2aMBBF90/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0lc2aMBBF90/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 32,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0lc2aMBBF90"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0lc2aMBBF90",
+                "videoPublishedAt": "2023-12-08T10:43:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8gO3y5MSvYvXgUIc-J0MZRFKpC8",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS5CMEQ2Mjk5NTc3NDZFRUNB",
+            "snippet": {
+                "publishedAt": "2023-12-10T20:19:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "34) الصفة المشبهة وجموع التكسير",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GtMYshicOrg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GtMYshicOrg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GtMYshicOrg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GtMYshicOrg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GtMYshicOrg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 33,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GtMYshicOrg"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "GtMYshicOrg",
+                "videoPublishedAt": "2023-12-10T20:26:20Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "EraKjIoI_4W872H-jSrNWGWvQ64",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS42MTI4Njc2QjM1RjU1MjlG",
+            "snippet": {
+                "publishedAt": "2023-12-11T09:29:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "35) جموع التكسير وجمع وتثنية المقصور والممدود والقلب المكاني والتصغير",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r7vs7hwfQbQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r7vs7hwfQbQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r7vs7hwfQbQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r7vs7hwfQbQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r7vs7hwfQbQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 34,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "r7vs7hwfQbQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "r7vs7hwfQbQ",
+                "videoPublishedAt": "2023-12-11T09:30:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "GpXqZM7AO2fAhs6-er-8iYFUJV0",
+            "id": "UExFRDREai1UNDNyUEZDdWoyNUl0Rjh6c2pNelVhSlEyQS45RjNFMDhGQ0Q2RkFCQTc1",
+            "snippet": {
+                "publishedAt": "2023-12-16T10:22:49Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "36)آخر درس في الدورة: الأسماء المنسوبة ، وأسماء متنوعة وكيفية صياغة الكلمات",
+                "description": "هذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.\nوأتقدم بجزيل لمدير موقع سيكرز الشيخ فراز رباني وفريقه الذين ساعدوا في إخراج هذه الدورة : المصور عمر السوري، والشيخ رضوان الكردي الذي صنع الشرائح، والشيخ شامل الداغستاني الذي عمل المونتاج، والشيخ عبد القادر التركي الذي راجع المادة العلمية ، نشكرهم جميعًا جزيل الشكر.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wGk4dakzBzI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wGk4dakzBzI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wGk4dakzBzI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wGk4dakzBzI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wGk4dakzBzI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPFCuj25ItF8zsjMzUaJQ2A",
+                "position": 35,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wGk4dakzBzI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "wGk4dakzBzI",
+                "videoPublishedAt": "2023-12-16T10:29:33Z"
+            }
+        }
+    ],
+    "title": "صرف (7) تيسير الإعلال والإبدال لعبد العليم إبراهيم",
+    "nav": "صرف (7) تيسير الإعلال والإبدال لعبد العليم إبراهيم",
+    "id": "2_1_1"
+}

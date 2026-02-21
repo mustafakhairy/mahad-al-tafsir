@@ -1,0 +1,927 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "100XCyoqxQ14TTr8xzzvEw3ZXkU",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2019-07-02T20:58:17Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(1)/ للحبيب عبد الرحمن المشهور  لعلي العقرباوي",
+                "description": "1 المبادئ العشرة\nhttps://drive.google.com/open?id=1tHbL-sozmMcMlNmB1lI3cmIo9sxcTSVT:رابط تحميل كتاب النبذة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xtiTm7-ih7Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xtiTm7-ih7Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xtiTm7-ih7Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xtiTm7-ih7Y/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xtiTm7-ih7Y"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "xtiTm7-ih7Y",
+                "videoPublishedAt": "2019-07-02T20:58:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "txmTD16g_PeuhBrn4C9_j5j4dSQ",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2019-07-02T20:58:36Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\" (2)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "2 فروض الوضوء\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fwYEN8p62xo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fwYEN8p62xo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fwYEN8p62xo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fwYEN8p62xo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "fwYEN8p62xo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "fwYEN8p62xo",
+                "videoPublishedAt": "2019-07-02T20:58:32Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VQA4K35TSRtWZCpXv7Jv9TXUlJw",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2019-07-02T20:58:52Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(3)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "3 نواقض الوضوء\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vi-TqeQodiM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vi-TqeQodiM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vi-TqeQodiM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/vi-TqeQodiM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "vi-TqeQodiM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "vi-TqeQodiM",
+                "videoPublishedAt": "2019-07-02T20:58:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "03y_azuYsuI_WcANtF87dO-s67c",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:05:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\" (4)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "4 ما يحرم على المحدث\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/q-eifwrEj0Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/q-eifwrEj0Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/q-eifwrEj0Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/q-eifwrEj0Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "q-eifwrEj0Q"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "q-eifwrEj0Q",
+                "videoPublishedAt": "2019-07-02T21:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "xlyItlGfJZtkI5S1j4YUl_mbl5E",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2019-07-02T20:59:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(5)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "5 موجبات الغسل\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DhEwUZ5CrrA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DhEwUZ5CrrA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DhEwUZ5CrrA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DhEwUZ5CrrA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DhEwUZ5CrrA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "DhEwUZ5CrrA",
+                "videoPublishedAt": "2019-07-02T20:59:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "OKxaX4W0h8T31btWBCs0Fusr2tE",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2019-07-02T20:59:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(6)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "6 فروض الغسل\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p9_qTKQGGv0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p9_qTKQGGv0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p9_qTKQGGv0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/p9_qTKQGGv0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "p9_qTKQGGv0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "p9_qTKQGGv0",
+                "videoPublishedAt": "2019-07-02T21:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ttkHQ8KrOLu5UpNCp0z3YFs6dhI",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:00:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب الإنسان على تعلمه وتعليمه\"(7)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "7 التيمم\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/l9V0OHpSZJQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/l9V0OHpSZJQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/l9V0OHpSZJQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/l9V0OHpSZJQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "l9V0OHpSZJQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "l9V0OHpSZJQ",
+                "videoPublishedAt": "2019-07-02T21:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pKBXocB2C-QvuvXvCsrqkDh-53Y",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:00:53Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(8)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "8 أركان وشروط الصلاة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SJ6pEcNdoEc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SJ6pEcNdoEc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SJ6pEcNdoEc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SJ6pEcNdoEc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SJ6pEcNdoEc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "SJ6pEcNdoEc",
+                "videoPublishedAt": "2019-07-02T21:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "4AXsszpCktX2x6tUfNmKFuVnCk0",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:01:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\" (9)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "9 الجزء الثاني من أركان وشروط الصلاة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/IFl-Bo1kIrQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/IFl-Bo1kIrQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/IFl-Bo1kIrQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/IFl-Bo1kIrQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "IFl-Bo1kIrQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "IFl-Bo1kIrQ",
+                "videoPublishedAt": "2019-07-02T21:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mne0P0t2WgjlLstWQs1EJzewoOc",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:05:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(10)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "10 فروض الصلاة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9ZE5gnmtqVA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9ZE5gnmtqVA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9ZE5gnmtqVA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9ZE5gnmtqVA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9ZE5gnmtqVA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9ZE5gnmtqVA",
+                "videoPublishedAt": "2019-07-02T21:05:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Dg4JJD0LX1vJiPzn2CyZRVCCWjU",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:02:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(11)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "11 الجزء الثاني من فروض الصلاة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eFhqgwTvVjI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eFhqgwTvVjI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eFhqgwTvVjI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/eFhqgwTvVjI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "eFhqgwTvVjI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "eFhqgwTvVjI",
+                "videoPublishedAt": "2019-07-02T21:02:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0fkIqLRvP5rtH30rPRHUChBkCC4",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:02:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(12)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "12 الجزء الثالث من فروض الصلاة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9Ee3kxdkf9w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9Ee3kxdkf9w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9Ee3kxdkf9w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9Ee3kxdkf9w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9Ee3kxdkf9w"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9Ee3kxdkf9w",
+                "videoPublishedAt": "2019-07-02T21:02:55Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "tk_X6QXrJlSvdcQufdVgDyU28tA",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:05:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(13) للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "13 أبعاض الصلاة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/k_yjzjFsCyU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/k_yjzjFsCyU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/k_yjzjFsCyU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/k_yjzjFsCyU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "k_yjzjFsCyU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "k_yjzjFsCyU",
+                "videoPublishedAt": "2019-07-02T21:05:23Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "jIKzcXDeFFOk3JQ6--VcY10tlAI",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS45RTgxNDRBMzUwRjQ0MDhC",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:05:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(14)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "14 صفة الصلاة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/YQ0TkLVD07c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/YQ0TkLVD07c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/YQ0TkLVD07c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/YQ0TkLVD07c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "YQ0TkLVD07c"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "YQ0TkLVD07c",
+                "videoPublishedAt": "2019-07-02T21:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "QPcDo5WwJkfNOWruMYbdvSr830o",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:03:26Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(15)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "15 صلاة الجماعة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DK3Tk01CnV0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DK3Tk01CnV0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DK3Tk01CnV0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DK3Tk01CnV0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DK3Tk01CnV0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "DK3Tk01CnV0",
+                "videoPublishedAt": "2019-07-02T21:03:22Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "eU3mncXdF79u1LLMwVrSx4l281Q",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:05:57Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(16)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "16 الجزء الثاني من صلاة الجماعة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9LXqYS5tl5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9LXqYS5tl5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9LXqYS5tl5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9LXqYS5tl5k/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 15,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9LXqYS5tl5k"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9LXqYS5tl5k",
+                "videoPublishedAt": "2019-07-02T21:05:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "B-1rVlqFKSprG_cVpYlxoqZGqSY",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:03:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(17)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "17 صلاة الجمعة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/isNJTu5MQ3o/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/isNJTu5MQ3o/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/isNJTu5MQ3o/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/isNJTu5MQ3o/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 16,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "isNJTu5MQ3o"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "isNJTu5MQ3o",
+                "videoPublishedAt": "2019-07-02T21:03:39Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "N2ku3nqdoLyflUGYcNTzXwZJ7mw",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:04:08Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(18)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "18 صلاة الجنازة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qzFxq4qTdzE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qzFxq4qTdzE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qzFxq4qTdzE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qzFxq4qTdzE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 17,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "qzFxq4qTdzE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "qzFxq4qTdzE",
+                "videoPublishedAt": "2019-07-02T21:04:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "s-esh6uiSOjHHSQIYPvBDwaubEY",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:04:28Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(19)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "19 الزكاة\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ewhMxM7uywI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ewhMxM7uywI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ewhMxM7uywI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ewhMxM7uywI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 18,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ewhMxM7uywI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ewhMxM7uywI",
+                "videoPublishedAt": "2019-07-02T21:04:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mgytCG6WNS22ockZpqNBZkk1n4s",
+            "id": "UExFRDREai1UNDNyTWVwMW1iOXlfb0tsT2dPQ2taSGFFNS41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2019-07-02T21:04:45Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شرح \" النبذة فيما يجب على الإنسان تعلمه وتعليمه\"(21)/ للحبيب عبد الرحمن المشهور لعلي العقرباوي",
+                "description": "21 باب الحيض\nهذا هو الكتاب الأول في سلسلة تعليم الفقه الشافعي ، وهو كتاب مختصر مفيد اقتصر المصنف فيه على ما يجب تعلمه وتعليمه ، شرحه الشيخ علي هاني العقرباوي\n#seekersguidance \n# علي_ هاني_ العقرباوي\nرابط الفيسبوك: https://www.facebook.com/%D9%81%D8%B6%D9%8A%D9%84%D8%A9-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%B9%D9%84%D9%8A-%D9%87%D8%A7%D9%86%D9%8A-%D8%A7%D9%84%D8%B9%D9%82%D8%B1%D8%A8%D8%A7%D9%88%D9%8A-2056788024559320/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wG8ChyfmL34/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wG8ChyfmL34/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wG8ChyfmL34/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wG8ChyfmL34/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rMep1mb9y_oKlOgOCkZHaE5",
+                "position": 19,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wG8ChyfmL34"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "wG8ChyfmL34",
+                "videoPublishedAt": "2019-07-02T21:04:43Z"
+            }
+        }
+    ],
+    "title": "فقه 1: شرح النبذة فيما يجب تعلمه وتعليمه للشيخ عبد الرحمن المشهور",
+    "nav": "فقه 1: شرح النبذة فيما يجب تعلمه وتعليمه للشيخ عبد الرحمن المشهور",
+    "id": "5_0_1"
+}

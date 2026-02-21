@@ -1,137 +1,121 @@
-ul {
-  padding-inline-start: 10px;
-}
-
 .features {
-  display: flex;
-  align-items: center;
   padding: 2rem 0;
-  width: 100%;
 }
 
-.cardContainer {
-  border: 1px solid rgb(46, 133, 84, .24);
-  border-radius: 5px;
+/* Card — full width, stacked vertically */
+.card {
   display: flex;
-  min-height: 240px;
-  align-items: stretch;
-  max-height: 260px;
+  border: 1px solid rgba(46, 133, 84, 0.24);
+  border-radius: 8px;
+  overflow: hidden;
+  margin-bottom: 24px;
 }
 
-.sectionContainer {
-  margin-top: 29px;
+.cardImage {
+  flex-shrink: 0;
+  width: 180px;
 }
 
-.sectionTitle {
-  font-size: 20px;
-  line-height: 24px;
-  color: #18181B;
+.cardImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.cardBody {
+  flex: 1;
+  padding: 20px 24px;
+  min-width: 0;
+}
+
+.cardTitle {
+  font-size: 22px;
+  line-height: 1.3;
+  color: #18181b;
   font-weight: bold;
-  margin-bottom: 15px;
-  padding: 0;
+  margin: 0 0 12px 0;
 }
 
-[data-theme='dark'] .sectionTitle,
-[data-theme='dark'] .bottomLabel {
+[data-theme='dark'] .cardTitle,
+[data-theme='dark'] .cardFooter {
   color: var(--ifm-color-primary-dark);
 }
 
-[data-theme='dark'] .videoIconClass [fill='#ffffff'] {
-  fill: white;
-  width: 12px;
-}
-
-[data-theme='light'] .videoIconClass [fill='#000000'] {
-  fill: black;
-  width: 12px;
-}
-
-.bottomLabel {
-  font-size: 16px;
+/* Playlist list — multi-column on wide screens */
+.playlistList {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 4px 16px;
   padding: 0;
-}
-
-.textCol {
-  flex-grow: 1;
-  position: relative;
-  font-size: 20px;
-  color: #3F3F46;
-  font-weight: normal;
-  padding: 18px;
-}
-
-.textCol ul {
-  columns: 2;
-  -webkit-columns: 2;
-  -moz-columns: 2;
-}
-
-.textCol ul li {
-  font-size: 16px;
-  font-weight: 400;
+  margin: 0 0 12px 0;
   list-style: none;
 }
 
-[data-theme='dark'] .textCol ul li a {
+.playlistList li {
+  display: flex;
+  align-items: baseline;
+  gap: 6px;
+  font-size: 15px;
+  line-height: 1.5;
+  min-width: 0;
+}
+
+.playlistList li svg {
+  flex-shrink: 0;
+  position: relative;
+  top: 1px;
+}
+
+.playlistList li a {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+[data-theme='dark'] .playlistList li a {
   color: white;
 }
 
-.cardContainer img {
-  max-width: 192px;
-  object-fit: cover;
-  border-radius: 5px 0px 0px 5px;
+.cardFooter {
+  font-size: 15px;
+  color: #3f3f46;
+  display: flex;
+  align-items: center;
+  gap: 6px;
 }
 
-@media screen and (max-width: 425px) {
-  .sectionTitle {
-    font-size: 24px;
-    line-height: 32px;
-    margin-bottom: 10px;
+/* Tablet */
+@media screen and (max-width: 768px) {
+  .playlistList {
+    grid-template-columns: repeat(2, 1fr);
   }
 
-  .features {
-    padding: 0.5rem 0;
-    margin-bottom: 20px;
+  .cardImage {
+    width: 140px;
+  }
+}
+
+/* Mobile */
+@media screen and (max-width: 480px) {
+  .card {
+    flex-direction: column;
   }
 
-  .sectionContainer {
-    margin-top: 15px;
-  }
-
-  .textCol {
-    font-size: 16px;
-    padding: 14px;
-    margin-top: 40px;
-  }
-
-  .cardContainer {
-    min-height: 10px;
-    display: block;
-    position: relative;
-    max-height: none;
-  }
-
-  .textCol p {
-    -webkit-line-clamp: 3;
-  }
-
-  .cardContainer img {
-    position: absolute;
-    top: 0;
-    max-width: none;
+  .cardImage {
     width: 100%;
-    object-fit: cover;
-    border-radius: 5px 5px 0px 0px;
-    height: 50px;
+    height: 60px;
   }
 
-  .textCol {
-    display: block;
+  .playlistList {
+    grid-template-columns: 1fr;
   }
 
-  .bottomLabel {
-    bottom: 0px;
-    margin-bottom: 5px;
-    display: block;
+  .cardBody {
+    padding: 16px;
+  }
+
+  .cardTitle {
+    font-size: 20px;
   }
 }

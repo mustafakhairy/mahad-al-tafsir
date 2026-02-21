@@ -1,0 +1,543 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "r-tHERYRHzT-V8aTi-MBwsbyfRg",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2020-05-09T21:20:24Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(1) من سيبويه إلى ابن المعتز",
+                "description": "1 تراجم العلماء من سيبويه إلى ابن المعتز\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/8aGGTH8ocnQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/8aGGTH8ocnQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/8aGGTH8ocnQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/8aGGTH8ocnQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "8aGGTH8ocnQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "8aGGTH8ocnQ",
+                "videoPublishedAt": "2020-05-09T21:26:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "hLo3P7-F5PqCDj1hXWtHnY6aVew",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4xMkVGQjNCMUM1N0RFNEUx",
+            "snippet": {
+                "publishedAt": "2020-05-10T18:45:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها (2) من قدامة بن جعفر إلى الآمدي",
+                "description": "2 من قدامة بن جعفر ـ الآمدي\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xUImw9uoB2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xUImw9uoB2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xUImw9uoB2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xUImw9uoB2U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xUImw9uoB2U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "xUImw9uoB2U",
+                "videoPublishedAt": "2020-05-10T18:47:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ol0wGWh8jx9fVeUP_0CU0I4Y1pg",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2020-05-09T09:22:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(3) من المرزُباني  إلى الإمام الفخر الرازي",
+                "description": "3 من المرزباني إلى الفخر الرازي\nالمستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/xJskAsuJodw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "xJskAsuJodw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "xJskAsuJodw",
+                "videoPublishedAt": "2020-05-09T09:50:15Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "G6tv837edMor0oLSmz6GG7paFMM",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2023-11-16T07:34:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(4) من السكاكي إلى ابن الناظم",
+                "description": "رابط الملف الذي فيه جميع التراجم\nhttps://docs.google.com/document/d/1TV3RTUpbYN2uU7Xqbc0S9rz2t6zr4f9s/edit?usp=sharing&ouid=102013495858634293382&rtpof=true&sd=true\n\nهذه دورة مهمة في كتاب متميز لمؤلف مبدع هو صاحب كتاب النحو الوظيفي، وهذا الكتاب هو (تيسير الإعلال والإبدال)، وميزة هذا الكتاب أنه سهَّل أصعبَ وأهمَّ مبحثٍ في الصرفِ، وهو الإعلال والإبدال، وميزة هذا الكتاب كثرة الجداول والتدريبات المحلولة وغير المحلولة واستيعاب المادة الصرفية.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rwL2IaxnDyk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rwL2IaxnDyk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rwL2IaxnDyk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/rwL2IaxnDyk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "rwL2IaxnDyk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "rwL2IaxnDyk",
+                "videoPublishedAt": "2023-11-16T07:35:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "sEK_TYyA4ILrZfNUhRTvyosG408",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2020-05-29T14:19:44Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "(من القطب الشيرازي إلى صفي الدين الحلي تاريخ البلاغة وعلمائها (5",
+                "description": "المستوى  الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم  تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SfhKqPGjsF8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SfhKqPGjsF8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SfhKqPGjsF8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/SfhKqPGjsF8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "SfhKqPGjsF8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "SfhKqPGjsF8",
+                "videoPublishedAt": "2020-05-29T14:23:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XBEFpP8kBYvC6ch2jRl8wl8J49c",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2024-08-15T21:58:01Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(6) من عضد الدين الإيجي   إلى السعد التفتازني",
+                "description": "تراجم العلماء من سيبويه إلى ابن المعتز المستوى الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/abWAyIWUMLY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/abWAyIWUMLY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/abWAyIWUMLY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/abWAyIWUMLY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/abWAyIWUMLY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "abWAyIWUMLY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "abWAyIWUMLY",
+                "videoPublishedAt": "2024-08-15T21:58:41Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "pm3iiXkNZywiujseg1wvWTihYA8",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2024-08-15T22:00:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها (7) من الأقصرائي إلى السمرقندي",
+                "description": "تراجم العلماء من سيبويه إلى ابن المعتز المستوى الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hUz7wdwvR5s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hUz7wdwvR5s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hUz7wdwvR5s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hUz7wdwvR5s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hUz7wdwvR5s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hUz7wdwvR5s"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hUz7wdwvR5s",
+                "videoPublishedAt": "2024-08-15T22:00:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "yaQYU0OnDm8gyTXwVDR4LOq7pRQ",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2024-08-20T20:12:20Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(8) من السيوطي إلى ابن كمال باشا",
+                "description": "، فأولًا : تاريخ البلاغة وعلمائها، ثم تحفة الإخوان لأحمد الدردير، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم السمرقندية في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني ثم مختصر المعاني للسعد التفتازاني ثم المطول للتفتازاني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/evvRKux7vrM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/evvRKux7vrM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/evvRKux7vrM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/evvRKux7vrM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/evvRKux7vrM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "evvRKux7vrM"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "evvRKux7vrM",
+                "videoPublishedAt": "2024-08-20T20:12:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "V9iICHbEt9Cm1EFb2009pAlYbm8",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2024-08-22T12:10:42Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها(9) من  العصام الإسفراييني إلى شهاب الدين الخفاجي",
+                "description": "تراجم العلماء من سيبويه إلى ابن المعتز المستوى الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/3CqAiYl-0Io/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/3CqAiYl-0Io/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/3CqAiYl-0Io/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/3CqAiYl-0Io/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/3CqAiYl-0Io/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "3CqAiYl-0Io"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "3CqAiYl-0Io",
+                "videoPublishedAt": "2024-08-22T12:11:44Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "1_dhgjwrKA4lSp_oL-pn1lBqPOY",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2024-08-25T22:09:43Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها (10) من  ابن يعقوب المغربي إلى الباجوري",
+                "description": "تراجم العلماء من سيبويه إلى ابن المعتز المستوى الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ptmn1-W2Qt0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ptmn1-W2Qt0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ptmn1-W2Qt0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ptmn1-W2Qt0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ptmn1-W2Qt0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Ptmn1-W2Qt0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Ptmn1-W2Qt0",
+                "videoPublishedAt": "2024-08-25T22:11:59Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "FNHZftAR21ireEWl5H4QTBRLqO4",
+            "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4yMUQyQTQzMjRDNzMyQTMy",
+            "snippet": {
+                "publishedAt": "2024-08-26T20:22:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تاريخ البلاغة وعلمائها (11)  من العلامة الخضري إلى المراغي",
+                "description": "تراجم العلماء من سيبويه إلى ابن المعتز المستوى الأول في سلسلة دراسة البلاغة ، فأولًا : تاريخ البلاغة وعلمائها، ثم تحفة الإخوان، ثم البلاغة الواضحة لعلي الجارم ، ثم كتاب دروس البلاغة لحفني ناصف ثم البلاغة الواضحة في علم البيان ثم الجوهر المكنون للأخضري، ثم المنهاج الواضح بأجزائه الخمسة، ثم تلخيص المفتاح للقزويني",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/b1PpxvIY7oE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/b1PpxvIY7oE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/b1PpxvIY7oE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/b1PpxvIY7oE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/b1PpxvIY7oE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPGtWFCIebU56RDUY_-Zxwf",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "b1PpxvIY7oE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "b1PpxvIY7oE",
+                "videoPublishedAt": "2024-08-26T20:23:09Z"
+            }
+        }
+    ],
+    "title": "بلاغة 1: تاريخ البلاغة وعلمائها",
+    "nav": "بلاغة 1: تاريخ البلاغة وعلمائها",
+    "id": "3_0_0"
+}

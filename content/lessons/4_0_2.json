@@ -1,0 +1,257 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5c5heWKcRhZ9gKWRZs0qy4o5w0A",
+            "id": "UExFRDREai1UNDNyTjM5Mk1XM0pJd016b0lxbTE2N1R1Yy41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+                "publishedAt": "2021-02-28T21:49:31Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير مختصر لسورة الفاتحة",
+                "description": "تفسير سريع للقرآن الكريم  بحيث يمر على الصفحة في دقائق ملخصًا لأهم معانيها والأوامر التي على المؤمن معرفتها",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/35kNLRZjmKE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/35kNLRZjmKE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/35kNLRZjmKE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/35kNLRZjmKE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/35kNLRZjmKE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN392MW3JIwMzoIqm167Tuc",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "35kNLRZjmKE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "35kNLRZjmKE",
+                "videoPublishedAt": "2021-02-28T21:51:47Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "arFB7aoIs6zHbseOebPYo9Sar2A",
+            "id": "UExFRDREai1UNDNyTjM5Mk1XM0pJd016b0lxbTE2N1R1Yy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2021-05-12T21:35:33Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الحجرات 1",
+                "description": "روابط الدرس:\nhttps://drive.google.com/file/d/1ma3ckdbRvS3hn7A4Y58T5UFYx8ByJUga/view?usp=sharing\nhttps://drive.google.com/file/d/1xv_iIey2ERJqMQ-ESgg9MRvmecZ29-F9/view?usp=sharing\nhttps://drive.google.com/file/d/1SBMiznntGP-JEjur9Soae8HQpTVRju9H/view?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NSNTDEiDpfA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NSNTDEiDpfA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NSNTDEiDpfA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NSNTDEiDpfA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NSNTDEiDpfA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN392MW3JIwMzoIqm167Tuc",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "NSNTDEiDpfA"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "NSNTDEiDpfA",
+                "videoPublishedAt": "2021-05-12T21:40:54Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "npWxJGL2l_K83biPomeiKpBeW0w",
+            "id": "UExFRDREai1UNDNyTjM5Mk1XM0pJd016b0lxbTE2N1R1Yy4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2021-05-12T22:25:39Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الحجرات 2",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hHmEH7XZW2U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hHmEH7XZW2U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hHmEH7XZW2U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hHmEH7XZW2U/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hHmEH7XZW2U/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN392MW3JIwMzoIqm167Tuc",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hHmEH7XZW2U"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hHmEH7XZW2U",
+                "videoPublishedAt": "2021-05-12T22:37:03Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "8g_r4_ZQl1iZJTktNSgdcxgahtU",
+            "id": "UExFRDREai1UNDNyTjM5Mk1XM0pJd016b0lxbTE2N1R1Yy41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2021-05-12T22:21:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الحجرات 3",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zYm7Uwz8P24/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zYm7Uwz8P24/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zYm7Uwz8P24/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zYm7Uwz8P24/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zYm7Uwz8P24/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN392MW3JIwMzoIqm167Tuc",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "zYm7Uwz8P24"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "zYm7Uwz8P24",
+                "videoPublishedAt": "2021-05-12T22:29:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Cx2m9yBIgWO6CmMqaUV8Pgq120c",
+            "id": "UExFRDREai1UNDNyTjM5Mk1XM0pJd016b0lxbTE2N1R1Yy4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2021-05-12T22:19:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "تفسير سورة الحجرات 4",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9Ip8pbRkUxo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9Ip8pbRkUxo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9Ip8pbRkUxo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9Ip8pbRkUxo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rN392MW3JIwMzoIqm167Tuc",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "9Ip8pbRkUxo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "9Ip8pbRkUxo",
+                "videoPublishedAt": "2021-05-12T22:19:46Z"
+            }
+        }
+    ],
+    "title": "تفسير سريع للقرآن الكريم",
+    "nav": "تفسير سريع للقرآن الكريم",
+    "id": "4_0_2"
+}

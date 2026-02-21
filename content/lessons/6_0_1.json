@@ -1,0 +1,772 @@
+{
+    "items": [
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "24RIL30QMVMgLZ6u3hd8t7jfbw0",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC4zMDg5MkQ5MEVDMEM1NTg2",
+            "snippet": {
+                "publishedAt": "2025-03-12T21:56:38Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (1) التفاسير التي لا بد منها",
+                "description": "كيف أفسر القرآن,تعريف بأهم كتب التفسير,طريقة منهجية لتفسير القرآن,مناهج المفسرين,تراجم المفسرين,أفضل التفاسير,الطريقة المثلى لتفسير القرآن",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0tEtaFppYPY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0tEtaFppYPY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0tEtaFppYPY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0tEtaFppYPY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0tEtaFppYPY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 0,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "0tEtaFppYPY"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "0tEtaFppYPY",
+                "videoPublishedAt": "2025-03-12T21:59:38Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "DE80zJB5Dqd8P535MXGZjNZ1AIA",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+                "publishedAt": "2024-05-20T18:58:37Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (2) التفاسير التي لا بد منها",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/H_RUhA0tcNk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/H_RUhA0tcNk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/H_RUhA0tcNk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/H_RUhA0tcNk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/H_RUhA0tcNk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 1,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "H_RUhA0tcNk"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "H_RUhA0tcNk",
+                "videoPublishedAt": "2024-05-20T19:01:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "AP73MWCbqjjtuj_ip4xtXVsoV_M",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC4wMTcyMDhGQUE4NTIzM0Y5",
+            "snippet": {
+                "publishedAt": "2024-05-22T02:59:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (3) أهم التفاسير، والمدراس التفسيرية الثلاث",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/57fpqLivAME/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/57fpqLivAME/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/57fpqLivAME/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/57fpqLivAME/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/57fpqLivAME/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 2,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "57fpqLivAME"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "57fpqLivAME",
+                "videoPublishedAt": "2024-05-22T03:14:00Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "854y4HKVvQ-bJ84_83PSFTmDxuE",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC41MjE1MkI0OTQ2QzJGNzNG",
+            "snippet": {
+                "publishedAt": "2024-05-24T14:03:14Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (4)  زيادة تفصيل في بيان المدارس التفسيرية الثلاث.",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/TXagp3X4vVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/TXagp3X4vVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/TXagp3X4vVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/TXagp3X4vVc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/TXagp3X4vVc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 3,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "TXagp3X4vVc"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "TXagp3X4vVc",
+                "videoPublishedAt": "2024-05-24T14:08:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "mN89xv-yH1bpu380FFd6XP0u66g",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC4wOTA3OTZBNzVEMTUzOTMy",
+            "snippet": {
+                "publishedAt": "2024-05-24T17:18:34Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (5) طريقة معرفة مقاصد السور",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hILhur3L5fo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hILhur3L5fo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hILhur3L5fo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hILhur3L5fo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hILhur3L5fo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 4,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hILhur3L5fo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hILhur3L5fo",
+                "videoPublishedAt": "2024-05-24T17:21:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "uqaQGa832J6nizCzY5FyFBnqfXc",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC41MzJCQjBCNDIyRkJDN0VD",
+            "snippet": {
+                "publishedAt": "2024-05-27T13:59:07Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (6) تكملة كيفية تحقيق مقاصد السور",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dfkWPO3cr9E/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dfkWPO3cr9E/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dfkWPO3cr9E/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dfkWPO3cr9E/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dfkWPO3cr9E/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 5,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "dfkWPO3cr9E"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "dfkWPO3cr9E",
+                "videoPublishedAt": "2024-05-27T14:04:37Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "76jWDvysZoApEHsbAtAM6rptAJc",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC5DQUNERDQ2NkIzRUQxNTY1",
+            "snippet": {
+                "publishedAt": "2024-05-28T11:59:41Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (7) طريقة تحقيق كلمات(ألفاظ) القرآن الكريم",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/LjtldexWNdI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/LjtldexWNdI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/LjtldexWNdI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/LjtldexWNdI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/LjtldexWNdI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 6,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "LjtldexWNdI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "LjtldexWNdI",
+                "videoPublishedAt": "2024-05-28T12:06:14Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "J9qNVQtgFXxEOF3Mt8PzbF7EHF0",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC45NDk1REZENzhEMzU5MDQz",
+            "snippet": {
+                "publishedAt": "2024-05-29T12:03:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن (8) خط سير المفسر، وكيفية بيان ارتباط الآيات والسور.",
+                "description": "رابط سورة الضحى \nhttps://drive.google.com/file/d/1L0xCESdWlGZ42c4dkry-dk3E8_f40rYZ/view?usp=sharing\nرابط العلاقة بين عم والمرسلات: \nhttps://drive.google.com/file/d/1zeUwdBvzFzZvMfaTM46OEX7vCUPsA4t-/view?usp=sharing\n\nالطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-tUW592bpr0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-tUW592bpr0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-tUW592bpr0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-tUW592bpr0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-tUW592bpr0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 7,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "-tUW592bpr0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "-tUW592bpr0",
+                "videoPublishedAt": "2024-05-29T12:10:45Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "zk5ngGDVLQeXAUhSdSjN7FO34Bo",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC5GNjNDRDREMDQxOThCMDQ2",
+            "snippet": {
+                "publishedAt": "2024-06-03T08:27:56Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة الطريقة المثلى (9) مقدمات السورة: مكيتها ومدنيتها، وعدها، وارتباطاتها وغير ذلك",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KRDF_lfh8xU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KRDF_lfh8xU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KRDF_lfh8xU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KRDF_lfh8xU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KRDF_lfh8xU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 8,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "KRDF_lfh8xU"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "KRDF_lfh8xU",
+                "videoPublishedAt": "2024-06-03T08:29:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aAWuI3D8TI6njg-l8xkruB7NBjg",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC40NzZCMERDMjVEN0RFRThB",
+            "snippet": {
+                "publishedAt": "2024-06-03T10:34:28Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "الطريقة المثلى لتفسير القرآن  (10) عد الآي وطريقة فك عبارة أبي السعود والنسفي والجلال",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ads19D3PM0s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ads19D3PM0s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ads19D3PM0s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ads19D3PM0s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ads19D3PM0s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 9,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ads19D3PM0s"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ads19D3PM0s",
+                "videoPublishedAt": "2024-06-03T10:39:30Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "ddniokpIS0BpucfOcDHs4EYgweE",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC5EMEEwRUY5M0RDRTU3NDJC",
+            "snippet": {
+                "publishedAt": "2024-06-03T11:32:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (11)  الطريقة العملية للتحقيق في التفسير",
+                "description": "رابط أهم حواشي الكشاف والبيضاوي\nhttps://drive.google.com/drive/folders/1FXrLu3p99ErZVNAwNxoADQgQ2Ls22BjI?usp=sharing",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ExgEeTZIYbw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ExgEeTZIYbw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ExgEeTZIYbw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ExgEeTZIYbw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ExgEeTZIYbw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 10,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "ExgEeTZIYbw"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "ExgEeTZIYbw",
+                "videoPublishedAt": "2024-06-03T11:36:46Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "lRbDTd_ILOu1dmxkYhN9h39hMs4",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC45ODRDNTg0QjA4NkFBNkQy",
+            "snippet": {
+                "publishedAt": "2024-06-03T12:34:19Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "دورة تعليم الطريقة المثلى لتفسير القرآن الكريم (12) التفسير الفقهي وهو الدرس الأخير في الدورة.",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U7BwkDjL2cE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U7BwkDjL2cE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U7BwkDjL2cE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/U7BwkDjL2cE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/U7BwkDjL2cE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 11,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "U7BwkDjL2cE"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "U7BwkDjL2cE",
+                "videoPublishedAt": "2024-06-03T12:41:05Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "97h_6phJe3NEagZWWzXqIq8XJJU",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC41Mzk2QTAxMTkzNDk4MDhF",
+            "snippet": {
+                "publishedAt": "2025-11-11T10:34:27Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "13) محاضرة تكوين الملكة النحوية لطالب العلم",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/OAdgKBU__p8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/OAdgKBU__p8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/OAdgKBU__p8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/OAdgKBU__p8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/OAdgKBU__p8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 12,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "OAdgKBU__p8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "OAdgKBU__p8",
+                "videoPublishedAt": "2025-11-11T10:42:36Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "vfrusDjM0hHCHMBtgUS6ptSwQ1o",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC5EQUE1NTFDRjcwMDg0NEMz",
+            "snippet": {
+                "publishedAt": "2025-11-11T10:35:50Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "14)  تكوين الملكة الصرفية لطالب العلم",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2_EClCf0Lb0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2_EClCf0Lb0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2_EClCf0Lb0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2_EClCf0Lb0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2_EClCf0Lb0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 13,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "2_EClCf0Lb0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "2_EClCf0Lb0",
+                "videoPublishedAt": "2025-11-11T10:40:42Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "XpUSoyuzZVreLx4SdRo-GF9PY1I",
+            "id": "UExFRDREai1UNDNyT1JvUGtTOHlzT2Fyd2l4dVY5UUlVWC41QTY1Q0UxMTVCODczNThE",
+            "snippet": {
+                "publishedAt": "2025-11-11T10:37:03Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "15) تكوين الملكة التفسيرية لطالب العلم",
+                "description": "الطريقة المثلى في تفسير القرآن دورة مهمة، تعلم الطالب كيف يتقن التعامل مع التفسير: من حيث تحقيق الألفاظ، ومعرفة مقاصد السور، والمناسبات، واختيار أفضل الأقوال، وتعرفه بأفضل التفاسير، وكيف يستطيع فهم العبارات الصعبة فيها، وكيف يفك مغلقها، وتختصر له المسافات في فهم القرآن الكريم، وهي خلاصة سنوات طويلة في تفسير القرآن الكريم.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GKtFYvXRai4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GKtFYvXRai4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GKtFYvXRai4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/GKtFYvXRai4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/GKtFYvXRai4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rORoPkS8ysOarwixuV9QIUX",
+                "position": 14,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "GKtFYvXRai4"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "GKtFYvXRai4",
+                "videoPublishedAt": "2025-11-11T10:47:25Z"
+            }
+        }
+    ],
+    "title": "الطريقة المثلى لتفسير القرآن (2)",
+    "nav": "الطريقة المثلى لتفسير القرآن (2)",
+    "id": "6_0_1"
+}

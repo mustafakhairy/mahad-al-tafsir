@@ -29,7 +29,7 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--primary button--lg"
-            to="/videos/جميع دورات النحو/مبادئ  دروس العربية"
+            to="/videos/جميع دورات النحو/سلسلة شرح متون وكتب النحو المستوى المبتدئ/نحو 1 مكتمل مبادئ دروس العربية محمد محيي الدين"
           >
             ابدأ هنا
           </Link>
