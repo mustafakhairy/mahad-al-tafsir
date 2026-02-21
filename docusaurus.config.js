@@ -12,7 +12,6 @@ const config = {
   url: "https://tafsir.institute",
   baseUrl: "/",
   onBrokenLinks: "warn",
-  onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
   organizationName: "ismaelrumzan", // Usually your GitHub org/user name.
   projectName: "mahad-al-tafsir", // Usually your repo name.
@@ -39,6 +38,11 @@ const config = {
   i18n: {
     defaultLocale: "ar",
     locales: ["ar"],
+  },
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "warn",
+    },
   },
   customFields: {
     // Put your custom environment here
