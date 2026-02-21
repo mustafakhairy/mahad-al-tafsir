@@ -33,6 +33,9 @@ jobs:
       - name: Generate MDX files
         run: node scripts/generatemdx.js
 
+      - name: Validate generated links
+        run: node scripts/validate-links.js
+
       - name: Commit and push if changed
         run: |
           git diff --quiet && exit 0
