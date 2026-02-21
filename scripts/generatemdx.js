@@ -7,11 +7,27 @@ const lessonsDirectory = path.join(process.cwd(), "content/lessons");
 const videoDir = path.join(process.cwd(), "videos");
 
 // Strip characters that are invalid in file paths / Docusaurus slugs
+// and truncate to avoid ENAMETOOLONG errors on Linux (255-byte filename limit).
+// Docusaurus cache files encode the full doc path into one filename, so each
+// segment must be kept short. 60 UTF-8 bytes ≈ 30 Arabic characters.
 function sanitizeNav(str) {
-  return str
+  let result = str
     .replace(/[*\\/:?"<>|#()]/g, "")
     .replace(/\s+/g, " ")
     .trim();
+  return truncateToBytes(result, 60);
+}
+
+function truncateToBytes(str, maxBytes) {
+  const buf = Buffer.from(str, "utf8");
+  if (buf.length <= maxBytes) return str;
+  // Slice the buffer and decode, dropping any incomplete character at the end
+  let truncated = buf.slice(0, maxBytes).toString("utf8");
+  // Remove a possible replacement character from a split multi-byte char
+  if (truncated.endsWith("\uFFFD")) {
+    truncated = truncated.slice(0, -1);
+  }
+  return truncated.trim();
 }
 
 function getResolvedStructure() {
