@@ -7,27 +7,33 @@ const lessonsDirectory = path.join(process.cwd(), "content/lessons");
 const videoDir = path.join(process.cwd(), "videos");
 
 // Strip characters that are invalid in file paths / Docusaurus slugs
-// and truncate to avoid ENAMETOOLONG errors on Linux (255-byte filename limit).
-// Docusaurus cache files encode the full doc path into one filename, so each
-// segment must be kept short. 60 UTF-8 bytes ≈ 30 Arabic characters.
 function sanitizeNav(str) {
-  let result = str
+  return str
     .replace(/[*\\/:?"<>|#()]/g, "")
     .replace(/\s+/g, " ")
     .trim();
-  return truncateToBytes(result, 60);
 }
 
 function truncateToBytes(str, maxBytes) {
   const buf = Buffer.from(str, "utf8");
   if (buf.length <= maxBytes) return str;
-  // Slice the buffer and decode, dropping any incomplete character at the end
   let truncated = buf.slice(0, maxBytes).toString("utf8");
-  // Remove a possible replacement character from a split multi-byte char
   if (truncated.endsWith("\uFFFD")) {
     truncated = truncated.slice(0, -1);
   }
   return truncated.trim();
+}
+
+// Docusaurus cache files flatten the full doc path into one filename:
+//   site-videos-{cat}-{section}-{playlist}-mdx-{hash}.json
+// Linux has a 255-byte filename limit. Only truncate the playlist name
+// (the longest segment) when the total would exceed the limit.
+const MAX_CACHE_CONTENT_BYTES = 220;
+function fitPlaylistNav(categoryNav, sectionNav, playlistNav) {
+  const prefixBytes = Buffer.from(categoryNav + " " + sectionNav + " ", "utf8").length;
+  const playlistBytes = Buffer.from(playlistNav, "utf8").length;
+  if (prefixBytes + playlistBytes <= MAX_CACHE_CONTENT_BYTES) return playlistNav;
+  return truncateToBytes(playlistNav, MAX_CACHE_CONTENT_BYTES - prefixBytes);
 }
 
 function getResolvedStructure() {
@@ -98,7 +104,7 @@ async function createMDX() {
 
       // Add section to category index
       if (section.playlists.length > 0) {
-        const firstPlaylistNav = sanitizeNav(section.playlists[0].nav);
+        const firstPlaylistNav = fitPlaylistNav(categoryNav, sectionNav, sanitizeNav(section.playlists[0].nav));
         categoryIndexContent +=
           `## [${section.title}](<${sectionNav}/${firstPlaylistNav}>)\n`;
       } else {
@@ -110,7 +116,7 @@ async function createMDX() {
       // Generate playlist MDX files
       for (let pIdx = 0; pIdx < section.playlists.length; pIdx++) {
         const playlist = section.playlists[pIdx];
-        const playlistNav = sanitizeNav(playlist.nav);
+        const playlistNav = fitPlaylistNav(categoryNav, sectionNav, sanitizeNav(playlist.nav));
         const lesson = getLesson(playlist.id);
         categoryVideoCount += lesson.items.length;
 

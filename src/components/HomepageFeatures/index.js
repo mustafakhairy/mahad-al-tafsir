@@ -15,17 +15,39 @@ function sanitizeNav(str) {
     .trim();
 }
 
+function truncateToBytes(str, maxBytes) {
+  const encoder = new TextEncoder();
+  const encoded = encoder.encode(str);
+  if (encoded.length <= maxBytes) return str;
+  const decoder = new TextDecoder('utf-8', { fatal: false });
+  let truncated = decoder.decode(encoded.slice(0, maxBytes));
+  if (truncated.endsWith('\uFFFD')) {
+    truncated = truncated.slice(0, -1);
+  }
+  return truncated.trim();
+}
+
+const MAX_CACHE_CONTENT_BYTES = 220;
+function fitPlaylistNav(categoryNav, sectionNav, playlistNav) {
+  const encoder = new TextEncoder();
+  const prefixBytes = encoder.encode(categoryNav + ' ' + sectionNav + ' ').length;
+  const playlistBytes = encoder.encode(playlistNav).length;
+  if (prefixBytes + playlistBytes <= MAX_CACHE_CONTENT_BYTES) return playlistNav;
+  return truncateToBytes(playlistNav, MAX_CACHE_CONTENT_BYTES - prefixBytes);
+}
+
 function Feature({ image, title, nav, sections, index }) {
   const {colorMode} = useColorMode();
 
   // Flatten sections into a list of playlists for display
   const allPlaylists = [];
   for (const section of sections) {
+    const sectionNav = sanitizeNav(section.nav);
     for (const playlist of section.playlists) {
       allPlaylists.push({
         ...playlist,
-        nav: sanitizeNav(playlist.nav),
-        sectionNav: sanitizeNav(section.nav),
+        nav: fitPlaylistNav(nav, sectionNav, sanitizeNav(playlist.nav)),
+        sectionNav,
       });
     }
   }
