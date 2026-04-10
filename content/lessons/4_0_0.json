@@ -6578,6 +6578,57 @@
                 "videoId": "kzBJ7AI5984",
                 "videoPublishedAt": "2025-11-06T15:45:14Z"
             }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "VQ-WQFCyuVZoBpBKvfOXnWekGAA",
+            "id": "UExFRDREai1UNDNyUFVtZEs1OVpHaHpuVGVheVNIQm85aC5DODY2Qzc5Mzc1QkZEQ0NF",
+            "snippet": {
+                "publishedAt": "2026-04-10T02:49:25Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "هاكرز إيرانيون يفضحون لقاء سريا بين قائدين من الجيش الأردني والإسرائيلي",
+                "description": "من داخل مكتب رئيس الأركان الأردني.. مقاطع حصرية صوتا وصورة تكشف تبادل الهدايا بين رئيس أركان الجيش الأردني، يوسف أحمد الحنيطي، ورئيس أركان جيش الاحتلال السابق، هرتسي هاليفي، الذي  قاد حرب الإبـ.ـادة على غزة!\nالمقاطع سريتها مجموعة هاكرز اخترقت هاتف هاليفي. شاهد!\n#ميم \n#مجلة_ميم \n#فيديوهات_ميم\nـــــــــــــ ـــــــــــــــ ـــــــــــــــ\nانضم لقناة مجلة ميم من خلال الرابط: https://bit.ly/3s8oM5U\nـــــــــــــ ـــــــــــــــ ـــــــــــــــ\nتابع مجلة ميم على وسائل التواصل الاجتماعي: \nفيسبوك: https://www.facebook.com/MeemMagazine.BestVideos\nتويتر: https://twitter.com/MeemMagazine\nإنستجرام: https://www.instagram.com/meemmagazine/\nتليجرام: https://t.me/MeemMagazine\nتك توك: https://vm.tiktok.com/ZSd1gNFku/",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DwBtZkKyxwk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DwBtZkKyxwk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DwBtZkKyxwk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DwBtZkKyxwk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DwBtZkKyxwk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rPUmdK59ZGhznTeaySHBo9h",
+                "position": 129,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "DwBtZkKyxwk"
+                },
+                "videoOwnerChannelTitle": "مجلة ميم.. مِرآتنا",
+                "videoOwnerChannelId": "UCBl8QiJl0R4gGszqA3eL4Tw"
+            },
+            "contentDetails": {
+                "videoId": "DwBtZkKyxwk",
+                "videoPublishedAt": "2026-04-09T22:30:00Z"
+            }
         }
     ],
     "title": "تفسير النسفي من سورة الفاتحة إلى السجدة",
