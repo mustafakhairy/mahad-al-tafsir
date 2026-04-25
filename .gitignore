@@ -10,6 +10,7 @@
 
 # Misc
 .DS_Store
+CLAUDE.md
 .env
 .env.local
 .env.development.local
