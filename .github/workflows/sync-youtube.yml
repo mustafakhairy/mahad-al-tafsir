@@ -2,7 +2,7 @@ name: Sync YouTube Content
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 3 * * 5'
   workflow_dispatch:
 
 jobs:
@@ -35,6 +35,13 @@ jobs:
 
       - name: Validate generated links
         run: node scripts/validate-links.js
+
+      - name: Upload search index to Algolia
+        run: node scripts/upload-search.js
+        env:
+          ALGOLIA_APP_ID: ${{ secrets.ALGOLIA_APP_ID }}
+          ALGOLIA_ADMIN_API_KEY: ${{ secrets.ALGOLIA_ADMIN_API_KEY }}
+          ALGOLIA_INDEX: ${{ secrets.ALGOLIA_INDEX }}
 
       - name: Commit and push if changed
         run: |
