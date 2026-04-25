@@ -49,7 +49,6 @@ const config = {
     algoliaAppId: process.env.ALGOLIA_APP_ID,
     algoliaApiKey: process.env.ALGOLIA_API_KEY,
     algoliaIndex: process.env.ALGOLIA_INDEX,
-    YTKey: process.env.YOUTUBE_API_KEY,
   },
 
   themeConfig:
