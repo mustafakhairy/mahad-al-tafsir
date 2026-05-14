@@ -155,7 +155,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "oUgO1VDRfR3UXDdm2vlI1C4w_vk",
+            "etag": "ccuhMGMAGVfXHYpih20YFsSBmgo",
             "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2024-12-26T19:50:36Z",
@@ -1073,7 +1073,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "GShdgZxZaCXoD9CBTgCMV72xOJA",
+            "etag": "M-OopajJvkL24jF28F1WVkr6Rrc",
             "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
                 "publishedAt": "2025-06-12T19:33:08Z",
@@ -1889,7 +1889,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "blAwtYCHDS7H4B9gy0IzmhtvQN4",
+            "etag": "_Gjmh7jXxVxhjSfL06lPXN3sCyI",
             "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
                 "publishedAt": "2025-08-15T20:37:55Z",
@@ -2348,7 +2348,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IkC8br3MUlV8ZPXpCeuPtC03EKY",
+            "etag": "GQdLpg9ydB7sjmLtxxBsuGdmESg",
             "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC40QzRDOEU0QUYwNUIxN0M1",
             "snippet": {
                 "publishedAt": "2025-08-18T20:34:52Z",
@@ -3062,7 +3062,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XqcaB9XS-tthj9spuRXQflHidcU",
+            "etag": "hZmC0DeS0GZroT71r8R4vGWtEpU",
             "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5CNTZFOTNGQzZEODg1RUQx",
             "snippet": {
                 "publishedAt": "2025-08-22T13:13:59Z",
@@ -3521,7 +3521,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1nxBhcObkPEeRFUwDJqaP3O-sI8",
+            "etag": "O0JTdeuWQBljgW8P3Droxx-9tC8",
             "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC4yQzk4QTA5QjkzMTFFOEI1",
             "snippet": {
                 "publishedAt": "2025-08-26T09:53:29Z",
@@ -3670,6 +3670,108 @@
             "contentDetails": {
                 "videoId": "V1BfvdxaJb0",
                 "videoPublishedAt": "2025-08-28T19:28:53Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "d8bQQ2RWuL80qoaAisAswItwT3s",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5FQUY2Qzk4RUFDN0ZFRkZF",
+            "snippet": {
+                "publishedAt": "2026-05-14T08:56:18Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف(76)  الجزء الرابع من جموع الكثرة",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hRrxZqNlGRo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hRrxZqNlGRo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hRrxZqNlGRo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hRrxZqNlGRo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hRrxZqNlGRo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 72,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hRrxZqNlGRo"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hRrxZqNlGRo",
+                "videoPublishedAt": "2026-05-14T08:56:27Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "aZmdqJTenYb64Sy9lq8Q62WipYw",
+            "id": "UExFRDREai1UNDNyT3JuODdBTnBVdENlNThvWVVkRFJqRC5CMEVBRUJERkUyNTBENTkz",
+            "snippet": {
+                "publishedAt": "2026-05-14T13:22:30Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "شذا العرف (77 )  الجزء الخامس من جموع الكثرة",
+                "description": "شذا العرف في فن الصرف للحملاوي كتاب نافع في كتب الصرف، يمتاز بسهولة العرض مع عمق المعلومات، فهو كتاب ملخص من شروح الألفية لا سيما التصريح على التوضيح، ومؤلفه الحملاوي علامة موسوعي في علوم كثيرة، وهذه الدورة سهلت هذا الكتاب وعرضته بطريقة سهلة مزجته مع شرح علي هاني العقرباوي على شرح بناء الأفعال للدتفزي، مع مزجه بكلام المفسرين",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wPjAdThR7O0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wPjAdThR7O0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wPjAdThR7O0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/wPjAdThR7O0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/wPjAdThR7O0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rOrn87ANpUtCe58oYUdDRjD",
+                "position": 73,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "wPjAdThR7O0"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "wPjAdThR7O0",
+                "videoPublishedAt": "2026-05-14T13:22:46Z"
             }
         }
     ],
