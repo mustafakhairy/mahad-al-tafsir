@@ -3,6 +3,39 @@ import Select from "react-select";
 import Player from "./ytplayer";
 import styles from "./styles.module.css";
 
+const RECENTLY_WATCHED_KEY = "tafsir:recentlyWatched";
+const RECENTLY_WATCHED_MAX = 5;
+
+function saveRecentlyWatched(item, idx) {
+  if (typeof window === "undefined") return;
+  const videoId =
+    item && item.snippet && item.snippet.resourceId && item.snippet.resourceId.videoId;
+  if (!videoId) return;
+
+  const entry = {
+    videoId,
+    videoTitle: item.snippet.title,
+    url:
+      window.location.pathname + (idx > 0 ? "#" + idx : ""),
+    savedAt: Date.now(),
+  };
+
+  try {
+    const raw = window.localStorage.getItem(RECENTLY_WATCHED_KEY);
+    const list = raw ? JSON.parse(raw) : [];
+    const filtered = Array.isArray(list)
+      ? list.filter((e) => e && e.videoId !== videoId)
+      : [];
+    filtered.unshift(entry);
+    window.localStorage.setItem(
+      RECENTLY_WATCHED_KEY,
+      JSON.stringify(filtered.slice(0, RECENTLY_WATCHED_MAX))
+    );
+  } catch (e) {
+    // localStorage unavailable (Safari private mode, quota, etc.) — silently skip
+  }
+}
+
 export default function VideoList({ children, data = {} }) {
   const [itemIndex, setItemIndex] = useState(0);
   const [vidItem, setvidItem] = useState({});
@@ -13,6 +46,12 @@ export default function VideoList({ children, data = {} }) {
       setItemIndex(window.location.hash.replace("#", ""));
     }
   }, [vidItem]);
+
+  useEffect(() => {
+    const idx = Number(itemIndex) || 0;
+    const item = data.items && data.items[idx];
+    if (item) saveRecentlyWatched(item, idx);
+  }, [itemIndex]);
 
   data.items.sort((a, b) => {
     const orderNoArrayA = a.snippet.title.split(" ")[0].split(".");

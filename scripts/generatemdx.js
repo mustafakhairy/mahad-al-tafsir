@@ -64,6 +64,7 @@ async function createMDX() {
   const structure = getResolvedStructure();
   const searchJson = [];
   const videoCount = [];
+  const videoIndex = {};
 
   // Build intro page data
   let introData = "";
@@ -162,14 +163,14 @@ async function createMDX() {
           if (itemTitle !== "Private video") {
             searchRec.description += itemTitle + " ";
 
+            const itemUrl =
+              itemIndex !== 0 ? "/" + mdxPath + "#" + itemIndex : "/" + mdxPath;
+
             const searchRecItem = {
               id: playlist.id + "_" + itemIndex,
               title: itemTitle.trim(),
               description: "",
-              path:
-                itemIndex !== 0
-                  ? "https://tafsir.institute/" + mdxPath + "#" + itemIndex
-                  : "https://tafsir.institute/" + mdxPath,
+              path: "https://tafsir.institute" + itemUrl,
               section: false,
               categories: cats,
             };
@@ -180,6 +181,19 @@ async function createMDX() {
               searchRecItem.image = lessonItem.snippet.thumbnails.medium.url;
             }
             searchJson.push(searchRecItem);
+
+            const videoId =
+              lessonItem.snippet.resourceId &&
+              lessonItem.snippet.resourceId.videoId;
+            if (videoId) {
+              videoIndex[videoId] = {
+                url: itemUrl,
+                videoTitle: lessonItem.snippet.title,
+                playlistTitle: playlist.title,
+                sectionTitle: section.title,
+                categoryTitle: category.title,
+              };
+            }
           }
         });
 
@@ -227,7 +241,18 @@ async function createMDX() {
     "utf8"
   );
 
-  console.log("Generated MDX files, search.json, and videocount.json");
+  // Write videoindex.json — maps stable YouTube videoId to current site URL/title.
+  // Used by the homepage "Continue watching" card to self-heal localStorage
+  // entries when playlists are renamed or reordered across sync cycles.
+  fse.outputFileSync(
+    path.join(contentDirectory, "videoindex.json"),
+    JSON.stringify(videoIndex, null, 4),
+    "utf8"
+  );
+
+  console.log(
+    "Generated MDX files, search.json, videocount.json, and videoindex.json"
+  );
 }
 
 fse.emptyDirSync(videoDir);
