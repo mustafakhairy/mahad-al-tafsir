@@ -60,11 +60,11 @@ export default function VideoList({ children, data = {} }) {
     }
   }, [location.hash]);
 
-  useEffect(() => {
+  function handlePlay() {
     const idx = Number(itemIndex) || 0;
     const item = data.items && data.items[idx];
     if (item) saveRecentlyWatched(item, idx);
-  }, [itemIndex]);
+  }
 
   data.items.sort((a, b) => {
     const orderNoArrayA = a.snippet.title.split(" ")[0].split(".");
@@ -118,6 +118,7 @@ export default function VideoList({ children, data = {} }) {
         <Player
           id={data.items[itemIndex].snippet.resourceId.videoId}
           title={data.items[itemIndex].snippet.title}
+          onPlay={handlePlay}
         />
       </div>
     </main>
