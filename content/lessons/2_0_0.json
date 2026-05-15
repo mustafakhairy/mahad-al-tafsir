@@ -2,7 +2,7 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "_uPzfgvYK1nqZkgKhB0nGXyX6_I",
+            "etag": "6HZLlh6UpUVtYA9hSg5juzh0m0Y",
             "id": "UExFRDREai1UNDNyTzhFaE5icDM3dUd4N04ydmhRcjlJdS4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2019-10-29T13:25:47Z",
@@ -48,7 +48,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "scjRi5WA2QumW3k4uHnNJq5YJeg",
+            "etag": "VUGLNpWhTf3q3IqpdMf7-bXWSvI",
             "id": "UExFRDREai1UNDNyTzhFaE5icDM3dUd4N04ydmhRcjlJdS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2019-10-29T13:32:44Z",
@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "h1i0xpj7ggQDCOFQTKavUtuYovw",
+            "etag": "_ph-5bdKXFdr8K18jCs0mxDNDNc",
             "id": "UExFRDREai1UNDNyTzhFaE5icDM3dUd4N04ydmhRcjlJdS4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
                 "publishedAt": "2022-10-23T21:56:30Z",
@@ -145,6 +145,6 @@
         }
     ],
     "title": "صرف 1ـ: الشرح المختصر للأمثلة المختلفة",
-    "nav": "صرف 1ـ: الشرح المختصر للأمثلة المختلفة",
+    "nav": "صرف 1ـ الشرح المختصر للأمثلة المختلفة",
     "id": "2_0_0"
 }

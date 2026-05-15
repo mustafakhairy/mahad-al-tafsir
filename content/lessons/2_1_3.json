@@ -2,7 +2,7 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "Yfetrh9HU7w2J673ACtUBFMxbVM",
+            "etag": "aM3qDrKf7flsUMZqOwkhogQhMnw",
             "id": "UExFRDREai1UNDNyT1c4dUl0cUptc0pKZ3FuaTVXclZoQS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2021-05-21T21:00:09Z",
@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "rV0Ou910it0Yv-KYPK2pUUAurmc",
+            "etag": "D925SpoiaO6xhkt6G7clYDbyKPA",
             "id": "UExFRDREai1UNDNyT1c4dUl0cUptc0pKZ3FuaTVXclZoQS4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2021-06-04T10:30:54Z",
@@ -140,6 +140,6 @@
         }
     ],
     "title": "مراجعات النحو والصرف للثانوية العامة (التوجيهي)",
-    "nav": "مراجعات النحو والصرف للثانوية العامة (التوجيهي)",
+    "nav": "مراجعات النحو والصرف للثانوية العامة التوجيهي",
     "id": "2_1_3"
 }

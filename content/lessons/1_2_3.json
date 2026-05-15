@@ -2,7 +2,7 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "lJJRkMeMI8Cz2gauM09JclTbMWU",
+            "etag": "QV2mPKiBXjw4-8ZvjpxoI3eHFLQ",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2020-12-14T15:47:08Z",
@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Xt6nMZpatlaVjFnS_iGx4lreMBo",
+            "etag": "m1_l-uj1pxBU2aEvAAOFVDETSY0",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
                 "publishedAt": "2020-12-14T18:21:06Z",
@@ -140,7 +140,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "6a-T1ssZBusb3Qg-l-vRc5Y7DIM",
+            "etag": "rle4v6TbwSa_OArZtbE_8evF2ZA",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2020-12-14T15:49:38Z",
@@ -324,7 +324,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Ij5pvNql1MNz1_nsfWNBcRlSdsE",
+            "etag": "hhy75OpZzAquk4u9vay_4M7hI0c",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
                 "publishedAt": "2020-12-14T17:13:06Z",
@@ -370,7 +370,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "CATNl56YNkBDi34EkmUbdrLaHjs",
+            "etag": "1wCiYyPvFgTFhso-rCBOyA2pkMg",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy41QTY1Q0UxMTVCODczNThE",
             "snippet": {
                 "publishedAt": "2020-12-14T17:14:12Z",
@@ -416,7 +416,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "oF0O4Tf1mJeVtamWF8RUkCS5S-4",
+            "etag": "7eV3zqJmjXvnnrZqGPUbE77mhok",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
                 "publishedAt": "2020-12-14T15:55:23Z",
@@ -462,7 +462,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "OpFI10EWwCvJzOKj_q2Oc20lfK4",
+            "etag": "na3jm17qeP-lexQ4xENKkvZwjLs",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
                 "publishedAt": "2020-12-14T15:56:54Z",
@@ -508,7 +508,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "0XFz9AHDH-K6xD9s_cToXUxg-tk",
+            "etag": "qBD-GoIpgbT5vftCfHd2O_81L5I",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy45NDk1REZENzhEMzU5MDQz",
             "snippet": {
                 "publishedAt": "2020-12-14T15:57:56Z",
@@ -554,7 +554,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "slVA04Vea5fqMOnsjS2Un27Qtao",
+            "etag": "Y-SrJLpOz6CoZkIFGqfRux3B1Eo",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
                 "publishedAt": "2020-12-14T15:58:47Z",
@@ -600,7 +600,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "oVt7ydV-NA71_c9j_tvVWxL13y4",
+            "etag": "DHhQdtskTVOHm2hukdSDzLvyCYQ",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2020-12-14T15:59:52Z",
@@ -646,7 +646,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "5NyKUjwBOG9R0jeu4rKqM41UEIk",
+            "etag": "JXS8Lk2EXOnVZYcmwxXHJupKck0",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2020-12-14T16:00:34Z",
@@ -697,7 +697,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "cXJyYbhIk0xK-Kvip3tLypz1PMU",
+            "etag": "UWIadYKNZaLZ0hTL5AnmWMLKydw",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2020-12-14T16:01:25Z",
@@ -850,6 +850,6 @@
         }
     ],
     "title": "نحو (14) : شرح السيوطي على الألفية",
-    "nav": "نحو (14) : شرح السيوطي على الألفية",
+    "nav": "نحو 14 شرح السيوطي على الألفية",
     "id": "1_2_3"
 }

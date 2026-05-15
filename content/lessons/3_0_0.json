@@ -48,7 +48,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "hLo3P7-F5PqCDj1hXWtHnY6aVew",
+            "etag": "8BqRhdvf2GKZ7Diqmk7ISqWiuH4",
             "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2020-05-10T18:45:07Z",
@@ -94,7 +94,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "ol0wGWh8jx9fVeUP_0CU0I4Y1pg",
+            "etag": "NqgOLsxl3AWJVX2krAgH5WqinXI",
             "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2020-05-09T09:22:50Z",
@@ -140,7 +140,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "G6tv837edMor0oLSmz6GG7paFMM",
+            "etag": "cCFUX-eDkIHYutx8N6pF5wywQPI",
             "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
                 "publishedAt": "2023-11-16T07:34:30Z",
@@ -186,7 +186,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "sEK_TYyA4ILrZfNUhRTvyosG408",
+            "etag": "pvdOBgPNXahNhEb02AEn-1uCt9Y",
             "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2020-05-29T14:19:44Z",
@@ -232,7 +232,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "XBEFpP8kBYvC6ch2jRl8wl8J49c",
+            "etag": "GsEiobLRDtblHVJaqovWcqlnq9E",
             "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
                 "publishedAt": "2024-08-15T21:58:01Z",
@@ -283,7 +283,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "pm3iiXkNZywiujseg1wvWTihYA8",
+            "etag": "CZD0iDMcGrRYaC0rb52vZ0JXO-M",
             "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
                 "publishedAt": "2024-08-15T22:00:13Z",
@@ -436,7 +436,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "1_dhgjwrKA4lSp_oL-pn1lBqPOY",
+            "etag": "Dx1poKDhD1ggXBCZX3-9CfbuI6E",
             "id": "UExFRDREai1UNDNyUEd0V0ZDSWViVTU2UkRVWV8tWnh3Zi41QTY1Q0UxMTVCODczNThE",
             "snippet": {
                 "publishedAt": "2024-08-25T22:09:43Z",
@@ -538,6 +538,6 @@
         }
     ],
     "title": "بلاغة 1: تاريخ البلاغة وعلمائها",
-    "nav": "بلاغة 1: تاريخ البلاغة وعلمائها",
+    "nav": "بلاغة 1 تاريخ البلاغة وعلمائها",
     "id": "3_0_0"
 }
