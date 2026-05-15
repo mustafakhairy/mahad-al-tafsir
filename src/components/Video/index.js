@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { useLocation, useHistory } from "@docusaurus/router";
 import Select from "react-select";
 import Player from "./ytplayer";
 import styles from "./styles.module.css";
@@ -37,15 +38,27 @@ function saveRecentlyWatched(item, idx) {
 }
 
 export default function VideoList({ children, data = {} }) {
+  const location = useLocation();
+  const history = useHistory();
   const [itemIndex, setItemIndex] = useState(0);
   const [vidItem, setvidItem] = useState({});
   const vidOptions = [];
 
+  // Sync the selected video with the URL hash whenever it changes. Using
+  // Docusaurus's reactive location avoids a race where window.location.hash
+  // isn't yet populated when the component first mounts via client-side nav.
   useEffect(() => {
-    if ("hash" in window.location && window.location.hash !== "") {
-      setItemIndex(window.location.hash.replace("#", ""));
+    if (!location.hash) return;
+    const idx = Number(location.hash.replace("#", ""));
+    if (
+      Number.isInteger(idx) &&
+      idx >= 0 &&
+      data.items &&
+      idx < data.items.length
+    ) {
+      setItemIndex(idx);
     }
-  }, [vidItem]);
+  }, [location.hash]);
 
   useEffect(() => {
     const idx = Number(itemIndex) || 0;
@@ -71,7 +84,8 @@ export default function VideoList({ children, data = {} }) {
 
   function changeItem(i) {
     setvidItem(i);
-    window.location.href = `#${i.value}`;
+    setItemIndex(i.value);
+    history.push({ hash: `#${i.value}` });
   }
 
   function changeItemNav(i, direction) {
@@ -83,7 +97,7 @@ export default function VideoList({ children, data = {} }) {
     if (num >= 0 && num !== null && num !== undefined) {
       setvidItem(num);
       setItemIndex(num);
-      window.location.href = `#${num}`;
+      history.push({ hash: `#${num}` });
     }
   }
 
@@ -95,10 +109,7 @@ export default function VideoList({ children, data = {} }) {
             className={styles.selectClass}
             options={vidOptions}
             onChange={changeItem}
-            defaultValue={{
-              label: `${data.items[itemIndex].snippet.title}`,
-              value: 0,
-            }}
+            value={vidOptions[Number(itemIndex) || 0]}
           />
         </div>
       </div>
