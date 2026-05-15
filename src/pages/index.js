@@ -8,6 +8,7 @@ import { GTMProvider } from '@elgorditosalsero/react-gtm-hook'
 
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import ContinueWatching from "@site/src/components/ContinueWatching";
 import Search from "@site/src/components/Search";
 import logoBlack from "@site/static/img/logo-black.png";
 
@@ -58,6 +59,7 @@ export default function Home() {
       <Layout>
         <HomepageHeader />
         <div className={styles.homeContent}>
+          <ContinueWatching />
           <HomepageFeatures />
         </div>
       </Layout>
