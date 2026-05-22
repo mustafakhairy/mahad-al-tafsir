@@ -1532,7 +1532,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "qushvGLR9h5gO-jG_nOqXUdu_KM",
+            "etag": "M2sAfL0DYT0wDAQrDIoioHBGrsc",
             "id": "UExFRDREai1UNDNyTy1LMW41TWdvMlRmSXhwdF9zZmtCLS44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
                 "publishedAt": "2024-09-27T06:14:46Z",
@@ -3572,7 +3572,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "Dhr3A6d3sPz6Ny7av-xK59sNgow",
+            "etag": "WKj0j1tCEhk8_jxNUi9H2l1XJf4",
             "id": "UExFRDREai1UNDNyTy1LMW41TWdvMlRmSXhwdF9zZmtCLS4yM0EyQ0U1M0I2RkIwNTQ0",
             "snippet": {
                 "publishedAt": "2024-09-28T06:21:12Z",
@@ -7772,6 +7772,261 @@
             "contentDetails": {
                 "videoId": "-_ov4MNNil8",
                 "videoPublishedAt": "2025-11-03T15:36:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "5UaLIHJz311Jy7IU1GvpyE7IsIg",
+            "id": "UExFRDREai1UNDNyTy1LMW41TWdvMlRmSXhwdF9zZmtCLS40NUU5MjUxOUU1MDRGQzM0",
+            "snippet": {
+                "publishedAt": "2026-05-15T11:12:32Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "الدر المصون (154) الجزء الأول من إعراب آية (28) {كيف تكفرون بالله وكنتم أمواتا}",
+                "description": "الدر المصون للسمين الحلبي تلميذ أبي حيان ـ من أحسن كتب الإعراب التي تعتني بالنحو، والصرف، والبلاغة، والشواهد، والقراءات وتوجيهها،والتفسير، وهذا الكتاب يعد موسوعة شاملة لما في كتب النحو والصرف لا سيما كتاب تسهيل الفوائد لابن مالك، وهذه الدورة تشرح هذا الكتاب شرحًا ممزوجًا بالتفسير وتحقيق الأقوال، واختيار أفضلها، مع تفصيل كل مسألة من أصلها، فعلى طالب العربية والتفسير، واللغة أن يعتني بهذه الدورة عناية خاصة لما له من فوائد جمة.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/hM-s_0PFaN8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/hM-s_0PFaN8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/hM-s_0PFaN8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/hM-s_0PFaN8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/hM-s_0PFaN8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO-K1n5Mgo2TfIxpt_sfkB-",
+                "position": 153,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "hM-s_0PFaN8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "hM-s_0PFaN8",
+                "videoPublishedAt": "2026-05-15T11:12:50Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "Nsi6O02iqhl1qARRMSd1Er4clso",
+            "id": "UExFRDREai1UNDNyTy1LMW41TWdvMlRmSXhwdF9zZmtCLS4yMzk0RjU2NDJBMzI5RDE2",
+            "snippet": {
+                "publishedAt": "2026-05-15T13:04:51Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "الدر المصون (155) الجزء الثاني من إعراب آية (28) {كيف تكفرون بالله وكنتم أمواتًا}",
+                "description": "الدر المصون للسمين الحلبي تلميذ أبي حيان ـ من أحسن كتب الإعراب التي تعتني بالنحو، والصرف، والبلاغة، والشواهد، والقراءات وتوجيهها،والتفسير، وهذا الكتاب يعد موسوعة شاملة لما في كتب النحو والصرف لا سيما كتاب تسهيل الفوائد لابن مالك، وهذه الدورة تشرح هذا الكتاب شرحًا ممزوجًا بالتفسير وتحقيق الأقوال، واختيار أفضلها، مع تفصيل كل مسألة من أصلها، فعلى طالب العربية والتفسير، واللغة أن يعتني بهذه الدورة عناية خاصة لما له من فوائد جمة.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Meykc0f2720/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Meykc0f2720/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Meykc0f2720/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Meykc0f2720/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Meykc0f2720/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO-K1n5Mgo2TfIxpt_sfkB-",
+                "position": 154,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Meykc0f2720"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Meykc0f2720",
+                "videoPublishedAt": "2026-05-15T13:06:25Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "CQ3vb5cQMmQqt7h3eu8_AmmZJes",
+            "id": "UExFRDREai1UNDNyTy1LMW41TWdvMlRmSXhwdF9zZmtCLS43MjE3M0ZBOUE4MjY1QTA1",
+            "snippet": {
+                "publishedAt": "2026-05-15T13:07:58Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "الدر المصون(156)الجزء الثالث من إعراب آية 28 {كيف تكفرون بالله وكنتم أمواتًا}",
+                "description": "الدر المصون للسمين الحلبي تلميذ أبي حيان ـ من أحسن كتب الإعراب التي تعتني بالنحو، والصرف، والبلاغة، والشواهد، والقراءات وتوجيهها،والتفسير، وهذا الكتاب يعد موسوعة شاملة لما في كتب النحو والصرف لا سيما كتاب تسهيل الفوائد لابن مالك، وهذه الدورة تشرح هذا الكتاب شرحًا ممزوجًا بالتفسير وتحقيق الأقوال، واختيار أفضلها، مع تفصيل كل مسألة من أصلها، فعلى طالب العربية والتفسير، واللغة أن يعتني بهذه الدورة عناية خاصة لما له من فوائد جمة.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HqwI4bjK8MQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HqwI4bjK8MQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HqwI4bjK8MQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/HqwI4bjK8MQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/HqwI4bjK8MQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO-K1n5Mgo2TfIxpt_sfkB-",
+                "position": 155,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "HqwI4bjK8MQ"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "HqwI4bjK8MQ",
+                "videoPublishedAt": "2026-05-15T13:08:34Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "0e-zjWscilU6bNqlv-J1rSoQozM",
+            "id": "UExFRDREai1UNDNyTy1LMW41TWdvMlRmSXhwdF9zZmtCLS5DQTIzMEQyQTJBNDA4ODdF",
+            "snippet": {
+                "publishedAt": "2026-05-16T20:21:54Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "الدر المصون (157) الجزء الرابع من إعراب آية 28 {كيف تكفرون بالله وكنتم أمواتًا}",
+                "description": "الدر المصون للسمين الحلبي تلميذ أبي حيان ـ من أحسن كتب الإعراب التي تعتني بالنحو، والصرف، والبلاغة، والشواهد، والقراءات وتوجيهها،والتفسير، وهذا الكتاب يعد موسوعة شاملة لما في كتب النحو والصرف لا سيما كتاب تسهيل الفوائد لابن مالك، وهذه الدورة تشرح هذا الكتاب شرحًا ممزوجًا بالتفسير وتحقيق الأقوال، واختيار أفضلها، مع تفصيل كل مسألة من أصلها، فعلى طالب العربية والتفسير، واللغة أن يعتني بهذه الدورة عناية خاصة لما له من فوائد جمة.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/esZZ-RAzVUI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/esZZ-RAzVUI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/esZZ-RAzVUI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/esZZ-RAzVUI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/esZZ-RAzVUI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO-K1n5Mgo2TfIxpt_sfkB-",
+                "position": 156,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "esZZ-RAzVUI"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "esZZ-RAzVUI",
+                "videoPublishedAt": "2026-05-16T20:23:33Z"
+            }
+        },
+        {
+            "kind": "youtube#playlistItem",
+            "etag": "NvvPljJg0BxJs2LxF59Xy6Ji7XU",
+            "id": "UExFRDREai1UNDNyTy1LMW41TWdvMlRmSXhwdF9zZmtCLS5ENjg2QjQ3OTVDOUE2QzYw",
+            "snippet": {
+                "publishedAt": "2026-05-18T11:05:13Z",
+                "channelId": "UC4hprJdeUpKFnViDsCAYN6g",
+                "title": "الدر المصون (158) الجزء الأول من إعراب آية 29 {هو الذي خلق لكم ما في الأرض جميعًا}",
+                "description": "الدر المصون للسمين الحلبي تلميذ أبي حيان ـ من أحسن كتب الإعراب التي تعتني بالنحو، والصرف، والبلاغة، والشواهد، والقراءات وتوجيهها،والتفسير، وهذا الكتاب يعد موسوعة شاملة لما في كتب النحو والصرف لا سيما كتاب تسهيل الفوائد لابن مالك، وهذه الدورة تشرح هذا الكتاب شرحًا ممزوجًا بالتفسير وتحقيق الأقوال، واختيار أفضلها، مع تفصيل كل مسألة من أصلها، فعلى طالب العربية والتفسير، واللغة أن يعتني بهذه الدورة عناية خاصة لما له من فوائد جمة.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y7x5WgNQ1h8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y7x5WgNQ1h8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y7x5WgNQ1h8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Y7x5WgNQ1h8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Y7x5WgNQ1h8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "علي هاني العقرباوي",
+                "playlistId": "PLED4Dj-T43rO-K1n5Mgo2TfIxpt_sfkB-",
+                "position": 157,
+                "resourceId": {
+                    "kind": "youtube#video",
+                    "videoId": "Y7x5WgNQ1h8"
+                },
+                "videoOwnerChannelTitle": "علي هاني العقرباوي",
+                "videoOwnerChannelId": "UC4hprJdeUpKFnViDsCAYN6g"
+            },
+            "contentDetails": {
+                "videoId": "Y7x5WgNQ1h8",
+                "videoPublishedAt": "2026-05-18T11:06:42Z"
             }
         }
     ],
