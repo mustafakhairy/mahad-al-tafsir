@@ -2,7 +2,7 @@
     "items": [
         {
             "kind": "youtube#playlistItem",
-            "etag": "_jnhyPByblbX7zYrfp9nHi73w5M",
+            "etag": "2jw4rTe5yUBlXAt5Zj5I_QNApok",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
                 "publishedAt": "2020-12-14T15:47:08Z",
@@ -48,7 +48,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "eeBX6JyIB2Z-Z43HzLq14tS9y4c",
+            "etag": "pHK63_n4tbd2Nf-irPpSdyaoX1s",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
                 "publishedAt": "2020-12-14T15:48:37Z",
@@ -140,7 +140,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "yfhzimy8zvyf0pQ0A5J99Er-QqY",
+            "etag": "vhELxlw3D9y8tY9zluVVLJhZgkM",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
                 "publishedAt": "2020-12-14T15:49:38Z",
@@ -186,7 +186,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "IDhtLpk7xi2mqzZZ9-Fw8dmtkAk",
+            "etag": "3AQk7fjLFk5HUdojlmRZIEXeOdk",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
                 "publishedAt": "2020-12-14T15:50:48Z",
@@ -278,7 +278,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "-WdAESa7hgRFxO3dGHAXoBuIMmU",
+            "etag": "WhywwFeJz8zz1WLdvjB4aH_CBRc",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
                 "publishedAt": "2020-12-14T15:54:37Z",
@@ -462,7 +462,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "acwTw3e9HkJFYk6zpedkilkZJpk",
+            "etag": "-XWjh7MqoBES8QIyYHc8kJK-dgA",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
                 "publishedAt": "2020-12-14T15:56:54Z",
@@ -600,7 +600,7 @@
         },
         {
             "kind": "youtube#playlistItem",
-            "etag": "JpTrLfSpNzoj6V1JjXVCktSRaQc",
+            "etag": "mxwBwd7spv6XOeWdbRiX0R2EQ-U",
             "id": "UExFRDREai1UNDNyUDhNUUVZZWtZSFNSRDIyRm1RNTRLUy40NzZCMERDMjVEN0RFRThB",
             "snippet": {
                 "publishedAt": "2020-12-14T15:59:52Z",
